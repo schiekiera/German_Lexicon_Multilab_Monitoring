@@ -19,7 +19,7 @@ The following table is updated automatically every 10 minutes using GitHub Actio
 | fu | 0 |
 | goettingen | 0 |
 | hildesheim | 0 |
-| hu | 3 |
+| hu | 1 |
 | ipn | 0 |
 | ipu | 0 |
 | iu | 0 |
@@ -34,11 +34,11 @@ The following table is updated automatically every 10 minutes using GitHub Actio
 | twente | 0 |
 | wuppertal | 0 |
 
-**Total data files across all sites:** 3
+**Total data files across all sites:** 1
 
 **Overall progress (Target: 1440 files):**
 
-[░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 3 / 1440 (0.2%)
+[░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 1 / 1440 (0.1%)
 
 <!-- END_DEMO_TABLE -->
 
