@@ -11,6 +11,7 @@ The following table is updated automatically every 10 minutes using GitHub Actio
 
 | uni | n_demo_files |
 |-----|---------------|
+| hu | 1 |
 | aachen | 0 |
 | bamberg | 0 |
 | darmstadt | 0 |
@@ -19,7 +20,6 @@ The following table is updated automatically every 10 minutes using GitHub Actio
 | fu | 0 |
 | goettingen | 0 |
 | hildesheim | 0 |
-| hu | 1 |
 | ipn | 0 |
 | ipu | 0 |
 | iu | 0 |
