@@ -56,7 +56,7 @@ def count_demo_files(files):
 def write_latest_csv(rows):
     """Schreibt demo_counts_latest.csv (aktuelle Übersicht)."""
     with LATEST_CSV_PATH.open("w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=["uni", "n_demo_files"])
+        writer = csv.DictWriter(f, fieldnames=["uni", "n_participants"])
         writer.writeheader()
         writer.writerows(rows)
 
@@ -67,26 +67,26 @@ def append_history_csv(rows, timestamp):
     with HISTORY_CSV_PATH.open("a", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         if new_file:
-            writer.writerow(["timestamp", "uni", "n_demo_files"])
+            writer.writerow(["timestamp", "uni", "n_participants"])
         for r in rows:
-            writer.writerow([timestamp, r["uni"], r["n_demo_files"]])
+            writer.writerow([timestamp, r["uni"], r["n_participants"]])
 
 
 def make_markdown_table(rows):
     """Erzeugt eine Markdown-Tabelle aus den Rows.
 
     Sortierung:
-    - zuerst nach n_demo_files (absteigend)
+    - zuerst nach n_participants (absteigend)
     - dann alphabetisch nach uni (aufsteigend)
     """
     rows_sorted = sorted(
         rows,
-        key=lambda r: (-r["n_demo_files"], r["uni"])
+        key=lambda r: (-r["n_participants"], r["uni"])
     )
 
-    header = "| uni | n_demo_files |\n|-----|---------------|\n"
+    header = "| uni | n_participants |\n|-----|---------------|\n"
     body_lines = [
-        f"| {r['uni']} | {r['n_demo_files']} |"
+        f"| {r['uni']} | {r['n_participants']} |"
         for r in rows_sorted
     ]
     return header + "\n".join(body_lines) + "\n"
@@ -115,7 +115,7 @@ def make_readme_section(rows, target_total=TARGET_TOTAL_DEMO):
     - Gesamtsumme aller DEMO-Dateien
     - Gesamter Fortschritt als Fortschrittsbalken
     """
-    total_current = sum(r["n_demo_files"] for r in rows)
+    total_current = sum(r["n_participants"] for r in rows)
     table_md = make_markdown_table(rows).rstrip()
     progress_bar = make_progress_bar(total_current, target_total)
 
@@ -187,7 +187,7 @@ def main():
     for uni in unis:
         files = list_files_for_uni(uni)
         n_demo = count_demo_files(files)
-        rows.append({"uni": uni, "n_demo_files": n_demo})
+        rows.append({"uni": uni, "n_participants": n_demo})
 
     # CSVs
     write_latest_csv(rows)
