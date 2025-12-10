@@ -25,8 +25,14 @@ def clean_uni_label(uni_key):
     """
     label = uni_key.replace("_", " ").strip()
 
+    label = label.replace("ue", "ü").strip()
+    label = label.replace("ae", "ä").strip()
+    label = label.replace("oe", "ö").strip()
+
     if len(label) <= 3:
         return label.upper()
+    
+    
 
     # Title case for longer words
     return label.title()
