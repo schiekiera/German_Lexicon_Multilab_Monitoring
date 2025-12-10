@@ -1,24 +1,24 @@
-| uni | n_participants |
-|-----|---------------|
-| hu | 1 |
-| aachen | 0 |
-| bamberg | 0 |
-| darmstadt | 0 |
-| dresden | 0 |
-| erfurt | 0 |
-| fu | 0 |
-| goettingen | 0 |
-| hildesheim | 0 |
-| ipn | 0 |
-| ipu | 0 |
-| iu | 0 |
-| leipzig | 0 |
-| lueneburg | 0 |
-| mannheim_kognitive_psychologie | 0 |
-| marburg | 0 |
-| muenster | 0 |
-| pavia | 0 |
-| potsdam | 0 |
-| tuebingen | 0 |
-| twente | 0 |
-| wuppertal | 0 |
+| Lab | *n* (Participants) |
+|-----|----------------------|
+| HU | 1 |
+| Aachen | 0 |
+| Bamberg | 0 |
+| Darmstadt | 0 |
+| Dresden | 0 |
+| Erfurt | 0 |
+| FU | 0 |
+| Goettingen | 0 |
+| Hildesheim | 0 |
+| IPN | 0 |
+| IPU | 0 |
+| IU | 0 |
+| Leipzig | 0 |
+| Lueneburg | 0 |
+| Mannheim Kognitive Psychologie | 0 |
+| Marburg | 0 |
+| Muenster | 0 |
+| Pavia | 0 |
+| Potsdam | 0 |
+| Tuebingen | 0 |
+| Twente | 0 |
+| Wuppertal | 0 |
