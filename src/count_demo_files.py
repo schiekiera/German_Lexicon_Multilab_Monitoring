@@ -73,9 +73,16 @@ def append_history_csv(rows, timestamp):
 
 
 def make_markdown_table(rows):
-    """Erzeugt eine Markdown-Tabelle aus den Rows."""
-    # Optional: nach Uni sortieren
-    rows_sorted = sorted(rows, key=lambda r: r["uni"])
+    """Erzeugt eine Markdown-Tabelle aus den Rows.
+
+    Sortierung:
+    - zuerst nach n_demo_files (absteigend)
+    - dann alphabetisch nach uni (aufsteigend)
+    """
+    rows_sorted = sorted(
+        rows,
+        key=lambda r: (-r["n_demo_files"], r["uni"])
+    )
 
     header = "| uni | n_demo_files |\n|-----|---------------|\n"
     body_lines = [
