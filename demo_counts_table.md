@@ -1,4 +1,4 @@
-| uni | n_demo_files |
+| uni | n_participants |
 |-----|---------------|
 | hu | 1 |
 | aachen | 0 |

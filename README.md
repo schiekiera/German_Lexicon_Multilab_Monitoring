@@ -8,7 +8,7 @@ The following table is updated automatically every 10 minutes using GitHub Actio
 
 <!-- START_DEMO_TABLE -->
 
-| uni | n_demo_files |
+| uni | n_participants |
 |-----|---------------|
 | hu | 1 |
 | aachen | 0 |
