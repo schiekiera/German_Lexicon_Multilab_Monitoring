@@ -1,0 +1,24 @@
+| uni | n_demo_files |
+|-----|---------------|
+| aachen | 0 |
+| bamberg | 0 |
+| darmstadt | 0 |
+| dresden | 0 |
+| erfurt | 0 |
+| fu | 0 |
+| goettingen | 0 |
+| hildesheim | 0 |
+| hu | 1 |
+| ipn | 0 |
+| ipu | 0 |
+| iu | 0 |
+| leipzig | 0 |
+| lueneburg | 0 |
+| mannheim_kognitive_psychologie | 0 |
+| marburg | 0 |
+| muenster | 0 |
+| pavia | 0 |
+| potsdam | 0 |
+| tuebingen | 0 |
+| twente | 0 |
+| wuppertal | 0 |
