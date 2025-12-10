@@ -5,6 +5,7 @@ from pathlib import Path
 
 BASE_URL = "https://amor.cms.hu-berlin.de/~petrenal/GermanLexiconProject/jspsych.8.2.1/data_collection_progress/"
 MAPPING_URL = "https://raw.githubusercontent.com/petrenca/German_Lexicon_Project/refs/heads/main/consent_forms/combined_mapping.json"
+TARGET_TOTAL_DEMO = 1440  # Gesamtziel für DEMO-Dateien
 
 README_PATH = Path("README.md")
 LATEST_CSV_PATH = Path("demo_counts_latest.csv")
@@ -84,12 +85,52 @@ def make_markdown_table(rows):
     return header + "\n".join(body_lines) + "\n"
 
 
+def make_progress_bar(current, total, bar_length=30):
+    """
+    Erzeugt eine einfache Text-Fortschrittsleiste für Markdown.
+
+    Beispiel:
+    [██████████░░░░░░░░░░░░░░] 300 / 1440 (20.8%)
+    """
+    if total <= 0:
+        return ""
+    ratio = max(0.0, min(float(current) / float(total), 1.0))
+    filled_len = int(round(bar_length * ratio))
+    bar = "█" * filled_len + "░" * (bar_length - filled_len)
+    percent = ratio * 100
+    return f"[{bar}] {current} / {total} ({percent:.1f}%)"
+
+
+def make_readme_section(rows, target_total=TARGET_TOTAL_DEMO):
+    """
+    Baut den Markdown-Block für die README:
+    - Tabelle pro Uni
+    - Gesamtsumme aller DEMO-Dateien
+    - Gesamter Fortschritt als Fortschrittsbalken
+    """
+    total_current = sum(r["n_demo_files"] for r in rows)
+    table_md = make_markdown_table(rows).rstrip()
+    progress_bar = make_progress_bar(total_current, target_total)
+
+    parts = [
+        table_md,
+        "",
+        f"**Total data files across all sites:** {total_current}",
+        "",
+        f"**Overall progress (Target: {target_total} files):**",
+        "",
+        progress_bar,
+        "",
+    ]
+    return "\n".join(parts)
+
+
 def write_table_md(table_md):
     """Schreibt die Tabelle in eine eigene Markdown-Datei."""
     TABLE_MD_PATH.write_text(table_md, encoding="utf-8")
 
 
-def update_readme(table_md):
+def update_readme(content_md):
     """
     Aktualisiert README.md:
     - Wenn README.md existiert und Marker vorhanden sind, ersetze den Block dazwischen.
@@ -104,7 +145,7 @@ def update_readme(table_md):
             _, after = rest.split(MARKER_END, 1)
             new_block = (
                 f"{MARKER_START}\n\n"
-                f"{table_md}\n"
+                f"{content_md}\n"
                 f"{MARKER_END}"
             )
             new_text = before.rstrip() + "\n\n" + new_block + "\n\n" + after.lstrip()
@@ -113,7 +154,7 @@ def update_readme(table_md):
             new_block = (
                 "\n\n## Aktueller Stand der DEMO-Datensätze\n\n"
                 f"{MARKER_START}\n\n"
-                f"{table_md}\n"
+                f"{content_md}\n"
                 f"{MARKER_END}\n"
             )
             new_text = text.rstrip() + new_block
@@ -125,7 +166,7 @@ def update_readme(table_md):
             "Dieses Repository trackt automatisiert die Anzahl an DEMO-Datensätzen pro Universität.\n\n"
             "## Aktueller Stand der DEMO-Datensätze\n\n"
             f"{MARKER_START}\n\n"
-            f"{table_md}\n"
+            f"{content_md}\n"
             f"{MARKER_END}\n"
         )
         README_PATH.write_text(new_text, encoding="utf-8")
@@ -149,8 +190,9 @@ def main():
     table_md = make_markdown_table(rows)
     write_table_md(table_md)
 
-    # README aktualisieren
-    update_readme(table_md)
+    # README-Inhalt (Tabelle + Gesamtsumme + Fortschrittsbalken) erzeugen
+    readme_section_md = make_readme_section(rows, TARGET_TOTAL_DEMO)
+    update_readme(readme_section_md)
 
 
 if __name__ == "__main__":

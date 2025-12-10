@@ -34,5 +34,11 @@ The following table is updated automatically by the monitoring script (`src/coun
 | twente | 0 |
 | wuppertal | 0 |
 
+**Total data files across all sites:** 1
+
+**Overall progress (Target: 1440 files):**
+
+[░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 1 / 1440 (0.1%)
+
 <!-- END_DEMO_TABLE -->
 
