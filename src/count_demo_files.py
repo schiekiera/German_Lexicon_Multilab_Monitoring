@@ -16,6 +16,21 @@ MARKER_START = "<!-- START_DEMO_TABLE -->"
 MARKER_END = "<!-- END_DEMO_TABLE -->"
 
 
+def clean_uni_label(uni_key):
+    """
+    Cosmetic transformation for display:
+    - replace '_' with ' '
+    - Title Case for names > 3 letters
+    - ALL CAPS for 2–3 letter codes
+    """
+    label = uni_key.replace("_", " ").strip()
+
+    if len(label) <= 3:
+        return label.upper()
+
+    # Title case for longer words
+    return label.title()
+
 def get_unis():
     """Lädt combined_mapping.json und gibt alle Keys außer 'default' zurück."""
     resp = requests.get(MAPPING_URL)
@@ -84,7 +99,7 @@ def make_markdown_table(rows):
         key=lambda r: (-r["n_participants"], r["uni"])
     )
 
-    header = "| uni | n_participants |\n|-----|---------------|\n"
+    header = "| Lab | *n* (Participants) |\n|-----|----------------------|\n"
     body_lines = [
         f"| {r['uni']} | {r['n_participants']} |"
         for r in rows_sorted
@@ -122,9 +137,9 @@ def make_readme_section(rows, target_total=TARGET_TOTAL_DEMO):
     parts = [
         table_md,
         "",
-        f"**Total data files across all sites:** {total_current}",
+        f"**Total data files saved across all labs:** {total_current}",
         "",
-        f"**Overall progress (Target: {target_total} files):**",
+        f"**Overall progress (Target: {target_total} participants):**",
         "",
         progress_bar,
         "",
@@ -187,7 +202,7 @@ def main():
     for uni in unis:
         files = list_files_for_uni(uni)
         n_demo = count_demo_files(files)
-        rows.append({"uni": uni, "n_participants": n_demo})
+        rows.append({"uni": clean_uni_label(uni), "n_participants": n_demo})
 
     # CSVs
     write_latest_csv(rows)
