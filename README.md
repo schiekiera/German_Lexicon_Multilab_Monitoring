@@ -5,7 +5,7 @@ Data are tracked by reading directory listings on the HU Berlin server.
 
 ## Automated output
 
-The following table is updated automatically by the monitoring script (`src/count_demo_files.py`).
+The following table is updated automatically every 10 minutes using GitHub Actions.
 
 <!-- START_DEMO_TABLE -->
 
