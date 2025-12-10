@@ -8,7 +8,7 @@
 | fu | 0 |
 | goettingen | 0 |
 | hildesheim | 0 |
-| hu | 1 |
+| hu | 2 |
 | ipn | 0 |
 | ipu | 0 |
 | iu | 0 |

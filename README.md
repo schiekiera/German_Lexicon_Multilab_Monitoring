@@ -19,7 +19,7 @@ The following table is updated automatically by the monitoring script (`src/coun
 | fu | 0 |
 | goettingen | 0 |
 | hildesheim | 0 |
-| hu | 1 |
+| hu | 2 |
 | ipn | 0 |
 | ipu | 0 |
 | iu | 0 |
@@ -34,11 +34,11 @@ The following table is updated automatically by the monitoring script (`src/coun
 | twente | 0 |
 | wuppertal | 0 |
 
-**Total data files across all sites:** 1
+**Total data files across all sites:** 2
 
 **Overall progress (Target: 1440 files):**
 
-[░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 1 / 1440 (0.1%)
+[░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2 / 1440 (0.1%)
 
 <!-- END_DEMO_TABLE -->
 
