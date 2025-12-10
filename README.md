@@ -1,7 +1,6 @@
 # German Lexicon Multilab Monitoring
 
-This repository monitors the number of datasets collected across all participating labs in the German Lexicon Project.  
-Data are tracked by reading directory listings on the HU Berlin server.
+This repository monitors the number of datasets collected across all participating labs in the German Lexicon Project. Data are tracked by reading directory listings on the HU Berlin server.
 
 ## Automated output
 
