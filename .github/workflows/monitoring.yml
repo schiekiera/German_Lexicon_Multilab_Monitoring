@@ -1,0 +1,44 @@
+name: Update demo file counts
+
+on:
+  schedule:
+  - cron: "*/10 * * * *"
+  workflow_dispatch:      # manuelles Triggern möglich
+
+jobs:
+  update-counts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run counting script
+        run: |
+          python src/count_demo_files.py
+
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Prüfen, ob sich etwas geändert hat
+          if [ -n "$(git status --porcelain)" ]; then
+            git add demo_counts_latest.csv demo_counts_history.csv || true
+            # ggf. weitere Dateien wie Plots hinzufügen
+            git commit -m "Update demo file counts [skip ci]" || exit 0
+            git push origin HEAD:main
+          else
+            echo "No changes to commit"
+          fi
