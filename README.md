@@ -11,6 +11,7 @@ The following table is updated automatically every 10 minutes using GitHub Actio
 | Lab | *n* (Participants) |
 |-----|----------------------|
 | HU | 2 |
+| Marburg | 1 |
 | Aachen | 0 |
 | Bamberg | 0 |
 | Darmstadt | 0 |
@@ -25,7 +26,6 @@ The following table is updated automatically every 10 minutes using GitHub Actio
 | Leipzig | 0 |
 | Lüneburg | 0 |
 | Mannheim Kognitive Psychologie | 0 |
-| Marburg | 0 |
 | Münster | 0 |
 | Pavia | 0 |
 | Potsdam | 0 |
@@ -33,11 +33,11 @@ The following table is updated automatically every 10 minutes using GitHub Actio
 | Tübingen | 0 |
 | Wuppertal | 0 |
 
-**Total data files saved across all labs:** 2
+**Total data files saved across all labs:** 3
 
 **Overall progress (Target: 1440 participants):**
 
-[░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 2 / 1440 (0.1%)
+[░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 3 / 1440 (0.2%)
 
 <!-- END_DEMO_TABLE -->
 

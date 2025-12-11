@@ -1,6 +1,7 @@
 | Lab | *n* (Participants) |
 |-----|----------------------|
 | HU | 2 |
+| Marburg | 1 |
 | Aachen | 0 |
 | Bamberg | 0 |
 | Darmstadt | 0 |
@@ -15,7 +16,6 @@
 | Leipzig | 0 |
 | Lüneburg | 0 |
 | Mannheim Kognitive Psychologie | 0 |
-| Marburg | 0 |
 | Münster | 0 |
 | Pavia | 0 |
 | Potsdam | 0 |
