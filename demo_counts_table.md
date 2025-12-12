@@ -1,9 +1,9 @@
 | Lab | *n* (Participants) |
 |-----|----------------------|
 | HU | 5 |
+| Darmstadt | 4 |
+| Aachen | 3 |
 | Bamberg | 3 |
-| Darmstadt | 3 |
-| Aachen | 2 |
 | Dresden | 1 |
 | Erfurt | 0 |
 | FU | 0 |
