@@ -2,7 +2,7 @@
 |-----|----------------------|
 | HU | 5 |
 | Bamberg | 3 |
-| Darmstadt | 2 |
+| Darmstadt | 3 |
 | Aachen | 1 |
 | Dresden | 1 |
 | Erfurt | 0 |
