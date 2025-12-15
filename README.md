@@ -10,7 +10,7 @@ The following table is updated automatically every 10 minutes using GitHub Actio
 
 | Lab | *n* (Participants) |
 |-----|----------------------|
-| Darmstadt | 25 |
+| Darmstadt | 26 |
 | HU | 12 |
 | Aachen | 7 |
 | Bamberg | 7 |
@@ -33,11 +33,11 @@ The following table is updated automatically every 10 minutes using GitHub Actio
 | Tübingen | 0 |
 | Wuppertal | 0 |
 
-**Total data files saved across all labs:** 52
+**Total data files saved across all labs:** 53
 
 **Overall progress (Target: 1440 participants):**
 
-[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 52 / 1440 (3.6%)
+[█░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 53 / 1440 (3.7%)
 
 <!-- END_DEMO_TABLE -->
 
