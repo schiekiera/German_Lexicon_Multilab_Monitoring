@@ -1,10 +1,11 @@
 | Lab | *n* (Participants) |
 |-----|----------------------|
 | Darmstadt | 28 |
-| HU | 13 |
+| HU | 14 |
 | Aachen | 12 |
 | Bamberg | 10 |
 | Dresden | 1 |
+| Wuppertal | 1 |
 | Erfurt | 0 |
 | FU | 0 |
 | Göttingen | 0 |
@@ -21,4 +22,3 @@
 | Potsdam | 0 |
 | Twente | 0 |
 | Tübingen | 0 |
-| Wuppertal | 0 |
