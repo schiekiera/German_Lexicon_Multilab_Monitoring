@@ -4,7 +4,7 @@
 | HU | 15 |
 | Aachen | 14 |
 | Bamberg | 11 |
-| Wuppertal | 6 |
+| Wuppertal | 7 |
 | Dresden | 2 |
 | Erfurt | 0 |
 | FU | 0 |
