@@ -6,8 +6,11 @@
 | Bamberg | 13 |
 | Wuppertal | 9 |
 | Dresden | 4 |
+| Twente | 1 |
 | Erfurt | 0 |
 | FU | 0 |
+| Frankfurt Prolific | 0 |
+| Frankfurt Sona | 0 |
 | Göttingen | 0 |
 | Hildesheim | 0 |
 | IPN | 0 |
@@ -20,5 +23,4 @@
 | Münster | 0 |
 | Pavia | 0 |
 | Potsdam | 0 |
-| Twente | 0 |
 | Tübingen | 0 |
