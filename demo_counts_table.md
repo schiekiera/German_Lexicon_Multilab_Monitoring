@@ -2,7 +2,7 @@
 |-----|----------------------|
 | Darmstadt | 33 |
 | HU | 24 |
-| Aachen | 22 |
+| Aachen | 23 |
 | Bamberg | 13 |
 | Wuppertal | 11 |
 | Dresden | 4 |
