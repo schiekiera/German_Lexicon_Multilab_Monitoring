@@ -6,7 +6,7 @@
 | Bamberg | 13 |
 | Wuppertal | 13 |
 | Dresden | 7 |
-| Twente | 2 |
+| Twente | 3 |
 | Erfurt | 0 |
 | FU | 0 |
 | Frankfurt Prolific | 0 |
