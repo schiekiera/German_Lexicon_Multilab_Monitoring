@@ -5,7 +5,7 @@
 | HU | 32 |
 | Wuppertal | 15 |
 | Bamberg | 13 |
-| Dresden | 7 |
+| Dresden | 8 |
 | Twente | 4 |
 | Erfurt | 0 |
 | FU | 0 |
