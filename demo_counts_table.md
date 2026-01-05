@@ -1,8 +1,8 @@
 | Lab | *n* (Participants) |
 |-----|----------------------|
 | HU | 52 |
+| Darmstadt | 47 |
 | Aachen | 46 |
-| Darmstadt | 46 |
 | Wuppertal | 20 |
 | Bamberg | 15 |
 | Dresden | 12 |
