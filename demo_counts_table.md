@@ -3,10 +3,10 @@
 | HU | 52 |
 | Darmstadt | 48 |
 | Aachen | 46 |
-| Wuppertal | 21 |
+| Wuppertal | 22 |
 | Bamberg | 15 |
 | Dresden | 12 |
-| Twente | 6 |
+| Twente | 7 |
 | Erfurt | 0 |
 | FU | 0 |
 | Frankfurt Prolific | 0 |
