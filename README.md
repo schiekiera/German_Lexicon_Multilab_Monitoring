@@ -41,5 +41,7 @@ The following table is updated automatically every 10 minutes using GitHub Actio
 
 [████░░░░░░░░░░░░░░░░░░░░░░░░░░] 207 / 1440 (14.4%)
 
+![Data collection progress per lab over time](plots/data_collection_progress.png)
+
 <!-- END_DEMO_TABLE -->
 
