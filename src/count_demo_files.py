@@ -250,6 +250,57 @@ def create_progress_plot():
     plt.close()
 
 
+def compact_history_csv():
+    """
+    Komprimiert demo_counts_history.csv, indem pro (Tag, Labor)
+    nur der Eintrag mit dem neuesten Zeitstempel erhalten bleibt.
+
+    Das hält die Datei klein, ohne die tägliche Verlaufinformation
+    zu verlieren. Format und Spalten bleiben unverändert.
+    """
+    if not HISTORY_CSV_PATH.exists():
+        return
+
+    with HISTORY_CSV_PATH.open("r", newline="", encoding="utf-8") as f:
+        reader = csv.reader(f)
+        header = next(reader, None)
+        if header is None:
+            return
+
+        # key: (uni, date) -> (timestamp_datetime, original_row)
+        best_per_day = {}
+
+        for row in reader:
+            if len(row) < 3:
+                continue
+            ts_str, uni, count_str = row[0], row[1], row[2]
+            try:
+                ts = datetime.strptime(ts_str, "%Y-%m-%dT%H-%M-%SZ")
+            except ValueError:
+                # Fallback für ggf. anderes Format
+                try:
+                    ts = datetime.fromisoformat(ts_str.replace("Z", "+00:00"))
+                except Exception:
+                    continue
+
+            key = (uni, ts.date())
+            current_best = best_per_day.get(key)
+            if current_best is None or ts > current_best[0]:
+                best_per_day[key] = (ts, [ts_str, uni, count_str])
+
+    if not best_per_day:
+        return
+
+    # Sortiert nach Datum/Zeit, damit die Datei weiterhin chronologisch ist
+    compacted_rows = sorted(best_per_day.values(), key=lambda x: x[0])
+
+    with HISTORY_CSV_PATH.open("w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(header)
+        for _ts, row in compacted_rows:
+            writer.writerow(row)
+
+
 def write_table_md(table_md):
     """Schreibt die Tabelle in eine eigene Markdown-Datei."""
     TABLE_MD_PATH.write_text(table_md, encoding="utf-8")
@@ -310,6 +361,9 @@ def main():
     # CSVs
     write_latest_csv(rows)
     append_history_csv(rows, timestamp)
+
+    # Verlaufshistorie komprimieren (pro Tag/Lab nur letzter Stand)
+    compact_history_csv()
 
     # Markdown-Tabelle erzeugen
     table_md = make_markdown_table(rows)
