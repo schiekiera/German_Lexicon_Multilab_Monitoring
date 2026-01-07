@@ -4,7 +4,7 @@ This repository monitors the number of datasets collected across all participati
 
 ## Automated output
 
-The following table is updated automatically every 10 minutes using GitHub Actions.
+The following output is updated automatically every 10 minutes using GitHub Actions.
 
 <!-- START_DEMO_TABLE -->
 

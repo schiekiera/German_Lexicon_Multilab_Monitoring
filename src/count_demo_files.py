@@ -146,7 +146,7 @@ def make_readme_section(rows, target_total=TARGET_TOTAL_DEMO):
     progress_bar = make_progress_bar(total_current, target_total)
 
     parts = [
-        table_md,
+        "### Overall progress",
         "",
         f"**Total data files saved across all labs:** {total_current}",
         "",
@@ -154,16 +154,15 @@ def make_readme_section(rows, target_total=TARGET_TOTAL_DEMO):
         "",
         progress_bar,
         "",
+        "### Table: Progress per lab",
+        "",
+        table_md,
+        "",
+        "### Plot: Progress per lab over time",
+        "",
+        "![Data collection progress per lab over time](plots/data_collection_progress.png)",
+        "",
     ]
-
-    # Optional: line plot of progress per lab over time (if PNG has been generated)
-    if PROGRESS_PLOT_PATH.exists():
-        parts.extend(
-            [
-                "![Data collection progress per lab over time](plots/data_collection_progress.png)",
-                "",
-            ]
-        )
 
     return "\n".join(parts)
 
