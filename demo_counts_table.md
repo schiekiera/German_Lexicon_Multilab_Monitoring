@@ -5,7 +5,7 @@
 | Aachen | 47 |
 | Wuppertal | 22 |
 | Bamberg | 16 |
-| Dresden | 12 |
+| Dresden | 14 |
 | Twente | 7 |
 | Erfurt | 0 |
 | FU | 0 |
