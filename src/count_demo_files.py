@@ -241,7 +241,6 @@ def create_progress_plot():
 
     plt.xlabel("Date")
     plt.ylabel("Number of participants")
-    plt.title("Data collection progress per lab over time")
     plt.grid(True, alpha=0.3)
     plt.gcf().autofmt_xdate()
     plt.legend(title="Lab", fontsize="small", bbox_to_anchor=(1.02, 1), loc="upper left")
