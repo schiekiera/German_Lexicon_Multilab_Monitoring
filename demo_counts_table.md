@@ -8,7 +8,7 @@
 | Dresden | 14 |
 | Twente | 7 |
 | Münster | 3 |
-| Marburg | 1 |
+| Marburg | 2 |
 | Erfurt | 0 |
 | FU | 0 |
 | Frankfurt Prolific | 0 |
