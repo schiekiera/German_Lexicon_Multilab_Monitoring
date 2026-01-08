@@ -5,8 +5,8 @@
 | Aachen | 47 |
 | Wuppertal | 23 |
 | Bamberg | 16 |
+| Marburg | 15 |
 | Dresden | 14 |
-| Marburg | 14 |
 | Twente | 7 |
 | Münster | 3 |
 | Erfurt | 0 |
