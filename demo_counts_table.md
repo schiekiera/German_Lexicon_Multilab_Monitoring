@@ -7,7 +7,7 @@
 | Bamberg | 16 |
 | Dresden | 14 |
 | Twente | 7 |
-| Marburg | 3 |
+| Marburg | 4 |
 | Münster | 3 |
 | Erfurt | 0 |
 | FU | 0 |
