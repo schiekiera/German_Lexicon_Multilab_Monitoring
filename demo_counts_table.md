@@ -8,6 +8,7 @@
 | Dresden | 14 |
 | Twente | 7 |
 | Münster | 3 |
+| Marburg | 1 |
 | Erfurt | 0 |
 | FU | 0 |
 | Frankfurt Prolific | 0 |
@@ -20,7 +21,6 @@
 | Leipzig | 0 |
 | Lüneburg | 0 |
 | Mannheim Kognitive Psychologie | 0 |
-| Marburg | 0 |
 | Pavia | 0 |
 | Potsdam | 0 |
 | Tübingen | 0 |
