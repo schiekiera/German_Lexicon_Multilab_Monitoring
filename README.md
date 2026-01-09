@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 262
+**Total data files saved across all labs:** 263
 
 **Overall progress (Target: 1440 participants):**
 
-[█████░░░░░░░░░░░░░░░░░░░░░░░░░] 262 / 1440 (18.2%)
+[█████░░░░░░░░░░░░░░░░░░░░░░░░░] 263 / 1440 (18.3%)
 
 ### Table: Progress per lab
 
@@ -28,7 +28,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Bamberg | 16 |
 | Dresden | 15 |
 | Twente | 8 |
-| Münster | 3 |
+| Münster | 4 |
 | Erfurt | 0 |
 | FU | 0 |
 | Frankfurt Prolific | 0 |
