@@ -35,7 +35,7 @@ jobs:
 
           # Prüfen, ob sich etwas geändert hat
           if [ -n "$(git status --porcelain)" ]; then
-            git add demo_counts_latest.csv demo_counts_history.csv demo_counts_table.md README.md || true
+            git add .
             git commit -m "Update demo file counts [skip ci]" || exit 0
             git push
           else
