@@ -49,5 +49,9 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ![Data collection progress per lab over time](plots/data_collection_progress.png)
 
+### Plot: Overall progress over time
+
+![Overall data collection progress over time](plots/overall_progress.png)
+
 <!-- END_DEMO_TABLE -->
 

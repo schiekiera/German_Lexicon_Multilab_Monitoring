@@ -18,6 +18,7 @@ HISTORY_CSV_PATH = Path("demo_counts_history.csv")
 TABLE_MD_PATH = Path("demo_counts_table.md")
 PLOTS_DIR = Path("plots")
 PROGRESS_PLOT_PATH = PLOTS_DIR / "data_collection_progress.png"
+OVERALL_PLOT_PATH = PLOTS_DIR / "overall_progress.png"
 
 MARKER_START = "<!-- START_DEMO_TABLE -->"
 MARKER_END = "<!-- END_DEMO_TABLE -->"
@@ -164,6 +165,10 @@ def make_readme_section(rows, target_total=TARGET_TOTAL_DEMO):
         "",
         "![Data collection progress per lab over time](plots/data_collection_progress.png)",
         "",
+        "### Plot: Overall progress over time",
+        "",
+        "![Overall data collection progress over time](plots/overall_progress.png)",
+        "",
     ]
 
     return "\n".join(parts)
@@ -191,7 +196,7 @@ def create_progress_plot():
     records = []
     with HISTORY_CSV_PATH.open("r", newline="", encoding="utf-8") as f:
         reader = csv.reader(f)
-        header = next(reader, None)  # Überschriftenzeile überspringen
+        next(reader, None)  # Überschriftenzeile überspringen
         for row in reader:
             if len(row) < 3:
                 continue
@@ -249,6 +254,40 @@ def create_progress_plot():
     plt.tight_layout()
 
     plt.savefig(PROGRESS_PLOT_PATH, dpi=300)
+    plt.close()
+
+    # --- Zweiter Plot: Gesamtfortschritt ---
+    # Wir berechnen die Tagessumme über alle aktiven Labs
+    all_dates = sorted({d for lab_data in per_lab_daily.values() for d in lab_data.keys()})
+    total_daily = {}
+    
+    for d in all_dates:
+        day_total = 0
+        for uni in active_labs:
+            # Suche den neuesten Stand für diese Uni an oder vor diesem Tag
+            lab_history = per_lab_daily[uni]
+            past_dates = [ud for ud in lab_history.keys() if ud <= d]
+            if past_dates:
+                latest_ud = max(past_dates)
+                day_total += lab_history[latest_ud][1]
+        total_daily[d] = day_total
+
+    plt.figure(figsize=(10, 5), dpi=200)
+    items = sorted(total_daily.items())
+    dates = [d for d, _ in items]
+    counts = [cnt for _, cnt in items]
+    
+    plt.plot(dates, counts, marker="o", linewidth=3, color="#2c3e50", label="Total Progress")
+
+    plt.xlabel("Date")
+    plt.ylabel("Total participants")
+    plt.title("Overall Data Collection Progress")
+    plt.grid(True, alpha=0.3)
+    plt.gcf().autofmt_xdate()
+    plt.legend(loc="upper left")
+    plt.tight_layout()
+
+    plt.savefig(OVERALL_PLOT_PATH, dpi=300)
     plt.close()
 
 
