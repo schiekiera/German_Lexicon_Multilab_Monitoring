@@ -4,7 +4,7 @@
 | Darmstadt | 53 |
 | Aachen | 47 |
 | Marburg | 43 |
-| Wuppertal | 25 |
+| Wuppertal | 26 |
 | Bamberg | 16 |
 | Dresden | 15 |
 | Twente | 8 |
