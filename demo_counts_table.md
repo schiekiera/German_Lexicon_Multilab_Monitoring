@@ -3,12 +3,12 @@
 | Darmstadt | 55 |
 | HU | 55 |
 | Aachen | 48 |
-| Marburg | 47 |
+| Marburg | 48 |
 | Wuppertal | 26 |
 | Bamberg | 16 |
 | Dresden | 15 |
 | Twente | 8 |
-| Münster | 6 |
+| Münster | 7 |
 | Erfurt | 0 |
 | FU | 0 |
 | Frankfurt Prolific | 0 |
