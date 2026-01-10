@@ -2,8 +2,8 @@
 |-----|----------------------|
 | Darmstadt | 55 |
 | HU | 55 |
+| Marburg | 49 |
 | Aachen | 48 |
-| Marburg | 48 |
 | Wuppertal | 26 |
 | Bamberg | 16 |
 | Dresden | 15 |
