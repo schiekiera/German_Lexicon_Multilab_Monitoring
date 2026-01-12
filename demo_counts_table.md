@@ -8,7 +8,7 @@
 | Bamberg | 16 |
 | Dresden | 16 |
 | Twente | 10 |
-| Münster | 8 |
+| Münster | 9 |
 | Erfurt | 0 |
 | FU | 0 |
 | Frankfurt Prolific | 0 |
