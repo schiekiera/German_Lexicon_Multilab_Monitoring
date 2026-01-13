@@ -4,7 +4,7 @@
 | HU | 59 |
 | Marburg | 58 |
 | Aachen | 49 |
-| Wuppertal | 27 |
+| Wuppertal | 28 |
 | Bamberg | 16 |
 | Dresden | 16 |
 | Münster | 10 |
