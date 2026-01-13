@@ -7,7 +7,7 @@
 | Wuppertal | 28 |
 | Bamberg | 16 |
 | Dresden | 16 |
-| Münster | 10 |
+| Münster | 11 |
 | Twente | 10 |
 | Erfurt | 0 |
 | FU | 0 |
