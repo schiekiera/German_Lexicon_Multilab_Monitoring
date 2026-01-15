@@ -5,9 +5,9 @@
 | HU | 60 |
 | Aachen | 49 |
 | Wuppertal | 29 |
+| Münster | 17 |
 | Bamberg | 16 |
 | Dresden | 16 |
-| Münster | 16 |
 | Twente | 13 |
 | Erfurt | 0 |
 | FU | 0 |
