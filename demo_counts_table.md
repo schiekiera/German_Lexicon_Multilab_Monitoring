@@ -9,11 +9,11 @@
 | Dresden | 17 |
 | Bamberg | 16 |
 | Twente | 15 |
+| Göttingen | 1 |
 | Erfurt | 0 |
 | FU | 0 |
 | Frankfurt Prolific | 0 |
 | Frankfurt Sona | 0 |
-| Göttingen | 0 |
 | Hildesheim | 0 |
 | IPN | 0 |
 | IPU | 0 |
