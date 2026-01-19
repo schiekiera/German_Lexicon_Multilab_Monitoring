@@ -9,7 +9,7 @@
 | Münster | 18 |
 | Bamberg | 16 |
 | Twente | 15 |
-| Göttingen | 4 |
+| Göttingen | 5 |
 | Erfurt | 0 |
 | FU | 0 |
 | Frankfurt Prolific | 0 |
