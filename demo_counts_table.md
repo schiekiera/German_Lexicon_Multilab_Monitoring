@@ -5,15 +5,15 @@
 | Darmstadt | 64 |
 | Aachen | 51 |
 | Wuppertal | 31 |
+| Dresden | 19 |
 | Münster | 19 |
-| Dresden | 18 |
 | Bamberg | 16 |
 | Twente | 15 |
 | Göttingen | 6 |
+| Frankfurt Sona | 1 |
 | Erfurt | 0 |
 | FU | 0 |
 | Frankfurt Prolific | 0 |
-| Frankfurt Sona | 0 |
 | Hildesheim | 0 |
 | IPN | 0 |
 | IPU | 0 |
