@@ -38,6 +38,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | IPN | 0 |
 | IPU | 0 |
 | IU | 0 |
+| Köln | 0 |
 | Leipzig | 0 |
 | Lüneburg | 0 |
 | Mannheim Kognitive Psychologie | 0 |
