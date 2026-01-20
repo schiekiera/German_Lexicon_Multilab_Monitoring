@@ -5,8 +5,8 @@
 | Darmstadt | 64 |
 | Aachen | 51 |
 | Wuppertal | 31 |
+| Münster | 19 |
 | Dresden | 18 |
-| Münster | 18 |
 | Bamberg | 16 |
 | Twente | 15 |
 | Göttingen | 6 |
