@@ -8,7 +8,7 @@
 | Dresden | 19 |
 | Münster | 19 |
 | Bamberg | 16 |
-| Twente | 15 |
+| Twente | 16 |
 | Göttingen | 6 |
 | Frankfurt Sona | 1 |
 | Erfurt | 0 |
