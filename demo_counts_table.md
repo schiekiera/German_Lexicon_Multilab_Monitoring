@@ -4,8 +4,8 @@
 | Marburg | 65 |
 | Darmstadt | 64 |
 | Aachen | 51 |
-| Wuppertal | 33 |
-| Leipzig | 20 |
+| Wuppertal | 34 |
+| Leipzig | 21 |
 | Dresden | 19 |
 | Münster | 19 |
 | Bamberg | 16 |
