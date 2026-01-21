@@ -6,8 +6,8 @@
 | Aachen | 51 |
 | Wuppertal | 33 |
 | Dresden | 19 |
+| Leipzig | 19 |
 | Münster | 19 |
-| Leipzig | 17 |
 | Bamberg | 16 |
 | Twente | 16 |
 | Göttingen | 6 |
