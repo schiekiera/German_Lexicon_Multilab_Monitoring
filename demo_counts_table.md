@@ -10,7 +10,7 @@
 | Bamberg | 16 |
 | Twente | 16 |
 | Göttingen | 6 |
-| Leipzig | 3 |
+| Leipzig | 6 |
 | Frankfurt Sona | 1 |
 | Mannheim Kognitive Psychologie | 1 |
 | Erfurt | 0 |
