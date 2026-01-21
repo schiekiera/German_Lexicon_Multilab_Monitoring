@@ -10,6 +10,7 @@
 | Bamberg | 16 |
 | Twente | 16 |
 | Göttingen | 6 |
+| Leipzig | 3 |
 | Frankfurt Sona | 1 |
 | Mannheim Kognitive Psychologie | 1 |
 | Erfurt | 0 |
@@ -20,7 +21,6 @@
 | IPU | 0 |
 | IU | 0 |
 | Köln | 0 |
-| Leipzig | 0 |
 | Lüneburg | 0 |
 | Pavia | 0 |
 | Potsdam | 0 |
