@@ -7,9 +7,9 @@
 | Wuppertal | 33 |
 | Dresden | 19 |
 | Münster | 19 |
+| Leipzig | 17 |
 | Bamberg | 16 |
 | Twente | 16 |
-| Leipzig | 15 |
 | Göttingen | 6 |
 | Erfurt | 1 |
 | Frankfurt Sona | 1 |
