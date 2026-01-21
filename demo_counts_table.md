@@ -11,9 +11,9 @@
 | Twente | 16 |
 | Leipzig | 15 |
 | Göttingen | 6 |
+| Erfurt | 1 |
 | Frankfurt Sona | 1 |
 | Mannheim Kognitive Psychologie | 1 |
-| Erfurt | 0 |
 | FU | 0 |
 | Frankfurt Prolific | 0 |
 | Hildesheim | 0 |
