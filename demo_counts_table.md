@@ -11,9 +11,9 @@
 | Bamberg | 16 |
 | Twente | 16 |
 | Göttingen | 7 |
+| Mannheim Kognitive Psychologie | 2 |
 | Erfurt | 1 |
 | Frankfurt Sona | 1 |
-| Mannheim Kognitive Psychologie | 1 |
 | FU | 0 |
 | Frankfurt Prolific | 0 |
 | Hildesheim | 0 |
