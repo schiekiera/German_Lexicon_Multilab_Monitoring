@@ -11,11 +11,11 @@
 | Bamberg | 16 | 2026-01-07 |
 | Twente | 16 | 2026-01-20 |
 | Göttingen | 8 | 2026-01-22 |
+| Tübingen | 4 | 2026-01-22 |
 | Mannheim Kognitive Psychologie | 3 | 2026-01-22 |
-| Tübingen | 3 | 2026-01-22 |
 | Erfurt | 2 | 2026-01-22 |
 | Frankfurt Sona | 2 | 2026-01-22 |
-| Tübingen Not Sona | 1 |  |
+| Tübingen Not Sona | 2 |  |
 | FU | 0 |  |
 | Frankfurt Prolific | 0 |  |
 | Hildesheim | 0 |  |
