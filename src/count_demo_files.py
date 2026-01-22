@@ -262,7 +262,6 @@ def create_progress_plot():
         plt.plot(
             dates,
             counts,
-            marker="o",
             linewidth=2,
             label=abbreviate_plot_label(uni),
             color=cmap(idx),
