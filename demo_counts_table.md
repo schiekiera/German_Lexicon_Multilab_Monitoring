@@ -14,6 +14,8 @@
 | Mannheim Kognitive Psychologie | 3 |
 | Frankfurt Sona | 2 |
 | Erfurt | 1 |
+| Tübingen | 1 |
+| Tübingen Not Sona | 1 |
 | FU | 0 |
 | Frankfurt Prolific | 0 |
 | Hildesheim | 0 |
@@ -24,4 +26,3 @@
 | Lüneburg | 0 |
 | Pavia | 0 |
 | Potsdam | 0 |
-| Tübingen | 0 |
