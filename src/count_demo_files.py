@@ -95,12 +95,14 @@ def count_demo_files(files):
     return sum(1 for f in files if "demo" in f)
 
 
-def format_timestamp(ts_str):
+def format_day(ts_str):
     if not ts_str:
         return ""
+    if len(ts_str) == 10:
+        return ts_str
     try:
         ts = datetime.strptime(ts_str, "%Y-%m-%dT%H-%M-%SZ")
-        return ts.strftime("%Y-%m-%d %H:%M UTC")
+        return ts.strftime("%Y-%m-%d")
     except ValueError:
         return ts_str
 
@@ -110,7 +112,7 @@ def write_latest_csv(rows):
     with LATEST_CSV_PATH.open("w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(
             f,
-            fieldnames=["uni", "n_participants", "last_update"],
+            fieldnames=["uni", "n_participants", "last_update_day"],
         )
         writer.writeheader()
         writer.writerows(rows)
@@ -139,9 +141,9 @@ def make_markdown_table(rows):
         key=lambda r: (-r["n_participants"], r["uni"])
     )
 
-    header = "| Lab | *n* (Participants) | Last update (UTC) |\n|-----|----------------------|-------------------|\n"
+    header = "| Lab | *n* (Participants) | Last update (day) |\n|-----|----------------------|-------------------|\n"
     body_lines = [
-        f"| {r['uni']} | {r['n_participants']} | {format_timestamp(r.get('last_update'))} |"
+        f"| {r['uni']} | {r['n_participants']} | {format_day(r.get('last_update_day'))} |"
         for r in rows_sorted
     ]
     return header + "\n".join(body_lines) + "\n"
@@ -376,6 +378,42 @@ def compact_history_csv():
             writer.writerow(row)
 
 
+def get_last_increase_dates():
+    """
+    Returns the last date (YYYY-MM-DD) when each lab increased its count.
+    """
+    if not HISTORY_CSV_PATH.exists():
+        return {}
+
+    per_lab = defaultdict(list)
+    with HISTORY_CSV_PATH.open("r", newline="", encoding="utf-8") as f:
+        reader = csv.reader(f)
+        next(reader, None)
+        for row in reader:
+            if len(row) < 3:
+                continue
+            ts_str, uni, count_str = row[0], row[1], row[2]
+            try:
+                ts = datetime.strptime(ts_str, "%Y-%m-%dT%H-%M-%SZ")
+                count = int(count_str)
+            except ValueError:
+                continue
+            per_lab[clean_uni_label(uni)].append((ts, count))
+
+    last_increase = {}
+    for uni, items in per_lab.items():
+        items_sorted = sorted(items, key=lambda x: x[0])
+        prev = None
+        last_ts = None
+        for ts, count in items_sorted:
+            if prev is not None and count > prev:
+                last_ts = ts
+            prev = count
+        if last_ts is not None:
+            last_increase[uni] = last_ts.strftime("%Y-%m-%d")
+    return last_increase
+
+
 def write_table_md(table_md):
     """Schreibt die Tabelle in eine eigene Markdown-Datei."""
     TABLE_MD_PATH.write_text(table_md, encoding="utf-8")
@@ -426,6 +464,7 @@ def update_readme(content_md):
 def main():
     timestamp = datetime.utcnow().strftime("%Y-%m-%dT%H-%M-%SZ")
     unis = get_unis()
+    last_increase = get_last_increase_dates()
 
     rows = []
     for uni in unis:
@@ -435,7 +474,7 @@ def main():
             {
                 "uni": clean_uni_label(uni),
                 "n_participants": n_demo,
-                "last_update": timestamp,
+                "last_update_day": last_increase.get(clean_uni_label(uni), ""),
             }
         )
 
