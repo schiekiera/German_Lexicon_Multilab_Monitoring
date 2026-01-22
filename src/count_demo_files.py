@@ -95,10 +95,23 @@ def count_demo_files(files):
     return sum(1 for f in files if "demo" in f)
 
 
+def format_timestamp(ts_str):
+    if not ts_str:
+        return ""
+    try:
+        ts = datetime.strptime(ts_str, "%Y-%m-%dT%H-%M-%SZ")
+        return ts.strftime("%Y-%m-%d %H:%M UTC")
+    except ValueError:
+        return ts_str
+
+
 def write_latest_csv(rows):
     """Schreibt demo_counts_latest.csv (aktuelle Übersicht)."""
     with LATEST_CSV_PATH.open("w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=["uni", "n_participants"])
+        writer = csv.DictWriter(
+            f,
+            fieldnames=["uni", "n_participants", "last_update"],
+        )
         writer.writeheader()
         writer.writerows(rows)
 
@@ -126,9 +139,9 @@ def make_markdown_table(rows):
         key=lambda r: (-r["n_participants"], r["uni"])
     )
 
-    header = "| Lab | *n* (Participants) |\n|-----|----------------------|\n"
+    header = "| Lab | *n* (Participants) | Last update (UTC) |\n|-----|----------------------|-------------------|\n"
     body_lines = [
-        f"| {r['uni']} | {r['n_participants']} |"
+        f"| {r['uni']} | {r['n_participants']} | {format_timestamp(r.get('last_update'))} |"
         for r in rows_sorted
     ]
     return header + "\n".join(body_lines) + "\n"
@@ -418,7 +431,13 @@ def main():
     for uni in unis:
         files = list_files_for_uni(uni)
         n_demo = count_demo_files(files)
-        rows.append({"uni": clean_uni_label(uni), "n_participants": n_demo})
+        rows.append(
+            {
+                "uni": clean_uni_label(uni),
+                "n_participants": n_demo,
+                "last_update": timestamp,
+            }
+        )
 
     # CSVs
     write_latest_csv(rows)
