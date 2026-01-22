@@ -45,6 +45,19 @@ def clean_uni_label(uni_key):
     # Title case for longer words
     return label.title()
 
+
+def abbreviate_plot_label(label):
+    """
+    Abbreviate words after the first one for plot legends.
+    Example: "Mannheim Kognitive Psychologie" -> "Mannheim (KP)"
+    """
+    parts = label.split()
+    if len(parts) <= 1:
+        return label
+    first = parts[0]
+    abbrev = "".join(p[0] for p in parts[1:] if p)
+    return f"{first} ({abbrev})"
+
 def get_unis():
     """Lädt combined_mapping.json und gibt alle Keys außer 'default' zurück."""
     resp = requests.get(MAPPING_URL)
@@ -239,12 +252,21 @@ def create_progress_plot():
 
     # --- Plotten ---
     plt.figure(figsize=(10, 5), dpi=200)
+    labs_sorted = sorted(per_lab_daily.keys())
+    cmap = plt.cm.get_cmap("tab20", len(labs_sorted))
 
-    for uni in sorted(per_lab_daily.keys()):
+    for idx, uni in enumerate(labs_sorted):
         items = sorted(per_lab_daily[uni].items(), key=lambda x: x[0])
         dates = [d for d, _ in items]
         counts = [cnt for _, (_, cnt) in items]
-        plt.plot(dates, counts, marker="o", linewidth=2, label=uni)
+        plt.plot(
+            dates,
+            counts,
+            marker="o",
+            linewidth=2,
+            label=abbreviate_plot_label(uni),
+            color=cmap(idx),
+        )
 
     plt.xlabel("Date")
     plt.ylabel("Number of participants")
