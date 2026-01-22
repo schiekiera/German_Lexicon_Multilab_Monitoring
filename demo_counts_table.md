@@ -1,6 +1,6 @@
 | Lab | *n* (Participants) |
 |-----|----------------------|
-| HU | 68 |
+| HU | 69 |
 | Marburg | 65 |
 | Darmstadt | 64 |
 | Aachen | 51 |
@@ -13,8 +13,8 @@
 | Göttingen | 8 |
 | Mannheim Kognitive Psychologie | 3 |
 | Frankfurt Sona | 2 |
+| Tübingen | 2 |
 | Erfurt | 1 |
-| Tübingen | 1 |
 | Tübingen Not Sona | 1 |
 | FU | 0 |
 | Frankfurt Prolific | 0 |
