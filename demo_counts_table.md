@@ -10,7 +10,7 @@
 | Münster | 19 |
 | Bamberg | 16 |
 | Twente | 16 |
-| Göttingen | 7 |
+| Göttingen | 8 |
 | Mannheim Kognitive Psychologie | 3 |
 | Frankfurt Sona | 2 |
 | Erfurt | 1 |
