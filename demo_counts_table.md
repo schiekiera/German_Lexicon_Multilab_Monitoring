@@ -13,7 +13,7 @@
 | Göttingen | 8 | 2026-01-22 |
 | Mannheim Kognitive Psychologie | 5 | 2026-01-23 |
 | Tübingen | 4 | 2026-01-22 |
-| Erfurt | 2 | 2026-01-22 |
+| Erfurt | 3 | 2026-01-22 |
 | Frankfurt Sona | 2 | 2026-01-22 |
 | Tübingen Not Sona | 2 |  |
 | FU | 0 |  |
