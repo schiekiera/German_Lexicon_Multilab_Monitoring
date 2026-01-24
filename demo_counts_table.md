@@ -14,8 +14,8 @@
 | Tübingen | 7 | 2026-01-23 |
 | Erfurt | 6 | 2026-01-24 |
 | Mannheim Kognitive Psychologie | 5 | 2026-01-23 |
+| Tübingen Not Sona | 3 |  |
 | Frankfurt Sona | 2 | 2026-01-22 |
-| Tübingen Not Sona | 2 |  |
 | FU | 0 |  |
 | Frankfurt Prolific | 0 |  |
 | Hildesheim | 0 |  |
