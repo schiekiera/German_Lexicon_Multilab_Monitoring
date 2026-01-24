@@ -33,7 +33,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Göttingen | 8 | 2026-01-22 |
 | Erfurt | 7 | 2026-01-24 |
 | Tübingen | 7 | 2026-01-23 |
-| Mannheim Kognitive Psychologie | 6 | 2026-01-23 |
+| Mannheim Kognitive Psychologie | 6 | 2026-01-24 |
 | Tübingen Not Sona | 3 | 2026-01-24 |
 | Frankfurt Sona | 2 | 2026-01-22 |
 | FU | 0 |  |
