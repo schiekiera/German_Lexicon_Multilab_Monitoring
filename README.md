@@ -10,17 +10,17 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 443
+**Total data files saved across all labs:** 444
 
 **Overall progress (Target: 1440 participants):**
 
-[█████████░░░░░░░░░░░░░░░░░░░░░] 443 / 1440 (30.8%)
+[█████████░░░░░░░░░░░░░░░░░░░░░] 444 / 1440 (30.8%)
 
 ### Table: Progress per lab
 
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
-| HU | 72 | 2026-01-24 |
+| HU | 73 | 2026-01-24 |
 | Marburg | 65 | 2026-01-18 |
 | Darmstadt | 64 | 2026-01-19 |
 | Aachen | 51 | 2026-01-18 |
