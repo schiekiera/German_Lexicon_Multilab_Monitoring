@@ -30,7 +30,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Münster | 19 | 2026-01-20 |
 | Bamberg | 16 | 2026-01-07 |
 | Twente | 16 | 2026-01-20 |
-| Erfurt | 11 | 2026-01-24 |
+| Erfurt | 11 | 2026-01-25 |
 | Göttingen | 8 | 2026-01-22 |
 | Mannheim Kognitive Psychologie | 8 | 2026-01-24 |
 | Tübingen | 8 | 2026-01-25 |
