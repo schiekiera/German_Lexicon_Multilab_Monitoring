@@ -11,7 +11,7 @@
 | Bamberg | 17 | 2026-01-26 |
 | Twente | 16 | 2026-01-20 |
 | Erfurt | 13 | 2026-01-26 |
-| Tübingen | 9 | 2026-01-25 |
+| Tübingen | 10 | 2026-01-25 |
 | Göttingen | 8 | 2026-01-22 |
 | Mannheim Kognitive Psychologie | 8 | 2026-01-24 |
 | Frankfurt Sona | 3 | 2026-01-25 |
