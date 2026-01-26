@@ -28,7 +28,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Wuppertal | 35 | 2026-01-22 |
 | Dresden | 20 | 2026-01-25 |
 | Münster | 19 | 2026-01-20 |
-| Bamberg | 17 | 2026-01-07 |
+| Bamberg | 17 | 2026-01-26 |
 | Twente | 16 | 2026-01-20 |
 | Erfurt | 13 | 2026-01-26 |
 | Tübingen | 9 | 2026-01-25 |
