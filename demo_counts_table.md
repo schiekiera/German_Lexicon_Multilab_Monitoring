@@ -1,6 +1,6 @@
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
-| HU | 73 | 2026-01-25 |
+| HU | 74 | 2026-01-25 |
 | Marburg | 65 | 2026-01-18 |
 | Darmstadt | 64 | 2026-01-19 |
 | Leipzig | 55 | 2026-01-27 |
@@ -10,8 +10,8 @@
 | Münster | 20 | 2026-01-27 |
 | Bamberg | 17 | 2026-01-26 |
 | Twente | 16 | 2026-01-20 |
+| Tübingen | 14 | 2026-01-26 |
 | Erfurt | 13 | 2026-01-26 |
-| Tübingen | 13 | 2026-01-26 |
 | Mannheim Kognitive Psychologie | 9 | 2026-01-26 |
 | Göttingen | 8 | 2026-01-22 |
 | Tübingen Not Sona | 5 | 2026-01-26 |
