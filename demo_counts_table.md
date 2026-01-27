@@ -8,11 +8,11 @@
 | Wuppertal | 35 | 2026-01-22 |
 | Dresden | 21 | 2026-01-27 |
 | Münster | 21 | 2026-01-27 |
-| Tübingen | 18 | 2026-01-27 |
+| Tübingen | 19 | 2026-01-27 |
 | Bamberg | 17 | 2026-01-26 |
 | Twente | 16 | 2026-01-20 |
 | Erfurt | 14 | 2026-01-27 |
-| Mannheim Kognitive Psychologie | 10 | 2026-01-27 |
+| Mannheim Kognitive Psychologie | 11 | 2026-01-27 |
 | Göttingen | 8 | 2026-01-22 |
 | Tübingen Not Sona | 5 | 2026-01-26 |
 | Frankfurt Sona | 4 | 2026-01-26 |
