@@ -10,7 +10,7 @@
 | Münster | 20 | 2026-01-27 |
 | Bamberg | 17 | 2026-01-26 |
 | Twente | 16 | 2026-01-20 |
-| Tübingen | 14 | 2026-01-27 |
+| Tübingen | 15 | 2026-01-27 |
 | Erfurt | 13 | 2026-01-26 |
 | Mannheim Kognitive Psychologie | 9 | 2026-01-26 |
 | Göttingen | 8 | 2026-01-22 |
