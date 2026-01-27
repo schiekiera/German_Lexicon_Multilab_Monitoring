@@ -26,7 +26,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Leipzig | 56 | 2026-01-27 |
 | Aachen | 51 | 2026-01-18 |
 | Wuppertal | 35 | 2026-01-22 |
-| Dresden | 21 | 2026-01-25 |
+| Dresden | 21 | 2026-01-27 |
 | Münster | 21 | 2026-01-27 |
 | Bamberg | 17 | 2026-01-26 |
 | Tübingen | 17 | 2026-01-27 |
