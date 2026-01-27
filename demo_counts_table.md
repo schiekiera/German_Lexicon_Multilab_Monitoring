@@ -12,7 +12,7 @@
 | Twente | 16 | 2026-01-20 |
 | Tübingen | 15 | 2026-01-27 |
 | Erfurt | 13 | 2026-01-26 |
-| Mannheim Kognitive Psychologie | 9 | 2026-01-26 |
+| Mannheim Kognitive Psychologie | 10 | 2026-01-26 |
 | Göttingen | 8 | 2026-01-22 |
 | Tübingen Not Sona | 5 | 2026-01-26 |
 | Frankfurt Sona | 4 | 2026-01-26 |
