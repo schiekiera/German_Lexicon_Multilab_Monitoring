@@ -34,7 +34,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Erfurt | 14 | 2026-01-27 |
 | Mannheim Kognitive Psychologie | 11 | 2026-01-27 |
 | Göttingen | 8 | 2026-01-22 |
-| Tübingen Not Sona | 8 | 2026-01-27 |
+| Tübingen Not Sona | 8 | 2026-01-28 |
 | Frankfurt Sona | 4 | 2026-01-26 |
 | FU | 0 |  |
 | Frankfurt Prolific | 0 |  |
