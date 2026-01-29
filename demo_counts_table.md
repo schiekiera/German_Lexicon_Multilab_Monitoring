@@ -13,8 +13,8 @@
 | Twente | 16 | 2026-01-20 |
 | Erfurt | 15 | 2026-01-28 |
 | Mannheim Kognitive Psychologie | 11 | 2026-01-27 |
+| Tübingen Not Sona | 10 | 2026-01-28 |
 | Göttingen | 9 | 2026-01-28 |
-| Tübingen Not Sona | 9 | 2026-01-28 |
 | Frankfurt Sona | 4 | 2026-01-26 |
 | FU | 0 |  |
 | Frankfurt Prolific | 0 |  |
