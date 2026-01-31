@@ -9,8 +9,8 @@
 | Tübingen | 26 | 2026-01-29 |
 | Dresden | 24 | 2026-01-30 |
 | Münster | 21 | 2026-01-27 |
+| Mannheim Kognitive Psychologie | 19 | 2026-01-30 |
 | Erfurt | 18 | 2026-01-30 |
-| Mannheim Kognitive Psychologie | 18 | 2026-01-30 |
 | Bamberg | 17 | 2026-01-26 |
 | Twente | 17 | 2026-01-31 |
 | Tübingen Not Sona | 16 | 2026-01-31 |
