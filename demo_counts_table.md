@@ -15,7 +15,7 @@
 | Twente | 17 | 2026-01-31 |
 | Tübingen Not Sona | 15 | 2026-01-30 |
 | Göttingen | 9 | 2026-01-28 |
-| Frankfurt Sona | 7 | 2026-01-30 |
+| Frankfurt Sona | 8 | 2026-01-30 |
 | FU | 0 |  |
 | Frankfurt Prolific | 0 |  |
 | Hildesheim | 0 |  |
