@@ -8,7 +8,7 @@
 | Wuppertal | 35 | 2026-01-22 |
 | Tübingen | 31 | 2026-02-02 |
 | Dresden | 24 | 2026-01-30 |
-| Münster | 21 | 2026-01-27 |
+| Münster | 22 | 2026-01-27 |
 | Mannheim Kognitive Psychologie | 20 | 2026-02-01 |
 | Erfurt | 19 | 2026-02-02 |
 | Bamberg | 17 | 2026-01-26 |
