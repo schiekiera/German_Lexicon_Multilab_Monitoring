@@ -6,10 +6,10 @@
 | Leipzig | 64 | 2026-01-31 |
 | Aachen | 51 | 2026-01-18 |
 | Wuppertal | 35 | 2026-01-22 |
-| Tübingen | 32 | 2026-02-02 |
+| Tübingen | 33 | 2026-02-02 |
 | Dresden | 24 | 2026-01-30 |
 | Münster | 24 | 2026-02-03 |
-| Erfurt | 21 | 2026-02-02 |
+| Erfurt | 21 | 2026-02-03 |
 | Mannheim Kognitive Psychologie | 20 | 2026-02-01 |
 | Bamberg | 17 | 2026-01-26 |
 | Twente | 17 | 2026-01-31 |
