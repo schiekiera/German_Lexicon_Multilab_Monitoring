@@ -7,7 +7,7 @@
 | Aachen | 51 | 2026-01-18 |
 | Tübingen | 39 | 2026-02-03 |
 | Wuppertal | 35 | 2026-01-22 |
-| Münster | 25 | 2026-02-03 |
+| Münster | 26 | 2026-02-03 |
 | Dresden | 24 | 2026-01-30 |
 | Erfurt | 21 | 2026-02-03 |
 | Mannheim Kognitive Psychologie | 21 | 2026-02-03 |
