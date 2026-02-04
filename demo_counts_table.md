@@ -7,7 +7,7 @@
 | Aachen | 51 | 2026-01-18 |
 | Tübingen | 43 | 2026-02-04 |
 | Wuppertal | 35 | 2026-01-22 |
-| Münster | 26 | 2026-02-03 |
+| Münster | 27 | 2026-02-03 |
 | Dresden | 24 | 2026-01-30 |
 | Mannheim Kognitive Psychologie | 22 | 2026-02-04 |
 | Erfurt | 21 | 2026-02-03 |
@@ -16,7 +16,7 @@
 | Bamberg | 17 | 2026-01-26 |
 | Frankfurt Sona | 10 | 2026-02-02 |
 | Göttingen | 9 | 2026-01-28 |
-| Köln | 4 | 2026-02-04 |
+| Köln | 6 | 2026-02-04 |
 | FU | 0 |  |
 | Frankfurt Prolific | 0 |  |
 | Hildesheim | 0 |  |
