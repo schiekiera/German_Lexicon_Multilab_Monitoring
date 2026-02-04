@@ -5,7 +5,7 @@
 | Darmstadt | 64 | 2026-01-19 |
 | Leipzig | 64 | 2026-01-31 |
 | Aachen | 51 | 2026-01-18 |
-| Tübingen | 41 | 2026-02-03 |
+| Tübingen | 42 | 2026-02-03 |
 | Wuppertal | 35 | 2026-01-22 |
 | Münster | 26 | 2026-02-03 |
 | Dresden | 24 | 2026-01-30 |
@@ -20,8 +20,9 @@
 | Frankfurt Prolific | 0 |  |
 | Hildesheim | 0 |  |
 | IPN | 0 |  |
-| IPU | 0 |  |
 | IU | 0 |  |
+| Ipu Prolific | 0 |  |
+| Ipu Sona | 0 |  |
 | Köln | 0 |  |
 | Lüneburg | 0 |  |
 | Pavia | 0 |  |
