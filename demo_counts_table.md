@@ -11,7 +11,7 @@
 | Dresden | 25 | 2026-02-04 |
 | Mannheim Kognitive Psychologie | 23 | 2026-02-04 |
 | Erfurt | 21 | 2026-02-03 |
-| Tübingen Not Sona | 19 | 2026-02-04 |
+| Tübingen Not Sona | 20 | 2026-02-04 |
 | Twente | 18 | 2026-02-04 |
 | Bamberg | 17 | 2026-01-26 |
 | Frankfurt Sona | 10 | 2026-02-02 |
