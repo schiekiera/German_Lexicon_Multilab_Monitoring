@@ -9,14 +9,14 @@
 | Wuppertal | 35 | 2026-01-22 |
 | Münster | 28 | 2026-02-04 |
 | Dresden | 25 | 2026-02-04 |
-| Mannheim Kognitive Psychologie | 24 | 2026-02-04 |
+| Mannheim Kognitive Psychologie | 24 | 2026-02-05 |
 | Erfurt | 21 | 2026-02-03 |
 | Tübingen Not Sona | 20 | 2026-02-04 |
 | Twente | 18 | 2026-02-04 |
 | Bamberg | 17 | 2026-01-26 |
 | Frankfurt Sona | 10 | 2026-02-02 |
 | Göttingen | 9 | 2026-01-28 |
-| Köln | 7 | 2026-02-04 |
+| Köln | 8 | 2026-02-04 |
 | FU | 0 |  |
 | Frankfurt Prolific | 0 |  |
 | Hildesheim | 0 |  |
