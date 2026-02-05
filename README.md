@@ -21,7 +21,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
 | HU | 81 | 2026-02-03 |
-| Leipzig | 66 | 2026-02-04 |
+| Leipzig | 66 | 2026-02-05 |
 | Marburg | 65 | 2026-01-18 |
 | Darmstadt | 64 | 2026-01-19 |
 | Aachen | 51 | 2026-01-18 |
