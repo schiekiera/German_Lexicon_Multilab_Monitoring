@@ -28,7 +28,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Tübingen | 47 | 2026-02-05 |
 | Wuppertal | 35 | 2026-01-22 |
 | Münster | 28 | 2026-02-04 |
-| Dresden | 26 | 2026-02-04 |
+| Dresden | 26 | 2026-02-05 |
 | Mannheim Kognitive Psychologie | 24 | 2026-02-05 |
 | Tübingen Not Sona | 22 | 2026-02-05 |
 | Erfurt | 21 | 2026-02-03 |
