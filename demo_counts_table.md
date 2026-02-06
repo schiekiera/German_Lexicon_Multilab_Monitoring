@@ -8,7 +8,7 @@
 | Tübingen | 48 | 2026-02-06 |
 | Wuppertal | 35 | 2026-01-22 |
 | Münster | 28 | 2026-02-04 |
-| Dresden | 27 | 2026-02-05 |
+| Dresden | 27 | 2026-02-06 |
 | Mannheim Kognitive Psychologie | 26 | 2026-02-06 |
 | Tübingen Not Sona | 23 | 2026-02-06 |
 | Erfurt | 21 | 2026-02-03 |
