@@ -14,8 +14,8 @@
 | Erfurt | 21 | 2026-02-03 |
 | Twente | 18 | 2026-02-04 |
 | Bamberg | 17 | 2026-01-26 |
+| Köln | 11 | 2026-02-05 |
 | Frankfurt Sona | 10 | 2026-02-02 |
-| Köln | 10 | 2026-02-05 |
 | Göttingen | 9 | 2026-01-28 |
 | FU | 0 |  |
 | Frankfurt Prolific | 0 |  |
