@@ -4,7 +4,7 @@
 | Leipzig | 69 | 2026-02-08 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
-| Tübingen | 52 | 2026-02-08 |
+| Tübingen | 52 | 2026-02-09 |
 | Aachen | 51 | 2026-01-18 |
 | Wuppertal | 37 | 2026-02-07 |
 | Mannheim Kognitive Psychologie | 32 | 2026-02-09 |
@@ -12,7 +12,7 @@
 | Dresden | 28 | 2026-02-07 |
 | Tübingen Not Sona | 24 | 2026-02-06 |
 | Erfurt | 22 | 2026-02-07 |
-| Twente | 21 | 2026-02-09 |
+| Twente | 22 | 2026-02-09 |
 | Köln | 18 | 2026-02-09 |
 | Bamberg | 17 | 2026-01-26 |
 | Frankfurt Sona | 11 | 2026-02-08 |
