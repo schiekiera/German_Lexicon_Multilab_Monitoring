@@ -1,6 +1,6 @@
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
-| HU | 85 | 2026-02-08 |
+| HU | 86 | 2026-02-08 |
 | Leipzig | 70 | 2026-02-10 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
@@ -17,7 +17,7 @@
 | Bamberg | 17 | 2026-01-26 |
 | Frankfurt Sona | 12 | 2026-02-10 |
 | Göttingen | 9 | 2026-01-28 |
-| FU | 3 | 2026-02-10 |
+| FU | 4 | 2026-02-10 |
 | Ipu Sona | 3 | 2026-02-08 |
 | Frankfurt Prolific | 0 |  |
 | Hildesheim | 0 |  |
