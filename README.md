@@ -33,7 +33,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Twente | 24 | 2026-02-10 |
 | Tübingen Not Sona | 24 | 2026-02-06 |
 | Erfurt | 23 | 2026-02-10 |
-| Köln | 19 | 2026-02-09 |
+| Köln | 19 | 2026-02-10 |
 | Bamberg | 17 | 2026-01-26 |
 | Frankfurt Sona | 12 | 2026-02-10 |
 | Göttingen | 9 | 2026-01-28 |
