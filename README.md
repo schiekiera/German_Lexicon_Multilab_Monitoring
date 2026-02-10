@@ -38,7 +38,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Frankfurt Sona | 11 | 2026-02-08 |
 | Göttingen | 9 | 2026-01-28 |
 | Ipu Sona | 3 | 2026-02-08 |
-| FU | 2 | 2026-02-06 |
+| FU | 2 | 2026-02-10 |
 | Frankfurt Prolific | 0 |  |
 | Hildesheim | 0 |  |
 | IPN | 0 |  |
