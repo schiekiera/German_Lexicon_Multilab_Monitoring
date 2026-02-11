@@ -19,8 +19,8 @@
 | Göttingen | 9 | 2026-01-28 |
 | FU | 4 | 2026-02-10 |
 | Ipu Sona | 3 | 2026-02-08 |
+| Hildesheim | 1 |  |
 | Frankfurt Prolific | 0 |  |
-| Hildesheim | 0 |  |
 | IPN | 0 |  |
 | IU | 0 |  |
 | Ipu Prolific | 0 |  |
