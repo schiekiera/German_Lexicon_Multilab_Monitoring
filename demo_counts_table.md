@@ -4,7 +4,7 @@
 | Leipzig | 70 | 2026-02-10 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
-| Tübingen | 56 | 2026-02-11 |
+| Tübingen | 57 | 2026-02-11 |
 | Aachen | 51 | 2026-01-18 |
 | Wuppertal | 37 | 2026-02-07 |
 | Mannheim Kognitive Psychologie | 33 | 2026-02-09 |
@@ -19,7 +19,7 @@
 | Göttingen | 9 | 2026-01-28 |
 | FU | 4 | 2026-02-10 |
 | Ipu Sona | 3 | 2026-02-08 |
-| Hildesheim | 1 |  |
+| Hildesheim | 1 | 2026-02-11 |
 | Frankfurt Prolific | 0 |  |
 | IPN | 0 |  |
 | IU | 0 |  |
