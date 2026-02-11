@@ -37,7 +37,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Bamberg | 17 | 2026-01-26 |
 | Frankfurt Sona | 12 | 2026-02-10 |
 | Göttingen | 9 | 2026-01-28 |
-| FU | 5 | 2026-02-10 |
+| FU | 5 | 2026-02-11 |
 | Ipu Sona | 3 | 2026-02-08 |
 | Hildesheim | 1 | 2026-02-11 |
 | Frankfurt Prolific | 0 |  |
