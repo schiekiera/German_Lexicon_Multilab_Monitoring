@@ -4,7 +4,7 @@
 | Leipzig | 71 | 2026-02-12 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
-| Tübingen | 60 | 2026-02-11 |
+| Tübingen | 61 | 2026-02-11 |
 | Aachen | 51 | 2026-01-18 |
 | Wuppertal | 37 | 2026-02-07 |
 | Mannheim Kognitive Psychologie | 35 | 2026-02-11 |
