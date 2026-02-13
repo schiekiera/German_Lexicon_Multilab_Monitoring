@@ -5,7 +5,7 @@
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Tübingen | 61 | 2026-02-12 |
-| IU | 54 | 2026-02-13 |
+| IU | 55 | 2026-02-13 |
 | Aachen | 51 | 2026-01-18 |
 | Wuppertal | 38 | 2026-02-12 |
 | Mannheim Kognitive Psychologie | 35 | 2026-02-11 |
