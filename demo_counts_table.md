@@ -8,7 +8,7 @@
 | Tübingen | 61 | 2026-02-12 |
 | Aachen | 51 | 2026-01-18 |
 | Wuppertal | 38 | 2026-02-12 |
-| Mannheim Kognitive Psychologie | 36 | 2026-02-13 |
+| Mannheim Kognitive Psychologie | 37 | 2026-02-13 |
 | Münster | 30 | 2026-02-11 |
 | Dresden | 28 | 2026-02-07 |
 | Twente | 25 | 2026-02-12 |
