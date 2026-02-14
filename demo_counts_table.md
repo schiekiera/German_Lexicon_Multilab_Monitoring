@@ -3,9 +3,9 @@
 | IU | 92 | 2026-02-14 |
 | HU | 86 | 2026-02-10 |
 | Leipzig | 72 | 2026-02-14 |
+| Tübingen | 66 | 2026-02-14 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
-| Tübingen | 65 | 2026-02-14 |
 | Aachen | 51 | 2026-01-18 |
 | Mannheim Kognitive Psychologie | 39 | 2026-02-14 |
 | Wuppertal | 38 | 2026-02-12 |
