@@ -33,13 +33,13 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Dresden | 28 | 2026-02-07 |
 | Tübingen Not Sona | 26 | 2026-02-13 |
 | Twente | 25 | 2026-02-12 |
-| Erfurt | 24 | 2026-02-10 |
+| Erfurt | 24 | 2026-02-14 |
 | Köln | 22 | 2026-02-12 |
 | Bamberg | 17 | 2026-01-26 |
 | FU | 13 | 2026-02-13 |
 | Frankfurt Sona | 13 | 2026-02-13 |
 | Göttingen | 9 | 2026-01-28 |
-| Ipu Sona | 5 | 2026-02-13 |
+| Ipu Sona | 5 | 2026-02-14 |
 | Hildesheim | 1 | 2026-02-11 |
 | Frankfurt Prolific | 0 |  |
 | IPN | 0 |  |
