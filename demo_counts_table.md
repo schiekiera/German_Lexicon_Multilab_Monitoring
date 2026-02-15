@@ -12,13 +12,13 @@
 | Münster | 30 | 2026-02-11 |
 | Dresden | 28 | 2026-02-07 |
 | Tübingen Not Sona | 27 | 2026-02-15 |
-| Twente | 25 | 2026-02-12 |
+| Twente | 26 | 2026-02-12 |
 | Erfurt | 24 | 2026-02-14 |
 | Köln | 22 | 2026-02-12 |
 | FU | 18 | 2026-02-15 |
 | Bamberg | 17 | 2026-01-26 |
 | Frankfurt Sona | 14 | 2026-02-15 |
-| Göttingen | 9 | 2026-01-28 |
+| Göttingen | 10 | 2026-01-28 |
 | Ipu Sona | 6 | 2026-02-15 |
 | Hildesheim | 1 | 2026-02-11 |
 | Frankfurt Prolific | 0 |  |
