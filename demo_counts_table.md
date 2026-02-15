@@ -11,7 +11,7 @@
 | Wuppertal | 39 | 2026-02-15 |
 | Münster | 30 | 2026-02-11 |
 | Dresden | 28 | 2026-02-07 |
-| Tübingen Not Sona | 27 | 2026-02-13 |
+| Tübingen Not Sona | 27 | 2026-02-15 |
 | Twente | 25 | 2026-02-12 |
 | Erfurt | 24 | 2026-02-14 |
 | Köln | 22 | 2026-02-12 |
