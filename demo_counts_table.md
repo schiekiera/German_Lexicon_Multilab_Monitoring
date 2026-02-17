@@ -8,7 +8,7 @@
 | Marburg | 65 | 2026-01-18 |
 | Aachen | 51 | 2026-01-18 |
 | Mannheim Kognitive Psychologie | 41 | 2026-02-16 |
-| Wuppertal | 40 | 2026-02-15 |
+| Wuppertal | 40 | 2026-02-17 |
 | Münster | 30 | 2026-02-11 |
 | Dresden | 28 | 2026-02-07 |
 | Tübingen Not Sona | 27 | 2026-02-15 |
@@ -19,7 +19,7 @@
 | Bamberg | 17 | 2026-01-26 |
 | Frankfurt Sona | 15 | 2026-02-17 |
 | Göttingen | 10 | 2026-02-15 |
-| Ipu Sona | 7 | 2026-02-16 |
+| Ipu Sona | 8 | 2026-02-16 |
 | Hildesheim | 1 | 2026-02-11 |
 | Frankfurt Prolific | 0 |  |
 | IPN | 0 |  |
