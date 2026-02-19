@@ -18,7 +18,7 @@
 | Köln | 25 | 2026-02-18 |
 | Bamberg | 17 | 2026-01-26 |
 | Frankfurt Sona | 15 | 2026-02-17 |
-| Ipu Sona | 11 | 2026-02-19 |
+| Ipu Sona | 12 | 2026-02-19 |
 | Göttingen | 10 | 2026-02-15 |
 | Hildesheim | 1 | 2026-02-11 |
 | Frankfurt Prolific | 0 |  |
