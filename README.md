@@ -47,6 +47,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Lüneburg | 0 |  |
 | Pavia | 0 |  |
 | Potsdam | 0 |  |
+| Potsdam Sona | 0 |  |
 
 ### Plot: Progress per lab over time
 
