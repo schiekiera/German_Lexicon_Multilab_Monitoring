@@ -32,7 +32,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Münster | 30 | 2026-02-11 |
 | FU | 29 | 2026-02-17 |
 | Dresden | 28 | 2026-02-07 |
-| Twente | 28 | 2026-02-18 |
+| Twente | 28 | 2026-02-19 |
 | Tübingen Not Sona | 28 | 2026-02-18 |
 | Erfurt | 25 | 2026-02-18 |
 | Köln | 25 | 2026-02-18 |
