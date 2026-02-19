@@ -9,8 +9,8 @@
 | Aachen | 51 | 2026-01-18 |
 | Mannheim Kognitive Psychologie | 48 | 2026-02-19 |
 | Wuppertal | 41 | 2026-02-17 |
+| FU | 30 | 2026-02-17 |
 | Münster | 30 | 2026-02-11 |
-| FU | 29 | 2026-02-17 |
 | Dresden | 28 | 2026-02-07 |
 | Twente | 28 | 2026-02-19 |
 | Tübingen Not Sona | 28 | 2026-02-18 |
