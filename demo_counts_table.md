@@ -14,12 +14,12 @@
 | Dresden | 28 | 2026-02-07 |
 | Twente | 28 | 2026-02-19 |
 | Tübingen Not Sona | 28 | 2026-02-18 |
+| Köln | 27 | 2026-02-20 |
 | Erfurt | 26 | 2026-02-19 |
-| Köln | 26 | 2026-02-20 |
+| Pavia | 24 | 2026-02-20 |
 | Bamberg | 17 | 2026-01-26 |
 | Frankfurt Sona | 15 | 2026-02-17 |
 | Ipu Sona | 13 | 2026-02-20 |
-| Pavia | 12 | 2026-02-20 |
 | Göttingen | 10 | 2026-02-15 |
 | Hildesheim | 1 | 2026-02-11 |
 | Frankfurt Prolific | 0 |  |
