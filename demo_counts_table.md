@@ -20,11 +20,11 @@
 | Frankfurt Sona | 15 | 2026-02-17 |
 | Ipu Sona | 13 | 2026-02-20 |
 | Göttingen | 10 | 2026-02-15 |
+| Pavia | 2 |  |
 | Hildesheim | 1 | 2026-02-11 |
 | Frankfurt Prolific | 0 |  |
 | IPN | 0 |  |
 | Ipu Prolific | 0 |  |
 | Lüneburg | 0 |  |
-| Pavia | 0 |  |
 | Potsdam | 0 |  |
 | Potsdam Sona | 0 |  |
