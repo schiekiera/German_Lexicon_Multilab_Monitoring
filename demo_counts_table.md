@@ -9,14 +9,14 @@
 | Aachen | 51 | 2026-01-18 |
 | Mannheim Kognitive Psychologie | 48 | 2026-02-19 |
 | Wuppertal | 42 | 2026-02-20 |
+| Pavia | 37 | 2026-02-20 |
 | FU | 32 | 2026-02-20 |
 | Münster | 30 | 2026-02-11 |
 | Dresden | 28 | 2026-02-07 |
+| Köln | 28 | 2026-02-20 |
 | Twente | 28 | 2026-02-19 |
 | Tübingen Not Sona | 28 | 2026-02-18 |
-| Köln | 27 | 2026-02-20 |
 | Erfurt | 26 | 2026-02-19 |
-| Pavia | 24 | 2026-02-20 |
 | Bamberg | 17 | 2026-01-26 |
 | Frankfurt Sona | 15 | 2026-02-17 |
 | Ipu Sona | 13 | 2026-02-20 |
