@@ -8,12 +8,12 @@
 | Marburg | 65 | 2026-01-18 |
 | Aachen | 51 | 2026-01-18 |
 | Mannheim Kognitive Psychologie | 48 | 2026-02-19 |
+| Pavia | 48 | 2026-02-20 |
 | Wuppertal | 42 | 2026-02-20 |
-| Pavia | 37 | 2026-02-20 |
 | FU | 32 | 2026-02-20 |
 | Münster | 30 | 2026-02-11 |
+| Köln | 29 | 2026-02-20 |
 | Dresden | 28 | 2026-02-07 |
-| Köln | 28 | 2026-02-20 |
 | Twente | 28 | 2026-02-19 |
 | Tübingen Not Sona | 28 | 2026-02-18 |
 | Erfurt | 26 | 2026-02-19 |
