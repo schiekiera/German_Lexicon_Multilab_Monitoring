@@ -20,7 +20,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
-| IU | 207 | 2026-02-20 |
+| IU | 207 | 2026-02-21 |
 | HU | 89 | 2026-02-19 |
 | Pavia | 81 | 2026-02-20 |
 | Leipzig | 72 | 2026-02-14 |
@@ -30,7 +30,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Aachen | 51 | 2026-01-18 |
 | Mannheim Kognitive Psychologie | 48 | 2026-02-19 |
 | Wuppertal | 44 | 2026-02-20 |
-| FU | 34 | 2026-02-20 |
+| FU | 34 | 2026-02-21 |
 | Köln | 32 | 2026-02-20 |
 | Münster | 30 | 2026-02-11 |
 | Dresden | 28 | 2026-02-07 |
