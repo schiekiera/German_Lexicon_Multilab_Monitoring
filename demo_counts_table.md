@@ -13,9 +13,9 @@
 | FU | 34 | 2026-02-21 |
 | Köln | 32 | 2026-02-20 |
 | Münster | 30 | 2026-02-11 |
+| Tübingen Not Sona | 29 | 2026-02-18 |
 | Dresden | 28 | 2026-02-07 |
 | Twente | 28 | 2026-02-19 |
-| Tübingen Not Sona | 28 | 2026-02-18 |
 | Erfurt | 26 | 2026-02-19 |
 | Bamberg | 17 | 2026-01-26 |
 | Frankfurt Sona | 15 | 2026-02-17 |
