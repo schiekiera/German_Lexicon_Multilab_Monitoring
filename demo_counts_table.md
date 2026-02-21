@@ -11,7 +11,7 @@
 | Mannheim Kognitive Psychologie | 48 | 2026-02-19 |
 | Wuppertal | 44 | 2026-02-20 |
 | FU | 34 | 2026-02-21 |
-| Köln | 33 | 2026-02-20 |
+| Köln | 34 | 2026-02-21 |
 | Münster | 30 | 2026-02-11 |
 | Twente | 29 | 2026-02-21 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
