@@ -36,7 +36,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Dresden | 28 | 2026-02-07 |
 | Twente | 28 | 2026-02-19 |
-| Erfurt | 27 | 2026-02-19 |
+| Erfurt | 27 | 2026-02-21 |
 | Bamberg | 17 | 2026-01-26 |
 | Frankfurt Sona | 15 | 2026-02-17 |
 | Ipu Sona | 13 | 2026-02-20 |
