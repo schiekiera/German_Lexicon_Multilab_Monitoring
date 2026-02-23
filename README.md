@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 1119
+**Total data files saved across all labs:** 1120
 
 **Overall progress (Target: 1440 participants):**
 
-[███████████████████████░░░░░░░] 1119 / 1440 (77.7%)
+[███████████████████████░░░░░░░] 1120 / 1440 (77.8%)
 
 ### Table: Progress per lab
 
@@ -31,7 +31,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Mannheim Kognitive Psychologie | 48 | 2026-02-19 |
 | Wuppertal | 45 | 2026-02-23 |
 | FU | 44 | 2026-02-23 |
-| Köln | 43 | 2026-02-23 |
+| Köln | 44 | 2026-02-23 |
 | Münster | 30 | 2026-02-11 |
 | Twente | 30 | 2026-02-21 |
 | Erfurt | 29 | 2026-02-23 |
