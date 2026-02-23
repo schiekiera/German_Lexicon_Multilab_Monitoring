@@ -30,7 +30,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Aachen | 51 | 2026-01-18 |
 | Mannheim Kognitive Psychologie | 48 | 2026-02-19 |
 | Wuppertal | 45 | 2026-02-23 |
-| FU | 41 | 2026-02-22 |
+| FU | 41 | 2026-02-23 |
 | Köln | 39 | 2026-02-23 |
 | Münster | 30 | 2026-02-11 |
 | Twente | 30 | 2026-02-21 |
