@@ -3,12 +3,12 @@
 | IU | 241 | 2026-02-24 |
 | HU | 91 | 2026-02-24 |
 | Pavia | 81 | 2026-02-20 |
-| Tübingen | 76 | 2026-02-23 |
+| Tübingen | 76 | 2026-02-24 |
 | Leipzig | 75 | 2026-02-23 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Aachen | 51 | 2026-01-18 |
-| Mannheim Kognitive Psychologie | 48 | 2026-02-19 |
+| Mannheim Kognitive Psychologie | 49 | 2026-02-19 |
 | Wuppertal | 47 | 2026-02-24 |
 | Köln | 45 | 2026-02-23 |
 | FU | 44 | 2026-02-23 |
