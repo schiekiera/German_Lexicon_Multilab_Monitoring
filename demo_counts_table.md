@@ -9,7 +9,7 @@
 | Marburg | 65 | 2026-01-18 |
 | Aachen | 51 | 2026-01-18 |
 | Mannheim Kognitive Psychologie | 49 | 2026-02-24 |
-| Köln | 47 | 2026-02-24 |
+| Köln | 48 | 2026-02-24 |
 | Wuppertal | 47 | 2026-02-24 |
 | FU | 44 | 2026-02-23 |
 | Münster | 30 | 2026-02-11 |
