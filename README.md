@@ -32,7 +32,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Mannheim Kognitive Psychologie | 49 | 2026-02-24 |
 | Wuppertal | 49 | 2026-02-25 |
 | FU | 48 | 2026-02-25 |
-| Twente | 31 | 2026-02-21 |
+| Twente | 31 | 2026-02-25 |
 | Erfurt | 30 | 2026-02-25 |
 | Münster | 30 | 2026-02-11 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
