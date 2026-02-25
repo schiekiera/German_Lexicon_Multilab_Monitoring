@@ -20,7 +20,7 @@
 | Bamberg | 17 | 2026-01-26 |
 | Frankfurt Sona | 16 | 2026-02-24 |
 | Ipu Sona | 13 | 2026-02-20 |
-| Göttingen | 11 | 2026-02-15 |
+| Göttingen | 11 | 2026-02-25 |
 | Hildesheim | 1 | 2026-02-11 |
 | Frankfurt Prolific | 0 |  |
 | IPN | 0 |  |
