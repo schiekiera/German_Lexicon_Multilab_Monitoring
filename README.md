@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 1169
+**Total data files saved across all labs:** 1171
 
 **Overall progress (Target: 1440 participants):**
 
-[████████████████████████░░░░░░] 1169 / 1440 (81.2%)
+[████████████████████████░░░░░░] 1171 / 1440 (81.3%)
 
 ### Table: Progress per lab
 
@@ -29,8 +29,8 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Marburg | 65 | 2026-01-18 |
 | Aachen | 51 | 2026-01-18 |
 | Köln | 51 | 2026-02-26 |
+| Wuppertal | 50 | 2026-02-25 |
 | Mannheim Kognitive Psychologie | 49 | 2026-02-24 |
-| Wuppertal | 49 | 2026-02-25 |
 | FU | 48 | 2026-02-25 |
 | Twente | 31 | 2026-02-25 |
 | Erfurt | 30 | 2026-02-25 |
@@ -41,8 +41,8 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Frankfurt Sona | 16 | 2026-02-24 |
 | Ipu Sona | 13 | 2026-02-20 |
 | Göttingen | 11 | 2026-02-25 |
+| Potsdam Sona | 2 | 2026-02-25 |
 | Hildesheim | 1 | 2026-02-11 |
-| Potsdam Sona | 1 | 2026-02-25 |
 | Frankfurt Prolific | 0 |  |
 | IPN | 0 |  |
 | Ipu Prolific | 0 |  |
