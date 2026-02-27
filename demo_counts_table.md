@@ -1,14 +1,14 @@
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
-| IU | 267 | 2026-02-26 |
+| IU | 268 | 2026-02-27 |
 | HU | 93 | 2026-02-26 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 76 | 2026-02-24 |
 | Leipzig | 75 | 2026-02-23 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
+| Mannheim Kognitive Psychologie | 54 | 2026-02-27 |
 | Köln | 53 | 2026-02-26 |
-| Mannheim Kognitive Psychologie | 53 | 2026-02-27 |
 | Aachen | 51 | 2026-01-18 |
 | Wuppertal | 50 | 2026-02-26 |
 | FU | 49 | 2026-02-26 |
