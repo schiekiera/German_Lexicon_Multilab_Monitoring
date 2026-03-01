@@ -11,7 +11,7 @@
 | Köln | 61 | 2026-03-01 |
 | Mannheim Kognitive Psychologie | 58 | 2026-03-01 |
 | Aachen | 51 | 2026-01-18 |
-| Wuppertal | 50 | 2026-02-26 |
+| Wuppertal | 51 | 2026-02-26 |
 | Twente | 31 | 2026-02-25 |
 | Erfurt | 30 | 2026-02-25 |
 | Münster | 30 | 2026-02-11 |
