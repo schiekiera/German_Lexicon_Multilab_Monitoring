@@ -1,7 +1,7 @@
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
 | IU | 277 | 2026-03-01 |
-| HU | 96 | 2026-02-28 |
+| HU | 97 | 2026-02-28 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 76 | 2026-02-24 |
 | Leipzig | 75 | 2026-02-23 |
@@ -21,7 +21,7 @@
 | Frankfurt Sona | 16 | 2026-02-24 |
 | Ipu Sona | 16 | 2026-02-28 |
 | Göttingen | 11 | 2026-02-25 |
-| Potsdam Sona | 7 | 2026-02-27 |
+| Potsdam Sona | 7 | 2026-03-01 |
 | Hildesheim | 1 | 2026-02-11 |
 | Frankfurt Prolific | 0 |  |
 | IPN | 0 |  |
