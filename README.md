@@ -25,7 +25,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 76 | 2026-02-24 |
 | Leipzig | 75 | 2026-02-23 |
-| FU | 69 | 2026-03-02 |
+| FU | 69 | 2026-03-03 |
 | Köln | 67 | 2026-03-03 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
