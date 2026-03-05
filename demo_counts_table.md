@@ -5,8 +5,8 @@
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 76 | 2026-03-04 |
+| Köln | 71 | 2026-03-05 |
 | FU | 70 | 2026-03-04 |
-| Köln | 70 | 2026-03-05 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Mannheim Kognitive Psychologie | 60 | 2026-03-05 |
