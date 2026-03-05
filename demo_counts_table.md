@@ -9,7 +9,7 @@
 | Köln | 68 | 2026-03-03 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
-| Mannheim Kognitive Psychologie | 59 | 2026-03-04 |
+| Mannheim Kognitive Psychologie | 60 | 2026-03-04 |
 | Wuppertal | 53 | 2026-03-04 |
 | Aachen | 51 | 2026-01-18 |
 | Twente | 32 | 2026-03-03 |
