@@ -1,23 +1,23 @@
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
-| IU | 309 | 2026-03-05 |
+| IU | 310 | 2026-03-05 |
 | HU | 103 | 2026-03-05 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 76 | 2026-03-04 |
 | FU | 70 | 2026-03-04 |
-| Köln | 69 | 2026-03-03 |
+| Köln | 70 | 2026-03-05 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Mannheim Kognitive Psychologie | 60 | 2026-03-05 |
-| Wuppertal | 54 | 2026-03-05 |
+| Wuppertal | 55 | 2026-03-05 |
 | Aachen | 51 | 2026-01-18 |
 | Twente | 32 | 2026-03-03 |
 | Erfurt | 31 | 2026-03-03 |
 | Münster | 30 | 2026-02-11 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Dresden | 28 | 2026-02-07 |
-| Frankfurt Sona | 18 | 2026-03-03 |
+| Frankfurt Sona | 18 | 2026-03-05 |
 | Bamberg | 17 | 2026-01-26 |
 | Ipu Sona | 16 | 2026-02-28 |
 | Göttingen | 11 | 2026-02-25 |
