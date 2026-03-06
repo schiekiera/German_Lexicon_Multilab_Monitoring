@@ -6,7 +6,7 @@
 | Tübingen | 80 | 2026-03-04 |
 | Köln | 79 | 2026-03-06 |
 | Leipzig | 76 | 2026-03-04 |
-| FU | 71 | 2026-03-04 |
+| FU | 71 | 2026-03-06 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Mannheim Kognitive Psychologie | 60 | 2026-03-05 |
