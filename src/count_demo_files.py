@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 BASE_URL = "https://amor.cms.hu-berlin.de/~petrenal/GermanLexiconProject/jspsych.8.2.1/data_collection_progress/"
 MAPPING_URL = "https://raw.githubusercontent.com/petrenca/German_Lexicon_Project/refs/heads/main/consent_forms/combined_mapping.json"
-TARGET_TOTAL_DEMO = 1440  # Gesamtziel für DEMO-Dateien
+TARGET_TOTAL_DEMO = 2405  # Gesamtziel für DEMO-Dateien
 
 README_PATH = Path("README.md")
 LATEST_CSV_PATH = Path("demo_counts_latest.csv")
