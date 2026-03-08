@@ -20,9 +20,9 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
-| IU | 319 | 2026-03-07 |
+| IU | 319 | 2026-03-08 |
 | HU | 104 | 2026-03-06 |
-| Köln | 83 | 2026-03-07 |
+| Köln | 83 | 2026-03-08 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 76 | 2026-03-04 |
