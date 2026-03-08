@@ -40,7 +40,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Frankfurt Sona | 18 | 2026-03-05 |
 | Bamberg | 17 | 2026-01-26 |
 | Ipu Sona | 16 | 2026-02-28 |
-| Göttingen | 12 | 2026-02-25 |
+| Göttingen | 12 | 2026-03-08 |
 | Potsdam Sona | 9 | 2026-03-02 |
 | Hildesheim | 1 | 2026-02-11 |
 | Frankfurt Prolific | 0 |  |
