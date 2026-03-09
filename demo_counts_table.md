@@ -9,7 +9,7 @@
 | FU | 71 | 2026-03-06 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
-| Mannheim Kognitive Psychologie | 62 | 2026-03-07 |
+| Mannheim Kognitive Psychologie | 62 | 2026-03-09 |
 | Wuppertal | 56 | 2026-03-06 |
 | Aachen | 51 | 2026-01-18 |
 | Twente | 34 | 2026-03-08 |
