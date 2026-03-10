@@ -9,10 +9,10 @@
 | FU | 71 | 2026-03-06 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
-| Mannheim Kognitive Psychologie | 64 | 2026-03-09 |
+| Mannheim Kognitive Psychologie | 64 | 2026-03-10 |
 | Wuppertal | 56 | 2026-03-06 |
 | Aachen | 51 | 2026-01-18 |
-| Twente | 35 | 2026-03-10 |
+| Twente | 36 | 2026-03-10 |
 | Erfurt | 31 | 2026-03-03 |
 | Münster | 30 | 2026-02-11 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
