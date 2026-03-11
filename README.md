@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 1404
+**Total data files saved across all labs:** 1406
 
 **Overall progress (Target: 2405 participants):**
 
-[██████████████████░░░░░░░░░░░░] 1404 / 2405 (58.4%)
+[██████████████████░░░░░░░░░░░░] 1406 / 2405 (58.5%)
 
 ### Table: Progress per lab
 
@@ -37,12 +37,12 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Münster | 30 | 2026-02-11 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Dresden | 28 | 2026-02-07 |
-| Frankfurt Sona | 18 | 2026-03-05 |
+| Frankfurt Sona | 19 | 2026-03-05 |
 | Bamberg | 17 | 2026-01-26 |
 | Ipu Sona | 16 | 2026-02-28 |
 | Potsdam Sona | 14 | 2026-03-11 |
 | Göttingen | 13 | 2026-03-11 |
-| Hagen | 9 | 2026-03-11 |
+| Hagen | 10 | 2026-03-11 |
 | Hildesheim | 1 | 2026-02-11 |
 | Frankfurt Prolific | 0 |  |
 | IPN | 0 |  |
