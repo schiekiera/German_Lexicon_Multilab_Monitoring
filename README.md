@@ -42,7 +42,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Ipu Sona | 16 | 2026-02-28 |
 | Potsdam Sona | 14 | 2026-03-11 |
 | Göttingen | 13 | 2026-03-11 |
-| Hagen | 12 | 2026-03-11 |
+| Hagen | 12 | 2026-03-12 |
 | Hildesheim | 1 | 2026-02-11 |
 | Frankfurt Prolific | 0 |  |
 | IPN | 0 |  |
