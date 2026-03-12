@@ -19,7 +19,7 @@
 | Dresden | 28 | 2026-02-07 |
 | Frankfurt Sona | 19 | 2026-03-11 |
 | Bamberg | 17 | 2026-01-26 |
-| Hagen | 16 | 2026-03-12 |
+| Hagen | 17 | 2026-03-12 |
 | Ipu Sona | 16 | 2026-02-28 |
 | Potsdam Sona | 14 | 2026-03-11 |
 | Göttingen | 13 | 2026-03-11 |
