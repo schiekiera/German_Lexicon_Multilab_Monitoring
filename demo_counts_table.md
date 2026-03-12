@@ -22,10 +22,11 @@
 | Ipu Sona | 16 | 2026-02-28 |
 | Potsdam Sona | 14 | 2026-03-11 |
 | Göttingen | 13 | 2026-03-11 |
-| Hagen | 12 | 2026-03-12 |
+| Hagen | 13 | 2026-03-12 |
 | Hildesheim | 1 | 2026-02-11 |
 | Frankfurt Prolific | 0 |  |
 | IPN | 0 |  |
 | Ipu Prolific | 0 |  |
 | Lüneburg | 0 |  |
 | Potsdam | 0 |  |
+| Trier | 0 |  |
