@@ -17,7 +17,7 @@
 | Münster | 30 | 2026-02-11 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Dresden | 28 | 2026-02-07 |
-| Hagen | 23 | 2026-03-13 |
+| Hagen | 24 | 2026-03-13 |
 | Frankfurt Sona | 19 | 2026-03-11 |
 | Bamberg | 17 | 2026-01-26 |
 | Ipu Sona | 16 | 2026-02-28 |
