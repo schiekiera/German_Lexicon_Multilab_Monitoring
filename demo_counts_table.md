@@ -7,13 +7,13 @@
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 76 | 2026-03-04 |
 | FU | 71 | 2026-03-06 |
+| Mannheim Kognitive Psychologie | 66 | 2026-03-15 |
 | Darmstadt | 65 | 2026-02-06 |
-| Mannheim Kognitive Psychologie | 65 | 2026-03-15 |
 | Marburg | 65 | 2026-01-18 |
 | Wuppertal | 60 | 2026-03-14 |
+| Hagen | 52 | 2026-03-15 |
 | Aachen | 51 | 2026-01-18 |
-| Hagen | 51 | 2026-03-15 |
-| Twente | 38 | 2026-03-13 |
+| Twente | 38 | 2026-03-15 |
 | Erfurt | 31 | 2026-03-03 |
 | Münster | 31 | 2026-03-15 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
