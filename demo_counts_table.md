@@ -23,7 +23,7 @@
 | Ipu Sona | 16 | 2026-02-28 |
 | Potsdam Sona | 16 | 2026-03-20 |
 | Göttingen | 14 | 2026-03-17 |
-| Hildesheim | 13 | 2026-03-20 |
+| Hildesheim | 14 | 2026-03-20 |
 | Frankfurt Prolific | 0 |  |
 | IPN | 0 |  |
 | Ipu Prolific | 0 |  |
