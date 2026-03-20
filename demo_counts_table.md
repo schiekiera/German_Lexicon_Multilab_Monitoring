@@ -15,7 +15,7 @@
 | Aachen | 51 | 2026-01-18 |
 | Twente | 39 | 2026-03-19 |
 | Erfurt | 32 | 2026-03-18 |
-| Münster | 31 | 2026-03-15 |
+| Münster | 32 | 2026-03-15 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Dresden | 28 | 2026-02-07 |
 | Frankfurt Sona | 21 | 2026-03-19 |
