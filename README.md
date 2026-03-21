@@ -59,5 +59,18 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ![Overall data collection progress over time](plots/overall_progress.png)
 
+### Plot: New datasets collected per day
+
+![New datasets collected per day](plots/new_datasets_per_day.png)
+
+### Table: Average new datasets per day (rolling windows)
+
+| Window | Avg new datasets/day |
+|--------|-----------------------|
+| Last 3 days | 7.00 |
+| Last 7 days | 15.14 |
+| Last 14 days | 17.29 |
+| Last 30 days | 20.80 |
+
 <!-- END_DEMO_TABLE -->
 

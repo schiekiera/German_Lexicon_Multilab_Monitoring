@@ -19,6 +19,7 @@ TABLE_MD_PATH = Path("demo_counts_table.md")
 PLOTS_DIR = Path("plots")
 PROGRESS_PLOT_PATH = PLOTS_DIR / "data_collection_progress.png"
 OVERALL_PLOT_PATH = PLOTS_DIR / "overall_progress.png"
+DAILY_NEW_PLOT_PATH = PLOTS_DIR / "new_datasets_per_day.png"
 
 MARKER_START = "<!-- START_DEMO_TABLE -->"
 MARKER_END = "<!-- END_DEMO_TABLE -->"
@@ -165,6 +166,91 @@ def make_progress_bar(current, total, bar_length=30):
     return f"[{bar}] {current} / {total} ({percent:.1f}%)"
 
 
+def get_daily_new_from_history():
+    """
+    Computes daily new datasets across all active labs based on history.
+    Returns a list of tuples: [(date, new_count), ...] sorted by date.
+    """
+    if not HISTORY_CSV_PATH.exists():
+        return []
+
+    records = []
+    with HISTORY_CSV_PATH.open("r", newline="", encoding="utf-8") as f:
+        reader = csv.reader(f)
+        next(reader, None)
+        for row in reader:
+            if len(row) < 3:
+                continue
+            ts_str, uni, count_str = row[0], row[1], row[2]
+            try:
+                ts = datetime.strptime(ts_str, "%Y-%m-%dT%H-%M-%SZ")
+                count = int(count_str)
+            except ValueError:
+                continue
+            records.append({"timestamp": ts, "uni": uni, "count": count})
+
+    if not records:
+        return []
+
+    latest_ts = max(r["timestamp"] for r in records)
+    active_labs = {
+        r["uni"]
+        for r in records
+        if r["timestamp"] == latest_ts and r["count"] >= 1
+    }
+    if not active_labs:
+        return []
+
+    active_records = [r for r in records if r["uni"] in active_labs]
+
+    per_lab_daily = defaultdict(dict)  # uni -> {date -> (timestamp, count)}
+    for r in active_records:
+        d = r["timestamp"].date()
+        cur = per_lab_daily[r["uni"]].get(d)
+        if cur is None or r["timestamp"] > cur[0]:
+            per_lab_daily[r["uni"]][d] = (r["timestamp"], r["count"])
+
+    all_dates = sorted({d for lab_data in per_lab_daily.values() for d in lab_data.keys()})
+    total_daily = {}
+    for d in all_dates:
+        day_total = 0
+        for uni in active_labs:
+            lab_history = per_lab_daily[uni]
+            past_dates = [ud for ud in lab_history.keys() if ud <= d]
+            if past_dates:
+                latest_ud = max(past_dates)
+                day_total += lab_history[latest_ud][1]
+        total_daily[d] = day_total
+
+    daily_new = []
+    prev_total = 0
+    for d in sorted(total_daily.keys()):
+        current_total = total_daily[d]
+        new_count = max(current_total - prev_total, 0)
+        daily_new.append((d, new_count))
+        prev_total = current_total
+
+    return daily_new
+
+
+def make_recent_average_new_table(daily_new):
+    """
+    Builds a markdown table with rolling averages of new datasets/day.
+    Windows: 3, 7, 14, 30 days.
+    """
+    if not daily_new:
+        return "| Window | Avg new datasets/day |\n|--------|-----------------------|\n| Last 3 days | 0.00 |\n| Last 7 days | 0.00 |\n| Last 14 days | 0.00 |\n| Last 30 days | 0.00 |\n"
+
+    windows = [3, 7, 14, 30]
+    values = [n for _, n in daily_new]
+    lines = ["| Window | Avg new datasets/day |", "|--------|-----------------------|"]
+    for w in windows:
+        subset = values[-w:]
+        avg = (sum(subset) / len(subset)) if subset else 0.0
+        lines.append(f"| Last {w} days | {avg:.2f} |")
+    return "\n".join(lines) + "\n"
+
+
 def make_readme_section(rows, target_total=TARGET_TOTAL_DEMO):
     """
     Baut den Markdown-Block für die README:
@@ -175,6 +261,8 @@ def make_readme_section(rows, target_total=TARGET_TOTAL_DEMO):
     total_current = sum(r["n_participants"] for r in rows)
     table_md = make_markdown_table(rows).rstrip()
     progress_bar = make_progress_bar(total_current, target_total)
+    daily_new = get_daily_new_from_history()
+    recent_avg_md = make_recent_average_new_table(daily_new).rstrip()
 
     parts = [
         "### Overall progress",
@@ -196,6 +284,14 @@ def make_readme_section(rows, target_total=TARGET_TOTAL_DEMO):
         "### Plot: Overall progress over time",
         "",
         "![Overall data collection progress over time](plots/overall_progress.png)",
+        "",
+        "### Plot: New datasets collected per day",
+        "",
+        "![New datasets collected per day](plots/new_datasets_per_day.png)",
+        "",
+        "### Table: Average new datasets per day (rolling windows)",
+        "",
+        recent_avg_md,
         "",
     ]
 
@@ -324,6 +420,26 @@ def create_progress_plot():
     plt.tight_layout()
 
     plt.savefig(OVERALL_PLOT_PATH, dpi=300)
+    plt.close()
+
+    # --- Dritter Plot: Neu hinzugekommene Datensätze pro Tag ---
+    daily_new = []
+    prev_total = 0
+    for d in dates:
+        current_total = total_daily[d]
+        new_count = max(current_total - prev_total, 0)
+        daily_new.append(new_count)
+        prev_total = current_total
+
+    plt.figure(figsize=(10, 5), dpi=200)
+    plt.bar(dates, daily_new, color="#3498db")
+    plt.xlabel("Date")
+    plt.ylabel("New datasets collected")
+    plt.title("New Datasets Collected Per Day")
+    plt.grid(True, axis="y", alpha=0.3)
+    plt.gcf().autofmt_xdate()
+    plt.tight_layout()
+    plt.savefig(DAILY_NEW_PLOT_PATH, dpi=300)
     plt.close()
 
 
