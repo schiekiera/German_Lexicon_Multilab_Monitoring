@@ -65,12 +65,12 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Table: Average new datasets per day (rolling windows)
 
-| Window | Avg new datasets/day |
-|--------|-----------------------|
-| Last 3 days | 7.00 |
-| Last 7 days | 15.14 |
-| Last 14 days | 17.29 |
-| Last 30 days | 20.80 |
+| Window | Start | End | Avg new datasets/day |
+|--------|-------|-----|-----------------------|
+| Last 3 days | 2026-03-18 | 2026-03-20 | 12.67 |
+| Last 7 days | 2026-03-14 | 2026-03-20 | 16.71 |
+| Last 14 days | 2026-03-07 | 2026-03-20 | 17.57 |
+| Last 30 days | 2026-02-19 | 2026-03-20 | 21.63 |
 
 <!-- END_DEMO_TABLE -->
 

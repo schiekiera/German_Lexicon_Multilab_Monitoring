@@ -1,7 +1,7 @@
 import requests
 import csv
 from collections import defaultdict
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 
 import matplotlib
@@ -238,16 +238,25 @@ def make_recent_average_new_table(daily_new):
     Builds a markdown table with rolling averages of new datasets/day.
     Windows: 3, 7, 14, 30 days.
     """
-    if not daily_new:
-        return "| Window | Avg new datasets/day |\n|--------|-----------------------|\n| Last 3 days | 0.00 |\n| Last 7 days | 0.00 |\n| Last 14 days | 0.00 |\n| Last 30 days | 0.00 |\n"
-
+    today_utc = datetime.utcnow().date()
+    end_date = today_utc - timedelta(days=1)  # exclude today
     windows = [3, 7, 14, 30]
-    values = [n for _, n in daily_new]
-    lines = ["| Window | Avg new datasets/day |", "|--------|-----------------------|"]
+    daily_map = {d: n for d, n in daily_new}
+    lines = [
+        "| Window | Start | End | Avg new datasets/day |",
+        "|--------|-------|-----|-----------------------|",
+    ]
     for w in windows:
-        subset = values[-w:]
-        avg = (sum(subset) / len(subset)) if subset else 0.0
-        lines.append(f"| Last {w} days | {avg:.2f} |")
+        start_date = end_date - timedelta(days=w - 1)
+        window_values = []
+        cur = start_date
+        while cur <= end_date:
+            window_values.append(daily_map.get(cur, 0))
+            cur += timedelta(days=1)
+        avg = sum(window_values) / w
+        lines.append(
+            f"| Last {w} days | {start_date.isoformat()} | {end_date.isoformat()} | {avg:.2f} |"
+        )
     return "\n".join(lines) + "\n"
 
 
