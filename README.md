@@ -65,7 +65,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Table: Average new datasets per day (rolling windows)
 
-| Window | Start | End | Avg data/day | 1 | n1 | 2 | n2 | 3 | n3 | 4 | n4 | 5 | n5 | Rest | nRest |
+| Window | Start | End |  M(data/day) | 1 | n1 | 2 | n2 | 3 | n3 | 4 | n4 | 5 | n5 | Rest | nRest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|------|--------|
 | Last 3 days | 2026-03-18 | 2026-03-20 | 12.67 | Hildesheim | 13 | IU | 11 | Hagen | 5 | HU | 4 | Erfurt | 1 | Rest | 4 |
 | Last 7 days | 2026-03-14 | 2026-03-20 | 16.71 | Hagen | 41 | IU | 38 | Hildesheim | 13 | HU | 6 | Wuppertal | 4 | Rest | 15 |
