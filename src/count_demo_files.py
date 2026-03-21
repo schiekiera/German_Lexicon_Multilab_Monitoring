@@ -331,8 +331,6 @@ def make_readme_section(rows, target_total=TARGET_TOTAL_DEMO):
         "",
         "### Table: Average new datasets per day (rolling windows)",
         "",
-        "*Caption:* `Window` defines the rolling period ending yesterday (UTC), `Start`/`End` are the date bounds, `M(data/day)` is the mean daily gain within that window, columns `Rank_1-Rank_5` list the top contributing labs, `n_1-n_5` are their newly collected dataset counts, and `n_Rest` aggregates the combined new datasets from all remaining labs outside the top 5.",
-        "",
         recent_avg_md,
         "",
     ]
