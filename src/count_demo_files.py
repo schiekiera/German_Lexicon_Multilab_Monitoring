@@ -251,8 +251,8 @@ def make_recent_average_new_table(daily_new, per_lab_new_by_day):
     windows = [3, 7, 14, 30]
     daily_map = {d: n for d, n in daily_new}
     lines = [
-        "| Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | Rest | n_Rest |",
-        "|--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|------|--------|",
+        "| Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |",
+        "|--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|",
     ]
     for w in windows:
         start_date = end_date - timedelta(days=w - 1)
@@ -286,7 +286,7 @@ def make_recent_average_new_table(daily_new, per_lab_new_by_day):
             f"{rank_labs[2]} | {rank_counts[2]} | "
             f"{rank_labs[3]} | {rank_counts[3]} | "
             f"{rank_labs[4]} | {rank_counts[4]} | "
-            f"Rest | {rest_sum} |"
+            f"{rest_sum} |"
         )
     return "\n".join(lines) + "\n"
 
@@ -331,7 +331,7 @@ def make_readme_section(rows, target_total=TARGET_TOTAL_DEMO):
         "",
         "### Table: Average new datasets per day (rolling windows)",
         "",
-        "*Caption:* `Window` defines the rolling period ending yesterday (UTC), `Start`/`End` are the date bounds, `M(data/day)` is the mean daily gain within that window, columns `Rank_1-Rank_5` list the top contributing labs, `n_1-n_5` are their newly collected dataset counts, and `Rest`/`n_Rest` aggregate all remaining labs and their combined new datasets.",
+        "*Caption:* `Window` defines the rolling period ending yesterday (UTC), `Start`/`End` are the date bounds, `M(data/day)` is the mean daily gain within that window, columns `Rank_1-Rank_5` list the top contributing labs, `n_1-n_5` are their newly collected dataset counts, and `n_Rest` aggregates the combined new datasets from all remaining labs outside the top 5.",
         "",
         recent_avg_md,
         "",

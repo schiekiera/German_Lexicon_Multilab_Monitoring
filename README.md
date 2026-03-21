@@ -65,12 +65,14 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Table: Average new datasets per day (rolling windows)
 
-| Window | Start | End |  M(data/day) | 1 | n1 | 2 | n2 | 3 | n3 | 4 | n4 | 5 | n5 | Rest | nRest |
-|--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|------|--------|
-| Last 3 days | 2026-03-18 | 2026-03-20 | 12.67 | Hildesheim | 13 | IU | 11 | Hagen | 5 | HU | 4 | Erfurt | 1 | Rest | 4 |
-| Last 7 days | 2026-03-14 | 2026-03-20 | 16.71 | Hagen | 41 | IU | 38 | Hildesheim | 13 | HU | 6 | Wuppertal | 4 | Rest | 15 |
-| Last 14 days | 2026-03-07 | 2026-03-20 | 17.57 | IU | 81 | Hagen | 73 | Köln | 31 | Hildesheim | 13 | HU | 12 | Rest | 36 |
-| Last 30 days | 2026-02-19 | 2026-03-20 | 21.63 | IU | 212 | Köln | 87 | Pavia | 81 | Hagen | 73 | FU | 43 | Rest | 153 |
+*Caption:* `Window` defines the rolling period ending yesterday (UTC), `Start`/`End` are the date bounds, `M(data/day)` is the mean daily gain within that window, columns `Rank_1-Rank_5` list the top contributing labs, `n_1-n_5` are their newly collected dataset counts, and `n_Rest` aggregates the combined new datasets from all remaining labs outside the top 5.
+
+| Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
+|--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
+| Last 3 days | 2026-03-18 | 2026-03-20 | 12.67 | Hildesheim | 13 | IU | 11 | Hagen | 5 | HU | 4 | Erfurt | 1 | 4 |
+| Last 7 days | 2026-03-14 | 2026-03-20 | 16.71 | Hagen | 41 | IU | 38 | Hildesheim | 13 | HU | 6 | Wuppertal | 4 | 15 |
+| Last 14 days | 2026-03-07 | 2026-03-20 | 17.57 | IU | 81 | Hagen | 73 | Köln | 31 | Hildesheim | 13 | HU | 12 | 36 |
+| Last 30 days | 2026-02-19 | 2026-03-20 | 21.63 | IU | 212 | Köln | 87 | Pavia | 81 | Hagen | 73 | FU | 43 | 153 |
 
 <!-- END_DEMO_TABLE -->
 
