@@ -169,10 +169,12 @@ def make_progress_bar(current, total, bar_length=30):
 def get_daily_new_from_history():
     """
     Computes daily new datasets across all active labs based on history.
-    Returns a list of tuples: [(date, new_count), ...] sorted by date.
+    Returns:
+    - daily_new_total: list of tuples [(date, new_count), ...] sorted by date
+    - per_lab_new_by_day: dict {date -> {lab -> new_count}}
     """
     if not HISTORY_CSV_PATH.exists():
-        return []
+        return [], {}
 
     records = []
     with HISTORY_CSV_PATH.open("r", newline="", encoding="utf-8") as f:
@@ -190,7 +192,7 @@ def get_daily_new_from_history():
             records.append({"timestamp": ts, "uni": uni, "count": count})
 
     if not records:
-        return []
+        return [], {}
 
     latest_ts = max(r["timestamp"] for r in records)
     active_labs = {
@@ -199,7 +201,7 @@ def get_daily_new_from_history():
         if r["timestamp"] == latest_ts and r["count"] >= 1
     }
     if not active_labs:
-        return []
+        return [], {}
 
     active_records = [r for r in records if r["uni"] in active_labs]
 
@@ -211,29 +213,35 @@ def get_daily_new_from_history():
             per_lab_daily[r["uni"]][d] = (r["timestamp"], r["count"])
 
     all_dates = sorted({d for lab_data in per_lab_daily.values() for d in lab_data.keys()})
-    total_daily = {}
+
+    # Build cumulative per-lab daily series with carry-forward.
+    per_lab_cumulative_by_day = defaultdict(dict)  # date -> {lab -> cumulative_count}
+    for uni in sorted(active_labs):
+        lab_history = per_lab_daily[uni]
+        prev_count = 0
+        for d in all_dates:
+            if d in lab_history:
+                prev_count = lab_history[d][1]
+            per_lab_cumulative_by_day[d][clean_uni_label(uni)] = prev_count
+
+    # Convert cumulative per-lab series to per-lab daily increments.
+    per_lab_new_by_day = defaultdict(dict)  # date -> {lab -> new_count}
+    daily_new_total = []
+    prev_cumulative = {}
     for d in all_dates:
-        day_total = 0
-        for uni in active_labs:
-            lab_history = per_lab_daily[uni]
-            past_dates = [ud for ud in lab_history.keys() if ud <= d]
-            if past_dates:
-                latest_ud = max(past_dates)
-                day_total += lab_history[latest_ud][1]
-        total_daily[d] = day_total
+        day_total_new = 0
+        for lab, cumulative in per_lab_cumulative_by_day[d].items():
+            prev_val = prev_cumulative.get(lab, 0)
+            delta = max(cumulative - prev_val, 0)
+            per_lab_new_by_day[d][lab] = delta
+            day_total_new += delta
+            prev_cumulative[lab] = cumulative
+        daily_new_total.append((d, day_total_new))
 
-    daily_new = []
-    prev_total = 0
-    for d in sorted(total_daily.keys()):
-        current_total = total_daily[d]
-        new_count = max(current_total - prev_total, 0)
-        daily_new.append((d, new_count))
-        prev_total = current_total
-
-    return daily_new
+    return daily_new_total, per_lab_new_by_day
 
 
-def make_recent_average_new_table(daily_new):
+def make_recent_average_new_table(daily_new, per_lab_new_by_day):
     """
     Builds a markdown table with rolling averages of new datasets/day.
     Windows: 3, 7, 14, 30 days.
@@ -243,19 +251,36 @@ def make_recent_average_new_table(daily_new):
     windows = [3, 7, 14, 30]
     daily_map = {d: n for d, n in daily_new}
     lines = [
-        "| Window | Start | End | Avg new datasets/day |",
-        "|--------|-------|-----|-----------------------|",
+        "| Window | Start | End | Avg new datasets/day | 1 | 2 | 3 | 4 | 5 | Rest |",
+        "|--------|-------|-----|-----------------------|---|---|---|---|---|------|",
     ]
     for w in windows:
         start_date = end_date - timedelta(days=w - 1)
         window_values = []
+        lab_totals = defaultdict(int)
         cur = start_date
         while cur <= end_date:
             window_values.append(daily_map.get(cur, 0))
+            for lab, n_new in per_lab_new_by_day.get(cur, {}).items():
+                lab_totals[lab] += n_new
             cur += timedelta(days=1)
         avg = sum(window_values) / w
+
+        ranked = sorted(
+            [(lab, cnt) for lab, cnt in lab_totals.items() if cnt > 0],
+            key=lambda x: (-x[1], x[0]),
+        )
+        top_five = ranked[:5]
+        rest_sum = sum(cnt for _, cnt in ranked[5:])
+
+        rank_cells = [f"{lab} (n = {cnt})" for lab, cnt in top_five]
+        while len(rank_cells) < 5:
+            rank_cells.append("")
+        rest_cell = f"Rest (n = {rest_sum})"
+
         lines.append(
-            f"| Last {w} days | {start_date.isoformat()} | {end_date.isoformat()} | {avg:.2f} |"
+            f"| Last {w} days | {start_date.isoformat()} | {end_date.isoformat()} | {avg:.2f} | "
+            f"{rank_cells[0]} | {rank_cells[1]} | {rank_cells[2]} | {rank_cells[3]} | {rank_cells[4]} | {rest_cell} |"
         )
     return "\n".join(lines) + "\n"
 
@@ -270,8 +295,8 @@ def make_readme_section(rows, target_total=TARGET_TOTAL_DEMO):
     total_current = sum(r["n_participants"] for r in rows)
     table_md = make_markdown_table(rows).rstrip()
     progress_bar = make_progress_bar(total_current, target_total)
-    daily_new = get_daily_new_from_history()
-    recent_avg_md = make_recent_average_new_table(daily_new).rstrip()
+    daily_new, per_lab_new_by_day = get_daily_new_from_history()
+    recent_avg_md = make_recent_average_new_table(daily_new, per_lab_new_by_day).rstrip()
 
     parts = [
         "### Overall progress",

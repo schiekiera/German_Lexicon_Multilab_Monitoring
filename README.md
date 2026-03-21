@@ -65,12 +65,12 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Table: Average new datasets per day (rolling windows)
 
-| Window | Start | End | Avg new datasets/day |
-|--------|-------|-----|-----------------------|
-| Last 3 days | 2026-03-18 | 2026-03-20 | 12.67 |
-| Last 7 days | 2026-03-14 | 2026-03-20 | 16.71 |
-| Last 14 days | 2026-03-07 | 2026-03-20 | 17.57 |
-| Last 30 days | 2026-02-19 | 2026-03-20 | 21.63 |
+| Window | Start | End | Avg new datasets/day | 1 | 2 | 3 | 4 | 5 | Rest |
+|--------|-------|-----|-----------------------|---|---|---|---|---|------|
+| Last 3 days | 2026-03-18 | 2026-03-20 | 12.67 | Hildesheim (n = 13) | IU (n = 11) | Hagen (n = 5) | HU (n = 4) | Erfurt (n = 1) | Rest (n = 4) |
+| Last 7 days | 2026-03-14 | 2026-03-20 | 16.71 | Hagen (n = 41) | IU (n = 38) | Hildesheim (n = 13) | HU (n = 6) | Wuppertal (n = 4) | Rest (n = 15) |
+| Last 14 days | 2026-03-07 | 2026-03-20 | 17.57 | IU (n = 81) | Hagen (n = 73) | Köln (n = 31) | Hildesheim (n = 13) | HU (n = 12) | Rest (n = 36) |
+| Last 30 days | 2026-02-19 | 2026-03-20 | 21.63 | IU (n = 212) | Köln (n = 87) | Pavia (n = 81) | Hagen (n = 73) | FU (n = 43) | Rest (n = 153) |
 
 <!-- END_DEMO_TABLE -->
 
