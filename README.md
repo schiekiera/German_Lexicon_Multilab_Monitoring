@@ -65,8 +65,6 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Table: Average new datasets per day (rolling windows)
 
-*Caption:* `Window` defines the rolling period ending yesterday (UTC), `Start`/`End` are the date bounds, `M(data/day)` is the mean daily gain within that window, columns `Rank_1-Rank_5` list the top contributing labs, `n_1-n_5` are their newly collected dataset counts, and `n_Rest` aggregates the combined new datasets from all remaining labs outside the top 5.
-
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
 | Last 3 days | 2026-03-18 | 2026-03-20 | 12.67 | Hildesheim | 13 | IU | 11 | Hagen | 5 | HU | 4 | Erfurt | 1 | 4 |
