@@ -251,8 +251,8 @@ def make_recent_average_new_table(daily_new, per_lab_new_by_day):
     windows = [3, 7, 14, 30]
     daily_map = {d: n for d, n in daily_new}
     lines = [
-        "| Window | Start | End | Avg new datasets/day | 1 | 2 | 3 | 4 | 5 | Rest |",
-        "|--------|-------|-----|-----------------------|---|---|---|---|---|------|",
+        "| Window | Start | End |  M(data/day) | 1 | n1 | 2 | n2 | 3 | n3 | 4 | n4 | 5 | n5 | Rest | nRest |",
+        "|--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|------|--------|",
     ]
     for w in windows:
         start_date = end_date - timedelta(days=w - 1)
@@ -273,14 +273,20 @@ def make_recent_average_new_table(daily_new, per_lab_new_by_day):
         top_five = ranked[:5]
         rest_sum = sum(cnt for _, cnt in ranked[5:])
 
-        rank_cells = [f"{lab} (n = {cnt})" for lab, cnt in top_five]
-        while len(rank_cells) < 5:
-            rank_cells.append("")
-        rest_cell = f"Rest (n = {rest_sum})"
+        rank_labs = [lab for lab, _ in top_five]
+        rank_counts = [str(cnt) for _, cnt in top_five]
+        while len(rank_labs) < 5:
+            rank_labs.append("")
+            rank_counts.append("")
 
         lines.append(
             f"| Last {w} days | {start_date.isoformat()} | {end_date.isoformat()} | {avg:.2f} | "
-            f"{rank_cells[0]} | {rank_cells[1]} | {rank_cells[2]} | {rank_cells[3]} | {rank_cells[4]} | {rest_cell} |"
+            f"{rank_labs[0]} | {rank_counts[0]} | "
+            f"{rank_labs[1]} | {rank_counts[1]} | "
+            f"{rank_labs[2]} | {rank_counts[2]} | "
+            f"{rank_labs[3]} | {rank_counts[3]} | "
+            f"{rank_labs[4]} | {rank_counts[4]} | "
+            f"Rest | {rest_sum} |"
         )
     return "\n".join(lines) + "\n"
 
