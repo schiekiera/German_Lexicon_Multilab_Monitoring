@@ -20,8 +20,8 @@
 | Dresden | 28 | 2026-02-07 |
 | Frankfurt Sona | 21 | 2026-03-19 |
 | Bamberg | 17 | 2026-01-26 |
+| Potsdam Sona | 17 | 2026-03-20 |
 | Ipu Sona | 16 | 2026-02-28 |
-| Potsdam Sona | 16 | 2026-03-20 |
 | Hildesheim | 15 | 2026-03-21 |
 | Göttingen | 14 | 2026-03-17 |
 | Frankfurt Prolific | 0 |  |
