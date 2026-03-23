@@ -254,6 +254,33 @@ def make_recent_average_new_table(daily_new, per_lab_new_by_day):
         "| Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |",
         "|--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|",
     ]
+
+    # First row: datasets collected since today 00:00 UTC
+    today_values = per_lab_new_by_day.get(today_utc, {})
+    today_total = sum(today_values.values())
+    ranked_today = sorted(
+        [(lab, cnt) for lab, cnt in today_values.items() if cnt > 0],
+        key=lambda x: (-x[1], x[0]),
+    )
+    top_five_today = ranked_today[:5]
+    rest_sum_today = sum(cnt for _, cnt in ranked_today[5:])
+
+    rank_labs_today = [lab for lab, _ in top_five_today]
+    rank_counts_today = [str(cnt) for _, cnt in top_five_today]
+    while len(rank_labs_today) < 5:
+        rank_labs_today.append("")
+        rank_counts_today.append("")
+
+    lines.append(
+        f"| Since today 00:00 | {today_utc.isoformat()} | {today_utc.isoformat()} | {today_total:.2f} | "
+        f"{rank_labs_today[0]} | {rank_counts_today[0]} | "
+        f"{rank_labs_today[1]} | {rank_counts_today[1]} | "
+        f"{rank_labs_today[2]} | {rank_counts_today[2]} | "
+        f"{rank_labs_today[3]} | {rank_counts_today[3]} | "
+        f"{rank_labs_today[4]} | {rank_counts_today[4]} | "
+        f"{rest_sum_today} |"
+    )
+
     for w in windows:
         start_date = end_date - timedelta(days=w - 1)
         window_values = []
