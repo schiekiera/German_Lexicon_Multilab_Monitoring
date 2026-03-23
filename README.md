@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 1611
+**Total data files saved across all labs:** 1612
 
 **Overall progress (Target: 2405 participants):**
 
-[████████████████████░░░░░░░░░░] 1611 / 2405 (67.0%)
+[████████████████████░░░░░░░░░░] 1612 / 2405 (67.0%)
 
 ### Table: Progress per lab
 
@@ -40,8 +40,8 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Dresden | 28 | 2026-02-07 |
 | Frankfurt Sona | 21 | 2026-03-19 |
 | Hildesheim | 18 | 2026-03-23 |
+| Potsdam Sona | 18 | 2026-03-22 |
 | Bamberg | 17 | 2026-01-26 |
-| Potsdam Sona | 17 | 2026-03-22 |
 | Ipu Sona | 16 | 2026-02-28 |
 | Göttingen | 14 | 2026-03-17 |
 | Trier | 7 | 2026-03-23 |
@@ -67,7 +67,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-03-23 | 2026-03-23 | 18.00 | Trier | 7 | Hagen | 5 | IU | 3 | HU | 1 | Hildesheim | 1 | 1 |
+| Since today 00:00 | 2026-03-23 | 2026-03-23 | 19.00 | Trier | 7 | Hagen | 5 | IU | 3 | HU | 1 | Hildesheim | 1 | 2 |
 | Last 3 days | 2026-03-20 | 2026-03-22 | 9.67 | IU | 9 | Hagen | 8 | Hildesheim | 5 | HU | 2 | Potsdam Sona | 2 | 3 |
 | Last 7 days | 2026-03-16 | 2026-03-22 | 13.86 | IU | 37 | Hagen | 27 | Hildesheim | 16 | HU | 4 | Wuppertal | 3 | 10 |
 | Last 14 days | 2026-03-09 | 2026-03-22 | 17.86 | IU | 82 | Hagen | 79 | Köln | 28 | Hildesheim | 16 | HU | 11 | 34 |
