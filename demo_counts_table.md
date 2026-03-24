@@ -8,7 +8,7 @@
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 76 | 2026-03-04 |
 | FU | 72 | 2026-03-16 |
-| Mannheim Kognitive Psychologie | 69 | 2026-03-24 |
+| Mannheim Kognitive Psychologie | 70 | 2026-03-24 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Wuppertal | 63 | 2026-03-17 |
