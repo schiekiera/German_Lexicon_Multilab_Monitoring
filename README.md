@@ -38,7 +38,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Münster | 32 | 2026-03-20 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Dresden | 28 | 2026-02-07 |
-| Frankfurt Sona | 22 | 2026-03-19 |
+| Frankfurt Sona | 22 | 2026-03-25 |
 | Hildesheim | 21 | 2026-03-24 |
 | Potsdam Sona | 19 | 2026-03-25 |
 | Bamberg | 17 | 2026-01-26 |
