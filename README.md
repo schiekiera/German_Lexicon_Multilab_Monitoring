@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 1658
+**Total data files saved across all labs:** 1659
 
 **Overall progress (Target: 2453 participants):**
 
-[████████████████████░░░░░░░░░░] 1658 / 2453 (67.6%)
+[████████████████████░░░░░░░░░░] 1659 / 2453 (67.6%)
 
 ### Table: Progress per lab
 
@@ -27,7 +27,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 76 | 2026-03-04 |
-| FU | 73 | 2026-03-16 |
+| FU | 74 | 2026-03-25 |
 | Mannheim Kognitive Psychologie | 70 | 2026-03-24 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
@@ -68,7 +68,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-03-25 | 2026-03-25 | 29.00 | Hagen | 12 | IU | 7 | Graz | 4 | Erfurt | 1 | FU | 1 | 4 |
+| Since today 00:00 | 2026-03-25 | 2026-03-25 | 30.00 | Hagen | 12 | IU | 7 | Graz | 4 | FU | 2 | Erfurt | 1 | 4 |
 | Last 3 days | 2026-03-22 | 2026-03-24 | 15.67 | Hagen | 21 | Trier | 7 | Hildesheim | 6 | IU | 6 | Mannheim Kognitive Psychologie | 3 | 4 |
 | Last 7 days | 2026-03-18 | 2026-03-24 | 13.14 | Hagen | 26 | IU | 22 | Hildesheim | 20 | Trier | 7 | HU | 5 | 12 |
 | Last 14 days | 2026-03-11 | 2026-03-24 | 17.21 | Hagen | 91 | IU | 66 | Hildesheim | 20 | Köln | 20 | HU | 7 | 37 |
