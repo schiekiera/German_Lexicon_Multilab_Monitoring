@@ -8,7 +8,7 @@
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 76 | 2026-03-04 |
 | FU | 75 | 2026-03-27 |
-| Mannheim Kognitive Psychologie | 71 | 2026-03-24 |
+| Mannheim Kognitive Psychologie | 71 | 2026-03-27 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Wuppertal | 63 | 2026-03-17 |
@@ -20,7 +20,7 @@
 | Dresden | 28 | 2026-02-07 |
 | Hildesheim | 24 | 2026-03-27 |
 | Frankfurt Sona | 22 | 2026-03-25 |
-| Potsdam Sona | 20 | 2026-03-25 |
+| Potsdam Sona | 20 | 2026-03-27 |
 | Bamberg | 17 | 2026-01-26 |
 | Ipu Sona | 16 | 2026-02-28 |
 | Göttingen | 14 | 2026-03-17 |
