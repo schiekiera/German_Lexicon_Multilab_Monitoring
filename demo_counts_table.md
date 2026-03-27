@@ -18,7 +18,7 @@
 | Münster | 32 | 2026-03-20 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Dresden | 28 | 2026-02-07 |
-| Hildesheim | 23 | 2026-03-26 |
+| Hildesheim | 24 | 2026-03-26 |
 | Frankfurt Sona | 22 | 2026-03-25 |
 | Potsdam Sona | 19 | 2026-03-25 |
 | Bamberg | 17 | 2026-01-26 |
