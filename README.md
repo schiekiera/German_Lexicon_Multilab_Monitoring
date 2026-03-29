@@ -69,11 +69,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-03-28 | 2026-03-28 | 10.00 | Erfurt | 3 | HU | 2 | IU | 2 | Mannheim Kognitive Psychologie | 1 | Potsdam Sona | 1 | 1 |
-| Last 3 days | 2026-03-25 | 2026-03-27 | 16.67 | Hagen | 17 | IU | 11 | Erfurt | 9 | FU | 4 | Hildesheim | 3 | 6 |
-| Last 7 days | 2026-03-21 | 2026-03-27 | 14.86 | Hagen | 38 | IU | 22 | Erfurt | 10 | Hildesheim | 10 | Trier | 7 | 17 |
-| Last 14 days | 2026-03-14 | 2026-03-27 | 15.79 | Hagen | 79 | IU | 60 | Hildesheim | 23 | Erfurt | 11 | HU | 9 | 39 |
-| Last 30 days | 2026-02-26 | 2026-03-27 | 17.20 | IU | 163 | Hagen | 111 | Köln | 62 | FU | 28 | HU | 28 | 124 |
+| Since today 00:00 | 2026-03-29 | 2026-03-29 | 0.00 |  |  |  |  |  |  |  |  |  |  | 0 |
+| Last 3 days | 2026-03-26 | 2026-03-28 | 11.33 | Erfurt | 11 | IU | 6 | Hagen | 5 | HU | 3 | FU | 2 | 7 |
+| Last 7 days | 2026-03-22 | 2026-03-28 | 15.29 | Hagen | 38 | IU | 19 | Erfurt | 13 | Hildesheim | 9 | Trier | 7 | 21 |
+| Last 14 days | 2026-03-15 | 2026-03-28 | 15.71 | Hagen | 72 | IU | 60 | Hildesheim | 23 | Erfurt | 14 | HU | 11 | 40 |
+| Last 30 days | 2026-02-27 | 2026-03-28 | 16.77 | IU | 155 | Hagen | 111 | Köln | 59 | HU | 28 | FU | 27 | 123 |
 
 <!-- END_DEMO_TABLE -->
 
