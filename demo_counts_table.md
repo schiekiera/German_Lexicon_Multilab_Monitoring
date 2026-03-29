@@ -11,9 +11,9 @@
 | Mannheim Kognitive Psychologie | 73 | 2026-03-29 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
-| Wuppertal | 64 | 2026-03-17 |
+| Wuppertal | 64 | 2026-03-29 |
 | Aachen | 51 | 2026-01-18 |
-| Erfurt | 46 | 2026-03-28 |
+| Erfurt | 46 | 2026-03-29 |
 | Twente | 39 | 2026-03-19 |
 | Münster | 32 | 2026-03-20 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
