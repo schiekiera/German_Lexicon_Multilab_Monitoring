@@ -22,7 +22,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 |-----|----------------------|-------------------|
 | IU | 424 | 2026-03-29 |
 | HU | 123 | 2026-03-29 |
-| Hagen | 112 | 2026-03-27 |
+| Hagen | 112 | 2026-03-29 |
 | Köln | 112 | 2026-03-15 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
