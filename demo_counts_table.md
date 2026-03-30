@@ -1,6 +1,6 @@
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
-| IU | 426 | 2026-03-30 |
+| IU | 427 | 2026-03-30 |
 | HU | 123 | 2026-03-29 |
 | Hagen | 112 | 2026-03-29 |
 | Köln | 112 | 2026-03-15 |
@@ -20,12 +20,12 @@
 | Dresden | 28 | 2026-02-07 |
 | Hildesheim | 24 | 2026-03-27 |
 | Frankfurt Sona | 22 | 2026-03-25 |
-| Potsdam Sona | 21 | 2026-03-28 |
+| Potsdam Sona | 22 | 2026-03-28 |
 | Bamberg | 17 | 2026-01-26 |
 | Ipu Sona | 16 | 2026-02-28 |
 | Göttingen | 14 | 2026-03-17 |
 | Trier | 10 | 2026-03-30 |
-| Frankfurt Prolific | 1 |  |
+| Frankfurt Prolific | 2 | 2026-03-30 |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
 | IPN | 0 |  |
 | Ipu Prolific | 0 |  |
