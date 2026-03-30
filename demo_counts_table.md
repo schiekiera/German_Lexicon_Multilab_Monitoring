@@ -25,8 +25,8 @@
 | Ipu Sona | 16 | 2026-02-28 |
 | Göttingen | 14 | 2026-03-17 |
 | Trier | 10 | 2026-03-30 |
+| Frankfurt Prolific | 1 |  |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
-| Frankfurt Prolific | 0 |  |
 | IPN | 0 |  |
 | Ipu Prolific | 0 |  |
 | Lüneburg | 0 |  |
