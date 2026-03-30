@@ -24,7 +24,7 @@
 | Bamberg | 17 | 2026-01-26 |
 | Ipu Sona | 16 | 2026-02-28 |
 | Göttingen | 14 | 2026-03-17 |
-| Trier | 8 | 2026-03-23 |
+| Trier | 9 | 2026-03-30 |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
 | Frankfurt Prolific | 0 |  |
 | IPN | 0 |  |
