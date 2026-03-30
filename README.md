@@ -69,11 +69,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-03-29 | 2026-03-29 | 12.00 | IU | 3 | Erfurt | 2 | HU | 2 | Wuppertal | 2 | FU | 1 | 2 |
-| Last 3 days | 2026-03-26 | 2026-03-28 | 11.33 | Erfurt | 11 | IU | 6 | Hagen | 5 | HU | 3 | FU | 2 | 7 |
-| Last 7 days | 2026-03-22 | 2026-03-28 | 15.29 | Hagen | 38 | IU | 19 | Erfurt | 13 | Hildesheim | 9 | Trier | 7 | 21 |
-| Last 14 days | 2026-03-15 | 2026-03-28 | 15.71 | Hagen | 72 | IU | 60 | Hildesheim | 23 | Erfurt | 14 | HU | 11 | 40 |
-| Last 30 days | 2026-02-27 | 2026-03-28 | 16.77 | IU | 155 | Hagen | 111 | Köln | 59 | HU | 28 | FU | 27 | 123 |
+| Since today 00:00 | 2026-03-30 | 2026-03-30 | 0.00 |  |  |  |  |  |  |  |  |  |  | 0 |
+| Last 3 days | 2026-03-27 | 2026-03-29 | 12.00 | Erfurt | 9 | IU | 8 | HU | 4 | FU | 3 | Hagen | 3 | 9 |
+| Last 7 days | 2026-03-23 | 2026-03-29 | 15.43 | Hagen | 33 | IU | 21 | Erfurt | 14 | HU | 7 | Hildesheim | 7 | 26 |
+| Last 14 days | 2026-03-16 | 2026-03-29 | 14.64 | Hagen | 60 | IU | 58 | Hildesheim | 23 | Erfurt | 16 | HU | 11 | 37 |
+| Last 30 days | 2026-02-28 | 2026-03-29 | 16.23 | IU | 151 | Hagen | 112 | Köln | 58 | HU | 30 | Hildesheim | 23 | 113 |
 
 <!-- END_DEMO_TABLE -->
 
