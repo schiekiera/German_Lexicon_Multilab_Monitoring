@@ -19,8 +19,8 @@
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Dresden | 28 | 2026-02-07 |
 | Hildesheim | 25 | 2026-03-30 |
+| Potsdam Sona | 23 | 2026-03-30 |
 | Frankfurt Sona | 22 | 2026-03-25 |
-| Potsdam Sona | 22 | 2026-03-30 |
 | Bamberg | 17 | 2026-01-26 |
 | Ipu Sona | 16 | 2026-02-28 |
 | Göttingen | 14 | 2026-03-17 |
