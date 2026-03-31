@@ -4,10 +4,10 @@
 | HU | 125 | 2026-03-31 |
 | Hagen | 113 | 2026-03-31 |
 | Köln | 112 | 2026-03-15 |
+| Frankfurt Prolific | 86 | 2026-03-31 |
 | FU | 81 | 2026-03-31 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
-| Frankfurt Prolific | 79 | 2026-03-31 |
 | Leipzig | 76 | 2026-03-04 |
 | Mannheim Kognitive Psychologie | 76 | 2026-03-31 |
 | Darmstadt | 65 | 2026-02-06 |
