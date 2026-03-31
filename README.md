@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 1730
+**Total data files saved across all labs:** 1732
 
 **Overall progress (Target: 2453 participants):**
 
-[█████████████████████░░░░░░░░░] 1730 / 2453 (70.5%)
+[█████████████████████░░░░░░░░░] 1732 / 2453 (70.6%)
 
 ### Table: Progress per lab
 
@@ -24,16 +24,16 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | HU | 124 | 2026-03-30 |
 | Hagen | 112 | 2026-03-29 |
 | Köln | 112 | 2026-03-15 |
+| FU | 81 | 2026-03-30 |
 | Pavia | 81 | 2026-02-20 |
-| FU | 80 | 2026-03-30 |
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 76 | 2026-03-04 |
-| Mannheim Kognitive Psychologie | 75 | 2026-03-30 |
+| Mannheim Kognitive Psychologie | 76 | 2026-03-30 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Wuppertal | 65 | 2026-03-29 |
 | Aachen | 51 | 2026-01-18 |
-| Erfurt | 51 | 2026-03-30 |
+| Erfurt | 51 | 2026-03-31 |
 | Twente | 39 | 2026-03-19 |
 | Münster | 32 | 2026-03-20 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
@@ -69,7 +69,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-03-31 | 2026-03-31 | 6.00 | Trier | 3 | IU | 2 | Erfurt | 1 |  |  |  |  | 0 |
+| Since today 00:00 | 2026-03-31 | 2026-03-31 | 8.00 | Trier | 3 | IU | 2 | Erfurt | 1 | FU | 1 | Mannheim Kognitive Psychologie | 1 | 0 |
 | Last 3 days | 2026-03-28 | 2026-03-30 | 15.00 | IU | 11 | Erfurt | 8 | HU | 5 | FU | 4 | Mannheim Kognitive Psychologie | 4 | 13 |
 | Last 7 days | 2026-03-24 | 2026-03-30 | 15.43 | Hagen | 24 | IU | 24 | Erfurt | 17 | FU | 8 | HU | 7 | 28 |
 | Last 14 days | 2026-03-17 | 2026-03-30 | 14.36 | IU | 51 | Hagen | 49 | Hildesheim | 24 | Erfurt | 19 | HU | 12 | 46 |
