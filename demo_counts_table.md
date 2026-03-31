@@ -1,6 +1,6 @@
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
-| IU | 433 | 2026-03-31 |
+| IU | 434 | 2026-03-31 |
 | HU | 124 | 2026-03-30 |
 | Hagen | 112 | 2026-03-29 |
 | Köln | 112 | 2026-03-15 |
@@ -15,13 +15,13 @@
 | Aachen | 51 | 2026-01-18 |
 | Erfurt | 51 | 2026-03-31 |
 | Twente | 40 | 2026-03-31 |
+| Frankfurt Prolific | 36 | 2026-03-31 |
 | Münster | 32 | 2026-03-20 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Dresden | 28 | 2026-02-07 |
 | Hildesheim | 25 | 2026-03-30 |
 | Potsdam Sona | 23 | 2026-03-30 |
 | Frankfurt Sona | 22 | 2026-03-25 |
-| Frankfurt Prolific | 20 | 2026-03-31 |
 | Bamberg | 17 | 2026-01-26 |
 | Ipu Sona | 16 | 2026-02-28 |
 | Göttingen | 14 | 2026-03-17 |

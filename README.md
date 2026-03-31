@@ -10,17 +10,17 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 1752
+**Total data files saved across all labs:** 1769
 
 **Overall progress (Target: 2453 participants):**
 
-[█████████████████████░░░░░░░░░] 1752 / 2453 (71.4%)
+[██████████████████████░░░░░░░░] 1769 / 2453 (72.1%)
 
 ### Table: Progress per lab
 
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
-| IU | 433 | 2026-03-31 |
+| IU | 434 | 2026-03-31 |
 | HU | 124 | 2026-03-30 |
 | Hagen | 112 | 2026-03-29 |
 | Köln | 112 | 2026-03-15 |
@@ -35,13 +35,13 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Aachen | 51 | 2026-01-18 |
 | Erfurt | 51 | 2026-03-31 |
 | Twente | 40 | 2026-03-31 |
+| Frankfurt Prolific | 36 | 2026-03-31 |
 | Münster | 32 | 2026-03-20 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Dresden | 28 | 2026-02-07 |
 | Hildesheim | 25 | 2026-03-30 |
 | Potsdam Sona | 23 | 2026-03-30 |
 | Frankfurt Sona | 22 | 2026-03-25 |
-| Frankfurt Prolific | 20 | 2026-03-31 |
 | Bamberg | 17 | 2026-01-26 |
 | Ipu Sona | 16 | 2026-02-28 |
 | Göttingen | 14 | 2026-03-17 |
@@ -69,7 +69,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-03-31 | 2026-03-31 | 28.00 | Frankfurt Prolific | 18 | IU | 3 | Trier | 3 | Erfurt | 1 | FU | 1 | 2 |
+| Since today 00:00 | 2026-03-31 | 2026-03-31 | 45.00 | Frankfurt Prolific | 34 | IU | 4 | Trier | 3 | Erfurt | 1 | FU | 1 | 2 |
 | Last 3 days | 2026-03-28 | 2026-03-30 | 15.00 | IU | 11 | Erfurt | 8 | HU | 5 | FU | 4 | Mannheim Kognitive Psychologie | 4 | 13 |
 | Last 7 days | 2026-03-24 | 2026-03-30 | 15.43 | Hagen | 24 | IU | 24 | Erfurt | 17 | FU | 8 | HU | 7 | 28 |
 | Last 14 days | 2026-03-17 | 2026-03-30 | 14.36 | IU | 51 | Hagen | 49 | Hildesheim | 24 | Erfurt | 19 | HU | 12 | 46 |
