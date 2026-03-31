@@ -1,7 +1,7 @@
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
 | IU | 434 | 2026-03-31 |
-| HU | 125 | 2026-03-30 |
+| HU | 125 | 2026-03-31 |
 | Hagen | 113 | 2026-03-31 |
 | Köln | 112 | 2026-03-15 |
 | FU | 81 | 2026-03-31 |
@@ -9,7 +9,7 @@
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 76 | 2026-03-04 |
 | Mannheim Kognitive Psychologie | 76 | 2026-03-31 |
-| Frankfurt Prolific | 69 | 2026-03-31 |
+| Frankfurt Prolific | 75 | 2026-03-31 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Wuppertal | 65 | 2026-03-29 |
