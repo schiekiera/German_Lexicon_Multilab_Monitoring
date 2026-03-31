@@ -10,17 +10,17 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 1726
+**Total data files saved across all labs:** 1728
 
 **Overall progress (Target: 2453 participants):**
 
-[█████████████████████░░░░░░░░░] 1726 / 2453 (70.4%)
+[█████████████████████░░░░░░░░░] 1728 / 2453 (70.4%)
 
 ### Table: Progress per lab
 
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
-| IU | 430 | 2026-03-30 |
+| IU | 431 | 2026-03-30 |
 | HU | 124 | 2026-03-30 |
 | Hagen | 112 | 2026-03-29 |
 | Köln | 112 | 2026-03-15 |
@@ -44,7 +44,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Bamberg | 17 | 2026-01-26 |
 | Ipu Sona | 16 | 2026-02-28 |
 | Göttingen | 14 | 2026-03-17 |
-| Trier | 12 | 2026-03-31 |
+| Trier | 13 | 2026-03-31 |
 | Frankfurt Prolific | 2 | 2026-03-30 |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
 | IPN | 0 |  |
@@ -69,7 +69,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-03-31 | 2026-03-31 | 2.00 | Trier | 2 |  |  |  |  |  |  |  |  | 0 |
+| Since today 00:00 | 2026-03-31 | 2026-03-31 | 4.00 | Trier | 3 | IU | 1 |  |  |  |  |  |  | 0 |
 | Last 3 days | 2026-03-28 | 2026-03-30 | 15.00 | IU | 11 | Erfurt | 8 | HU | 5 | FU | 4 | Mannheim Kognitive Psychologie | 4 | 13 |
 | Last 7 days | 2026-03-24 | 2026-03-30 | 15.43 | Hagen | 24 | IU | 24 | Erfurt | 17 | FU | 8 | HU | 7 | 28 |
 | Last 14 days | 2026-03-17 | 2026-03-30 | 14.36 | IU | 51 | Hagen | 49 | Hildesheim | 24 | Erfurt | 19 | HU | 12 | 46 |
