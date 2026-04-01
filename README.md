@@ -20,7 +20,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
-| IU | 435 | 2026-03-31 |
+| IU | 435 | 2026-04-01 |
 | HU | 125 | 2026-03-31 |
 | Hagen | 113 | 2026-03-31 |
 | Köln | 112 | 2026-03-15 |
@@ -47,7 +47,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Göttingen | 14 | 2026-03-17 |
 | Trier | 13 | 2026-03-31 |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
-| ULM | 1 |  |
+| ULM | 1 | 2026-04-01 |
 | IPN | 0 |  |
 | Ipu Prolific | 0 |  |
 | Lüneburg | 0 |  |
