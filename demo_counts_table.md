@@ -20,14 +20,14 @@
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Dresden | 28 | 2026-02-07 |
 | Hildesheim | 25 | 2026-03-30 |
-| Potsdam Sona | 23 | 2026-03-30 |
+| Potsdam Sona | 24 | 2026-03-30 |
 | Frankfurt Sona | 22 | 2026-03-25 |
 | Bamberg | 17 | 2026-01-26 |
 | Ipu Sona | 16 | 2026-02-28 |
 | Göttingen | 14 | 2026-03-17 |
 | Trier | 13 | 2026-03-31 |
+| ULM | 2 | 2026-04-01 |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
-| ULM | 1 | 2026-04-01 |
 | IPN | 0 |  |
 | Ipu Prolific | 0 |  |
 | Lüneburg | 0 |  |
