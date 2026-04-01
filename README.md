@@ -33,7 +33,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Wuppertal | 65 | 2026-03-29 |
-| Erfurt | 52 | 2026-03-31 |
+| Erfurt | 52 | 2026-04-01 |
 | Aachen | 51 | 2026-01-18 |
 | Twente | 41 | 2026-03-31 |
 | Münster | 32 | 2026-03-20 |
