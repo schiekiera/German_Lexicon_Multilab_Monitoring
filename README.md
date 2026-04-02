@@ -10,17 +10,17 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 1842
+**Total data files saved across all labs:** 1844
 
 **Overall progress (Target: 2453 participants):**
 
-[███████████████████████░░░░░░░] 1842 / 2453 (75.1%)
+[███████████████████████░░░░░░░] 1844 / 2453 (75.2%)
 
 ### Table: Progress per lab
 
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
-| IU | 436 | 2026-04-01 |
+| IU | 437 | 2026-04-01 |
 | HU | 125 | 2026-03-31 |
 | Hagen | 113 | 2026-03-31 |
 | Köln | 112 | 2026-03-15 |
@@ -39,12 +39,12 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Münster | 32 | 2026-03-20 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Dresden | 28 | 2026-02-07 |
-| Potsdam Sona | 27 | 2026-04-02 |
+| Potsdam Sona | 28 | 2026-04-02 |
 | Hildesheim | 25 | 2026-03-30 |
 | Frankfurt Sona | 23 | 2026-04-02 |
 | Bamberg | 17 | 2026-01-26 |
 | Ipu Sona | 16 | 2026-02-28 |
-| Trier | 15 | 2026-03-31 |
+| Trier | 15 | 2026-04-02 |
 | Göttingen | 14 | 2026-03-17 |
 | ULM | 2 | 2026-04-01 |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
@@ -69,7 +69,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-02 | 2026-04-02 | 5.00 | Trier | 2 | Erfurt | 1 | Frankfurt Sona | 1 | Potsdam Sona | 1 |  |  | 0 |
+| Since today 00:00 | 2026-04-02 | 2026-04-02 | 7.00 | Potsdam Sona | 2 | Trier | 2 | Erfurt | 1 | Frankfurt Sona | 1 | IU | 1 | 0 |
 | Last 3 days | 2026-03-30 | 2026-04-01 | 45.33 | Frankfurt Prolific | 90 | IU | 12 | Erfurt | 6 | Trier | 6 | FU | 5 | 17 |
 | Last 7 days | 2026-03-26 | 2026-04-01 | 26.00 | Frankfurt Prolific | 90 | IU | 21 | Erfurt | 19 | FU | 8 | HU | 7 | 37 |
 | Last 14 days | 2026-03-19 | 2026-04-01 | 20.21 | Frankfurt Prolific | 90 | IU | 46 | Hagen | 42 | Erfurt | 21 | Hildesheim | 16 | 68 |
