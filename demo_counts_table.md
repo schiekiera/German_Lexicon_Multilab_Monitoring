@@ -13,7 +13,7 @@
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Wuppertal | 65 | 2026-03-29 |
-| Erfurt | 54 | 2026-04-01 |
+| Erfurt | 54 | 2026-04-02 |
 | Aachen | 51 | 2026-01-18 |
 | Twente | 42 | 2026-04-01 |
 | Münster | 32 | 2026-03-20 |
@@ -24,8 +24,8 @@
 | Frankfurt Sona | 23 | 2026-04-02 |
 | Bamberg | 17 | 2026-01-26 |
 | Ipu Sona | 16 | 2026-02-28 |
+| Trier | 15 | 2026-03-31 |
 | Göttingen | 14 | 2026-03-17 |
-| Trier | 13 | 2026-03-31 |
 | ULM | 2 | 2026-04-01 |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
 | IPN | 0 |  |
