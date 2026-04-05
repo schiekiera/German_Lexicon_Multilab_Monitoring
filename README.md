@@ -30,7 +30,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Tübingen | 80 | 2026-03-04 |
 | Mannheim Kognitive Psychologie | 77 | 2026-04-02 |
 | Leipzig | 76 | 2026-03-04 |
-| Wuppertal | 66 | 2026-03-29 |
+| Wuppertal | 66 | 2026-04-05 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Erfurt | 56 | 2026-04-05 |
