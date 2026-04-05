@@ -26,7 +26,7 @@
 | Trier | 17 | 2026-04-02 |
 | Ipu Sona | 16 | 2026-02-28 |
 | Göttingen | 14 | 2026-03-17 |
-| ULM | 4 | 2026-04-03 |
+| ULM | 5 | 2026-04-03 |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
 | IPN | 0 |  |
 | Ipu Prolific | 0 |  |
