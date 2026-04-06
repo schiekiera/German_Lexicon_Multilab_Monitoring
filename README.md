@@ -10,17 +10,17 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 1873
+**Total data files saved across all labs:** 1874
 
 **Overall progress (Target: 2453 participants):**
 
-[███████████████████████░░░░░░░] 1873 / 2453 (76.4%)
+[███████████████████████░░░░░░░] 1874 / 2453 (76.4%)
 
 ### Table: Progress per lab
 
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
-| IU | 447 | 2026-04-06 |
+| IU | 448 | 2026-04-06 |
 | HU | 125 | 2026-03-31 |
 | Hagen | 113 | 2026-03-31 |
 | Köln | 112 | 2026-03-15 |
@@ -69,7 +69,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-06 | 2026-04-06 | 4.00 | Frankfurt Sona | 1 | IU | 1 | Ipu Sona | 1 | Mannheim Kognitive Psychologie | 1 |  |  | 0 |
+| Since today 00:00 | 2026-04-06 | 2026-04-06 | 5.00 | IU | 2 | Frankfurt Sona | 1 | Ipu Sona | 1 | Mannheim Kognitive Psychologie | 1 |  |  | 0 |
 | Last 3 days | 2026-04-03 | 2026-04-05 | 6.33 | IU | 9 | FU | 4 | Erfurt | 2 | ULM | 2 | Potsdam Sona | 1 | 1 |
 | Last 7 days | 2026-03-30 | 2026-04-05 | 24.00 | Frankfurt Prolific | 90 | IU | 22 | FU | 10 | Trier | 10 | Erfurt | 9 | 27 |
 | Last 14 days | 2026-03-23 | 2026-04-05 | 19.71 | Frankfurt Prolific | 90 | IU | 43 | Hagen | 34 | Erfurt | 23 | Trier | 17 | 69 |
