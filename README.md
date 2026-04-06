@@ -69,11 +69,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-05 | 2026-04-05 | 11.00 | IU | 5 | FU | 2 | Erfurt | 1 | Potsdam Sona | 1 | ULM | 1 | 1 |
-| Last 3 days | 2026-04-02 | 2026-04-04 | 7.00 | IU | 5 | Trier | 4 | FU | 3 | Potsdam Sona | 3 | Erfurt | 2 | 4 |
-| Last 7 days | 2026-03-29 | 2026-04-04 | 24.14 | Frankfurt Prolific | 90 | IU | 20 | Erfurt | 10 | Trier | 10 | FU | 9 | 30 |
-| Last 14 days | 2026-03-22 | 2026-04-04 | 19.71 | Frankfurt Prolific | 90 | Hagen | 40 | IU | 39 | Erfurt | 23 | Trier | 17 | 67 |
-| Last 30 days | 2026-03-06 | 2026-04-04 | 18.20 | IU | 130 | Hagen | 113 | Frankfurt Prolific | 90 | Köln | 39 | Erfurt | 24 | 150 |
+| Since today 00:00 | 2026-04-06 | 2026-04-06 | 0.00 |  |  |  |  |  |  |  |  |  |  | 0 |
+| Last 3 days | 2026-04-03 | 2026-04-05 | 6.33 | IU | 9 | FU | 4 | Erfurt | 2 | ULM | 2 | Potsdam Sona | 1 | 1 |
+| Last 7 days | 2026-03-30 | 2026-04-05 | 24.00 | Frankfurt Prolific | 90 | IU | 22 | FU | 10 | Trier | 10 | Erfurt | 9 | 27 |
+| Last 14 days | 2026-03-23 | 2026-04-05 | 19.71 | Frankfurt Prolific | 90 | IU | 43 | Hagen | 34 | Erfurt | 23 | Trier | 17 | 69 |
+| Last 30 days | 2026-03-07 | 2026-04-05 | 18.00 | IU | 130 | Hagen | 113 | Frankfurt Prolific | 90 | Köln | 31 | Erfurt | 25 | 151 |
 
 <!-- END_DEMO_TABLE -->
 
