@@ -69,11 +69,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-06 | 2026-04-06 | 6.00 | IU | 2 | Erfurt | 1 | Frankfurt Sona | 1 | Ipu Sona | 1 | Mannheim Kognitive Psychologie | 1 | 0 |
-| Last 3 days | 2026-04-03 | 2026-04-05 | 6.33 | IU | 9 | FU | 4 | Erfurt | 2 | ULM | 2 | Potsdam Sona | 1 | 1 |
-| Last 7 days | 2026-03-30 | 2026-04-05 | 24.00 | Frankfurt Prolific | 90 | IU | 22 | FU | 10 | Trier | 10 | Erfurt | 9 | 27 |
-| Last 14 days | 2026-03-23 | 2026-04-05 | 19.71 | Frankfurt Prolific | 90 | IU | 43 | Hagen | 34 | Erfurt | 23 | Trier | 17 | 69 |
-| Last 30 days | 2026-03-07 | 2026-04-05 | 18.00 | IU | 130 | Hagen | 113 | Frankfurt Prolific | 90 | Köln | 31 | Erfurt | 25 | 151 |
+| Since today 00:00 | 2026-04-07 | 2026-04-07 | 0.00 |  |  |  |  |  |  |  |  |  |  | 0 |
+| Last 3 days | 2026-04-04 | 2026-04-06 | 6.33 | IU | 8 | FU | 3 | Erfurt | 2 | Frankfurt Sona | 1 | Ipu Sona | 1 | 4 |
+| Last 7 days | 2026-03-31 | 2026-04-06 | 21.57 | Frankfurt Prolific | 88 | IU | 18 | Erfurt | 7 | FU | 7 | Potsdam Sona | 7 | 24 |
+| Last 14 days | 2026-03-24 | 2026-04-06 | 18.50 | Frankfurt Prolific | 90 | IU | 42 | Hagen | 25 | Erfurt | 24 | FU | 15 | 63 |
+| Last 30 days | 2026-03-08 | 2026-04-06 | 18.07 | IU | 130 | Hagen | 113 | Frankfurt Prolific | 90 | Köln | 30 | Erfurt | 26 | 153 |
 
 <!-- END_DEMO_TABLE -->
 
