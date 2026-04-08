@@ -46,7 +46,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Bamberg | 17 | 2026-01-26 |
 | Ipu Sona | 17 | 2026-04-06 |
 | Göttingen | 14 | 2026-03-17 |
-| ULM | 6 | 2026-04-05 |
+| ULM | 6 | 2026-04-07 |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
 | IPN | 0 |  |
 | Ipu Prolific | 0 |  |
@@ -69,11 +69,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-07 | 2026-04-07 | 8.00 | HU | 2 | Trier | 2 | FU | 1 | Hagen | 1 | IU | 1 | 1 |
-| Last 3 days | 2026-04-04 | 2026-04-06 | 6.33 | IU | 8 | FU | 3 | Erfurt | 2 | Frankfurt Sona | 1 | Ipu Sona | 1 | 4 |
-| Last 7 days | 2026-03-31 | 2026-04-06 | 21.57 | Frankfurt Prolific | 88 | IU | 18 | Erfurt | 7 | FU | 7 | Potsdam Sona | 7 | 24 |
-| Last 14 days | 2026-03-24 | 2026-04-06 | 18.50 | Frankfurt Prolific | 90 | IU | 42 | Hagen | 25 | Erfurt | 24 | FU | 15 | 63 |
-| Last 30 days | 2026-03-08 | 2026-04-06 | 18.07 | IU | 130 | Hagen | 113 | Frankfurt Prolific | 90 | Köln | 30 | Erfurt | 26 | 153 |
+| Since today 00:00 | 2026-04-08 | 2026-04-08 | 0.00 |  |  |  |  |  |  |  |  |  |  | 0 |
+| Last 3 days | 2026-04-05 | 2026-04-07 | 8.33 | IU | 8 | FU | 3 | Erfurt | 2 | HU | 2 | Trier | 2 | 8 |
+| Last 7 days | 2026-04-01 | 2026-04-07 | 8.14 | IU | 15 | FU | 7 | Potsdam Sona | 7 | Erfurt | 6 | Trier | 6 | 16 |
+| Last 14 days | 2026-03-25 | 2026-04-07 | 18.14 | Frankfurt Prolific | 90 | IU | 41 | Erfurt | 24 | Hagen | 20 | FU | 16 | 63 |
+| Last 30 days | 2026-03-09 | 2026-04-07 | 18.00 | IU | 128 | Hagen | 114 | Frankfurt Prolific | 90 | Köln | 28 | Erfurt | 26 | 154 |
 
 <!-- END_DEMO_TABLE -->
 

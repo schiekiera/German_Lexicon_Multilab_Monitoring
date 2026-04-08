@@ -26,7 +26,7 @@
 | Bamberg | 17 | 2026-01-26 |
 | Ipu Sona | 17 | 2026-04-06 |
 | Göttingen | 14 | 2026-03-17 |
-| ULM | 6 | 2026-04-05 |
+| ULM | 6 | 2026-04-07 |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
 | IPN | 0 |  |
 | Ipu Prolific | 0 |  |
