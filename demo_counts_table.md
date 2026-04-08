@@ -1,6 +1,6 @@
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
-| IU | 450 | 2026-04-08 |
+| IU | 451 | 2026-04-08 |
 | HU | 128 | 2026-04-08 |
 | Hagen | 114 | 2026-04-07 |
 | Köln | 112 | 2026-03-15 |
@@ -28,7 +28,9 @@
 | Göttingen | 14 | 2026-03-17 |
 | ULM | 7 | 2026-04-08 |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
+| Bielefeld | 0 |  |
 | IPN | 0 |  |
 | Ipu Prolific | 0 |  |
 | Lüneburg | 0 |  |
 | Potsdam | 0 |  |
+| Zurich | 0 |  |
