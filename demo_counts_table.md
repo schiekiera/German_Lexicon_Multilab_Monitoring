@@ -23,8 +23,8 @@
 | Hildesheim | 25 | 2026-03-30 |
 | Frankfurt Sona | 24 | 2026-04-06 |
 | Trier | 22 | 2026-04-09 |
+| Ipu Sona | 18 | 2026-04-06 |
 | Bamberg | 17 | 2026-01-26 |
-| Ipu Sona | 17 | 2026-04-06 |
 | Göttingen | 14 | 2026-03-17 |
 | ULM | 8 | 2026-04-09 |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
