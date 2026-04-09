@@ -42,7 +42,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Dresden | 28 | 2026-02-07 |
 | Hildesheim | 25 | 2026-03-30 |
 | Frankfurt Sona | 24 | 2026-04-06 |
-| Trier | 22 | 2026-04-08 |
+| Trier | 22 | 2026-04-09 |
 | Bamberg | 17 | 2026-01-26 |
 | Ipu Sona | 17 | 2026-04-06 |
 | Göttingen | 14 | 2026-03-17 |
