@@ -20,7 +20,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
-| IU | 459 | 2026-04-09 |
+| IU | 459 | 2026-04-10 |
 | HU | 129 | 2026-04-09 |
 | Hagen | 114 | 2026-04-07 |
 | Köln | 112 | 2026-03-15 |
@@ -42,7 +42,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Dresden | 28 | 2026-02-07 |
 | Hildesheim | 28 | 2026-04-10 |
 | Frankfurt Sona | 24 | 2026-04-06 |
-| Trier | 23 | 2026-04-09 |
+| Trier | 23 | 2026-04-10 |
 | Ipu Sona | 18 | 2026-04-09 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 14 | 2026-03-17 |
