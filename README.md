@@ -46,7 +46,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Ipu Sona | 18 | 2026-04-09 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 14 | 2026-03-17 |
-| ULM | 10 | 2026-04-10 |
+| ULM | 10 | 2026-04-11 |
 | Graz | 4 |  |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
 | Bielefeld | 0 |  |
