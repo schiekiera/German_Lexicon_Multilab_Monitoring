@@ -17,7 +17,7 @@
 | Aachen | 51 | 2026-01-18 |
 | Twente | 42 | 2026-04-01 |
 | Hildesheim | 36 | 2026-04-12 |
-| Potsdam Sona | 33 | 2026-04-11 |
+| Potsdam Sona | 33 | 2026-04-12 |
 | Münster | 32 | 2026-03-20 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Dresden | 28 | 2026-02-07 |
