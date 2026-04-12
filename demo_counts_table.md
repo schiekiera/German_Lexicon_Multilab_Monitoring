@@ -6,8 +6,8 @@
 | Köln | 112 | 2026-03-15 |
 | FU | 98 | 2026-04-12 |
 | Frankfurt Prolific | 90 | 2026-03-31 |
+| Mannheim Kognitive Psychologie | 81 | 2026-04-11 |
 | Pavia | 81 | 2026-02-20 |
-| Mannheim Kognitive Psychologie | 80 | 2026-04-11 |
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 76 | 2026-03-04 |
 | Wuppertal | 66 | 2026-04-05 |
