@@ -4,7 +4,7 @@
 | HU | 130 | 2026-04-10 |
 | Hagen | 114 | 2026-04-07 |
 | Köln | 112 | 2026-03-15 |
-| FU | 94 | 2026-04-11 |
+| FU | 95 | 2026-04-11 |
 | Frankfurt Prolific | 90 | 2026-03-31 |
 | Pavia | 81 | 2026-02-20 |
 | Mannheim Kognitive Psychologie | 80 | 2026-04-11 |
