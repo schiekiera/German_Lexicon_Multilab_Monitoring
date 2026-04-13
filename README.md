@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 1967
+**Total data files saved across all labs:** 1969
 
 **Overall progress (Target: 2453 participants):**
 
-[████████████████████████░░░░░░] 1967 / 2453 (80.2%)
+[████████████████████████░░░░░░] 1969 / 2453 (80.3%)
 
 ### Table: Progress per lab
 
@@ -22,9 +22,9 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 |-----|----------------------|-------------------|
 | IU | 470 | 2026-04-13 |
 | HU | 131 | 2026-04-13 |
-| Hagen | 116 | 2026-04-12 |
+| Hagen | 116 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
-| FU | 100 | 2026-04-13 |
+| FU | 101 | 2026-04-13 |
 | Frankfurt Prolific | 90 | 2026-03-31 |
 | Mannheim Kognitive Psychologie | 81 | 2026-04-12 |
 | Pavia | 81 | 2026-02-20 |
@@ -43,7 +43,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Dresden | 28 | 2026-02-07 |
 | Frankfurt Sona | 24 | 2026-04-06 |
 | Trier | 23 | 2026-04-10 |
-| Ipu Sona | 18 | 2026-04-09 |
+| Ipu Sona | 19 | 2026-04-09 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 14 | 2026-03-17 |
 | ULM | 13 | 2026-04-12 |
@@ -74,7 +74,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-13 | 2026-04-13 | 13.00 | Hildesheim | 4 | IU | 4 | FU | 2 | Aachen | 1 | HU | 1 | 1 |
+| Since today 00:00 | 2026-04-13 | 2026-04-13 | 15.00 | Hildesheim | 4 | IU | 4 | FU | 3 | Aachen | 1 | HU | 1 | 2 |
 | Last 3 days | 2026-04-10 | 2026-04-12 | 15.00 | Hildesheim | 13 | FU | 8 | IU | 8 | ULM | 5 | Mannheim Kognitive Psychologie | 3 | 8 |
 | Last 7 days | 2026-04-06 | 2026-04-12 | 11.57 | IU | 20 | Hildesheim | 13 | FU | 11 | ULM | 8 | Erfurt | 6 | 23 |
 | Last 14 days | 2026-03-30 | 2026-04-12 | 17.79 | Frankfurt Prolific | 90 | IU | 42 | FU | 21 | Trier | 16 | Erfurt | 15 | 65 |
