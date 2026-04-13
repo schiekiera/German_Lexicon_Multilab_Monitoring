@@ -36,7 +36,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Erfurt | 62 | 2026-04-10 |
 | Aachen | 51 | 2026-01-18 |
 | Twente | 42 | 2026-04-01 |
-| Hildesheim | 39 | 2026-04-12 |
+| Hildesheim | 39 | 2026-04-13 |
 | Potsdam Sona | 33 | 2026-04-12 |
 | Münster | 32 | 2026-03-20 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
