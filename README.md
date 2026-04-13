@@ -72,11 +72,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-12 | 2026-04-12 | 16.00 | FU | 4 | Hildesheim | 3 | IU | 3 | ULM | 3 | Hagen | 1 | 2 |
-| Last 3 days | 2026-04-09 | 2026-04-11 | 14.33 | IU | 11 | Hildesheim | 10 | FU | 5 | Erfurt | 4 | Trier | 3 | 10 |
-| Last 7 days | 2026-04-05 | 2026-04-11 | 10.86 | IU | 22 | Hildesheim | 10 | FU | 9 | Erfurt | 7 | Trier | 6 | 22 |
-| Last 14 days | 2026-03-29 | 2026-04-11 | 17.50 | Frankfurt Prolific | 90 | IU | 42 | FU | 18 | Erfurt | 17 | Trier | 16 | 62 |
-| Last 30 days | 2026-03-13 | 2026-04-11 | 17.00 | IU | 106 | Hagen | 94 | Frankfurt Prolific | 90 | Hildesheim | 34 | Erfurt | 31 | 155 |
+| Since today 00:00 | 2026-04-13 | 2026-04-13 | 0.00 |  |  |  |  |  |  |  |  |  |  | 0 |
+| Last 3 days | 2026-04-10 | 2026-04-12 | 15.00 | Hildesheim | 13 | FU | 8 | IU | 8 | ULM | 5 | Mannheim Kognitive Psychologie | 3 | 8 |
+| Last 7 days | 2026-04-06 | 2026-04-12 | 11.57 | IU | 20 | Hildesheim | 13 | FU | 11 | ULM | 8 | Erfurt | 6 | 23 |
+| Last 14 days | 2026-03-30 | 2026-04-12 | 17.79 | Frankfurt Prolific | 90 | IU | 42 | FU | 21 | Trier | 16 | Erfurt | 15 | 65 |
+| Last 30 days | 2026-03-14 | 2026-04-12 | 16.53 | IU | 107 | Frankfurt Prolific | 90 | Hagen | 83 | Hildesheim | 37 | Erfurt | 31 | 148 |
 
 <!-- END_DEMO_TABLE -->
 
