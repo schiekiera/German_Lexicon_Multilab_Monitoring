@@ -15,18 +15,18 @@
 | Marburg | 65 | 2026-01-18 |
 | Erfurt | 62 | 2026-04-10 |
 | Aachen | 54 | 2026-04-13 |
-| Hildesheim | 42 | 2026-04-13 |
+| Hildesheim | 43 | 2026-04-13 |
 | Twente | 42 | 2026-04-01 |
 | Potsdam Sona | 33 | 2026-04-12 |
 | Münster | 32 | 2026-03-20 |
-| Dresden | 29 | 2026-02-07 |
+| Dresden | 30 | 2026-04-13 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Frankfurt Sona | 24 | 2026-04-06 |
 | Trier | 23 | 2026-04-10 |
 | Ipu Sona | 19 | 2026-04-13 |
 | Bamberg | 17 | 2026-01-26 |
+| ULM | 15 | 2026-04-13 |
 | Göttingen | 14 | 2026-03-17 |
-| ULM | 14 | 2026-04-12 |
 | Graz | 4 |  |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
 | Bielefeld | 0 |  |
