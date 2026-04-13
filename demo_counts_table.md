@@ -16,7 +16,7 @@
 | Erfurt | 62 | 2026-04-10 |
 | Aachen | 51 | 2026-01-18 |
 | Twente | 42 | 2026-04-01 |
-| Hildesheim | 38 | 2026-04-12 |
+| Hildesheim | 39 | 2026-04-12 |
 | Potsdam Sona | 33 | 2026-04-12 |
 | Münster | 32 | 2026-03-20 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
@@ -30,6 +30,8 @@
 | Graz | 4 |  |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
 | Bielefeld | 0 |  |
+| Bochum | 0 |  |
+| Bochum Prolific | 0 |  |
 | IPN | 0 |  |
 | Ipu Prolific | 0 |  |
 | Lüneburg | 0 |  |
