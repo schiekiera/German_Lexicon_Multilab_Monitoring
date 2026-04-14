@@ -10,22 +10,22 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2069
+**Total data files saved across all labs:** 2079
 
 **Overall progress (Target: 2453 participants):**
 
-[█████████████████████████░░░░░] 2069 / 2453 (84.3%)
+[█████████████████████████░░░░░] 2079 / 2453 (84.8%)
 
 ### Table: Progress per lab
 
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
 | IU | 474 | 2026-04-14 |
-| Frankfurt Prolific | 159 | 2026-04-14 |
-| HU | 131 | 2026-04-13 |
+| Frankfurt Prolific | 167 | 2026-04-14 |
+| HU | 132 | 2026-04-13 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
-| FU | 104 | 2026-04-14 |
+| FU | 105 | 2026-04-14 |
 | Mannheim Kognitive Psychologie | 81 | 2026-04-12 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
@@ -38,7 +38,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Hildesheim | 47 | 2026-04-14 |
 | Twente | 42 | 2026-04-01 |
 | Potsdam Sona | 33 | 2026-04-12 |
-| Dresden | 32 | 2026-04-13 |
+| Dresden | 32 | 2026-04-14 |
 | Münster | 32 | 2026-03-20 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Frankfurt Sona | 24 | 2026-04-06 |
@@ -74,7 +74,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-14 | 2026-04-14 | 87.00 | Frankfurt Prolific | 69 | IU | 4 | Aachen | 3 | FU | 3 | Hildesheim | 3 | 5 |
+| Since today 00:00 | 2026-04-14 | 2026-04-14 | 97.00 | Frankfurt Prolific | 77 | FU | 4 | IU | 4 | Aachen | 3 | Hildesheim | 3 | 6 |
 | Last 3 days | 2026-04-11 | 2026-04-13 | 18.00 | Hildesheim | 12 | FU | 9 | IU | 9 | ULM | 6 | Hagen | 5 | 13 |
 | Last 7 days | 2026-04-07 | 2026-04-13 | 14.71 | IU | 22 | Hildesheim | 19 | FU | 14 | ULM | 10 | Erfurt | 6 | 32 |
 | Last 14 days | 2026-03-31 | 2026-04-13 | 18.14 | Frankfurt Prolific | 88 | IU | 40 | FU | 21 | Hildesheim | 19 | ULM | 15 | 71 |
