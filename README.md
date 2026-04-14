@@ -10,18 +10,18 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2113
+**Total data files saved across all labs:** 2119
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████░░░░] 2113 / 2453 (86.1%)
+[██████████████████████████░░░░] 2119 / 2453 (86.4%)
 
 ### Table: Progress per lab
 
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
 | IU | 476 | 2026-04-14 |
-| Frankfurt Prolific | 191 | 2026-04-14 |
+| Frankfurt Prolific | 195 | 2026-04-14 |
 | HU | 132 | 2026-04-14 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
@@ -34,7 +34,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Darmstadt | 65 | 2026-02-06 |
 | Erfurt | 65 | 2026-04-14 |
 | Marburg | 65 | 2026-01-18 |
-| Aachen | 57 | 2026-04-14 |
+| Aachen | 58 | 2026-04-14 |
 | Hildesheim | 49 | 2026-04-14 |
 | Twente | 43 | 2026-04-14 |
 | Dresden | 33 | 2026-04-14 |
@@ -45,7 +45,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Trier | 24 | 2026-04-14 |
 | Ipu Sona | 19 | 2026-04-13 |
 | Bamberg | 17 | 2026-01-26 |
-| ULM | 15 | 2026-04-13 |
+| ULM | 16 | 2026-04-13 |
 | Göttingen | 14 | 2026-03-17 |
 | Graz | 4 |  |
 | IPN | 4 | 2026-04-14 |
@@ -74,7 +74,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-14 | 2026-04-14 | 131.00 | Frankfurt Prolific | 101 | IU | 6 | Hildesheim | 5 | FU | 4 | IPN | 4 | 11 |
+| Since today 00:00 | 2026-04-14 | 2026-04-14 | 137.00 | Frankfurt Prolific | 105 | IU | 6 | Hildesheim | 5 | Aachen | 4 | FU | 4 | 13 |
 | Last 3 days | 2026-04-11 | 2026-04-13 | 18.00 | Hildesheim | 12 | FU | 9 | IU | 9 | ULM | 6 | Hagen | 5 | 13 |
 | Last 7 days | 2026-04-07 | 2026-04-13 | 14.71 | IU | 22 | Hildesheim | 19 | FU | 14 | ULM | 10 | Erfurt | 6 | 32 |
 | Last 14 days | 2026-03-31 | 2026-04-13 | 18.14 | Frankfurt Prolific | 88 | IU | 40 | FU | 21 | Hildesheim | 19 | ULM | 15 | 71 |
