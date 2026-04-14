@@ -1,8 +1,8 @@
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
 | IU | 473 | 2026-04-14 |
+| Frankfurt Prolific | 139 | 2026-04-14 |
 | HU | 131 | 2026-04-13 |
-| Frankfurt Prolific | 129 | 2026-04-14 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
 | FU | 103 | 2026-04-14 |
@@ -22,17 +22,17 @@
 | Dresden | 31 | 2026-04-13 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Frankfurt Sona | 24 | 2026-04-06 |
-| Trier | 24 | 2026-04-10 |
+| Trier | 24 | 2026-04-14 |
 | Ipu Sona | 19 | 2026-04-13 |
 | Bamberg | 17 | 2026-01-26 |
 | ULM | 15 | 2026-04-13 |
 | Göttingen | 14 | 2026-03-17 |
 | Graz | 4 |  |
+| IPN | 1 |  |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
 | Bielefeld | 0 |  |
 | Bochum | 0 |  |
 | Bochum Prolific | 0 |  |
-| IPN | 0 |  |
 | Ipu Prolific | 0 |  |
 | Lüneburg | 0 |  |
 | Potsdam | 0 |  |
