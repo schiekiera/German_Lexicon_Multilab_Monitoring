@@ -15,7 +15,7 @@
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Aachen | 59 | 2026-04-14 |
-| Hildesheim | 49 | 2026-04-14 |
+| Hildesheim | 50 | 2026-04-14 |
 | Twente | 43 | 2026-04-14 |
 | Dresden | 33 | 2026-04-14 |
 | Potsdam Sona | 33 | 2026-04-12 |
@@ -27,7 +27,7 @@
 | Bamberg | 17 | 2026-01-26 |
 | ULM | 16 | 2026-04-14 |
 | Göttingen | 14 | 2026-03-17 |
-| IPN | 5 | 2026-04-14 |
+| IPN | 6 | 2026-04-14 |
 | Graz | 4 |  |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
 | Bielefeld | 0 |  |
