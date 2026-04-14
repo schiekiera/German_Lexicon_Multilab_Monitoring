@@ -10,18 +10,18 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2106
+**Total data files saved across all labs:** 2113
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████░░░░] 2106 / 2453 (85.9%)
+[██████████████████████████░░░░] 2113 / 2453 (86.1%)
 
 ### Table: Progress per lab
 
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
 | IU | 476 | 2026-04-14 |
-| Frankfurt Prolific | 185 | 2026-04-14 |
+| Frankfurt Prolific | 191 | 2026-04-14 |
 | HU | 132 | 2026-04-14 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
@@ -32,8 +32,8 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Leipzig | 76 | 2026-03-04 |
 | Wuppertal | 67 | 2026-04-14 |
 | Darmstadt | 65 | 2026-02-06 |
+| Erfurt | 65 | 2026-04-14 |
 | Marburg | 65 | 2026-01-18 |
-| Erfurt | 64 | 2026-04-13 |
 | Aachen | 57 | 2026-04-14 |
 | Hildesheim | 49 | 2026-04-14 |
 | Twente | 43 | 2026-04-14 |
@@ -74,7 +74,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-14 | 2026-04-14 | 124.00 | Frankfurt Prolific | 95 | IU | 6 | Hildesheim | 5 | FU | 4 | IPN | 4 | 10 |
+| Since today 00:00 | 2026-04-14 | 2026-04-14 | 131.00 | Frankfurt Prolific | 101 | IU | 6 | Hildesheim | 5 | FU | 4 | IPN | 4 | 11 |
 | Last 3 days | 2026-04-11 | 2026-04-13 | 18.00 | Hildesheim | 12 | FU | 9 | IU | 9 | ULM | 6 | Hagen | 5 | 13 |
 | Last 7 days | 2026-04-07 | 2026-04-13 | 14.71 | IU | 22 | Hildesheim | 19 | FU | 14 | ULM | 10 | Erfurt | 6 | 32 |
 | Last 14 days | 2026-03-31 | 2026-04-13 | 18.14 | Frankfurt Prolific | 88 | IU | 40 | FU | 21 | Hildesheim | 19 | ULM | 15 | 71 |
