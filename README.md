@@ -24,7 +24,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | HU | 131 | 2026-04-13 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
-| FU | 102 | 2026-04-13 |
+| FU | 102 | 2026-04-14 |
 | Frankfurt Prolific | 90 | 2026-03-31 |
 | Mannheim Kognitive Psychologie | 81 | 2026-04-12 |
 | Pavia | 81 | 2026-02-20 |
