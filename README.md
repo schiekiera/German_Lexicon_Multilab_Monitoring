@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2149
+**Total data files saved across all labs:** 2151
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████░░░░] 2149 / 2453 (87.6%)
+[██████████████████████████░░░░] 2151 / 2453 (87.7%)
 
 ### Table: Progress per lab
 
@@ -25,7 +25,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | HU | 132 | 2026-04-14 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
-| FU | 107 | 2026-04-14 |
+| FU | 107 | 2026-04-15 |
 | Mannheim Kognitive Psychologie | 81 | 2026-04-12 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
@@ -41,8 +41,8 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Potsdam Sona | 34 | 2026-04-15 |
 | Münster | 32 | 2026-03-20 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
+| Trier | 26 | 2026-04-14 |
 | Frankfurt Sona | 24 | 2026-04-06 |
-| Trier | 24 | 2026-04-14 |
 | Ipu Sona | 19 | 2026-04-13 |
 | Bamberg | 17 | 2026-01-26 |
 | ULM | 16 | 2026-04-14 |
@@ -74,7 +74,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-15 | 2026-04-15 | 6.00 | Aachen | 4 | FU | 1 | Potsdam Sona | 1 |  |  |  |  | 0 |
+| Since today 00:00 | 2026-04-15 | 2026-04-15 | 8.00 | Aachen | 4 | Trier | 2 | FU | 1 | Potsdam Sona | 1 |  |  | 0 |
 | Last 3 days | 2026-04-12 | 2026-04-14 | 68.33 | Frankfurt Prolific | 119 | Hildesheim | 15 | IU | 14 | FU | 12 | Aachen | 8 | 37 |
 | Last 7 days | 2026-04-08 | 2026-04-14 | 36.57 | Frankfurt Prolific | 119 | IU | 28 | Hildesheim | 25 | FU | 18 | ULM | 10 | 56 |
 | Last 14 days | 2026-04-01 | 2026-04-14 | 22.36 | Frankfurt Prolific | 119 | IU | 43 | FU | 25 | Hildesheim | 25 | ULM | 16 | 85 |
