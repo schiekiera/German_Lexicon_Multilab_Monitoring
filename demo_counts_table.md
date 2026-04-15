@@ -12,13 +12,13 @@
 | Leipzig | 76 | 2026-03-04 |
 | Erfurt | 69 | 2026-04-15 |
 | Wuppertal | 67 | 2026-04-14 |
+| Aachen | 65 | 2026-04-15 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
-| Aachen | 64 | 2026-04-15 |
 | Hildesheim | 51 | 2026-04-15 |
 | Twente | 43 | 2026-04-14 |
+| Potsdam Sona | 35 | 2026-04-15 |
 | Dresden | 34 | 2026-04-14 |
-| Potsdam Sona | 34 | 2026-04-15 |
 | Münster | 32 | 2026-03-20 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Trier | 27 | 2026-04-15 |
