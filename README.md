@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2147
+**Total data files saved across all labs:** 2149
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████░░░░] 2147 / 2453 (87.5%)
+[██████████████████████████░░░░] 2149 / 2453 (87.6%)
 
 ### Table: Progress per lab
 
@@ -25,7 +25,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | HU | 132 | 2026-04-14 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
-| FU | 106 | 2026-04-14 |
+| FU | 107 | 2026-04-14 |
 | Mannheim Kognitive Psychologie | 81 | 2026-04-12 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
@@ -34,7 +34,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Erfurt | 66 | 2026-04-14 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
-| Aachen | 62 | 2026-04-15 |
+| Aachen | 63 | 2026-04-15 |
 | Hildesheim | 50 | 2026-04-14 |
 | Twente | 43 | 2026-04-14 |
 | Dresden | 34 | 2026-04-14 |
@@ -74,7 +74,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-15 | 2026-04-15 | 4.00 | Aachen | 3 | Potsdam Sona | 1 |  |  |  |  |  |  | 0 |
+| Since today 00:00 | 2026-04-15 | 2026-04-15 | 6.00 | Aachen | 4 | FU | 1 | Potsdam Sona | 1 |  |  |  |  | 0 |
 | Last 3 days | 2026-04-12 | 2026-04-14 | 68.33 | Frankfurt Prolific | 119 | Hildesheim | 15 | IU | 14 | FU | 12 | Aachen | 8 | 37 |
 | Last 7 days | 2026-04-08 | 2026-04-14 | 36.57 | Frankfurt Prolific | 119 | IU | 28 | Hildesheim | 25 | FU | 18 | ULM | 10 | 56 |
 | Last 14 days | 2026-04-01 | 2026-04-14 | 22.36 | Frankfurt Prolific | 119 | IU | 43 | FU | 25 | Hildesheim | 25 | ULM | 16 | 85 |
