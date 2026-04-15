@@ -14,11 +14,11 @@
 | Erfurt | 66 | 2026-04-14 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
-| Aachen | 60 | 2026-04-15 |
+| Aachen | 62 | 2026-04-15 |
 | Hildesheim | 50 | 2026-04-14 |
 | Twente | 43 | 2026-04-14 |
 | Dresden | 34 | 2026-04-14 |
-| Potsdam Sona | 34 | 2026-04-12 |
+| Potsdam Sona | 34 | 2026-04-15 |
 | Münster | 32 | 2026-03-20 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Frankfurt Sona | 24 | 2026-04-06 |
