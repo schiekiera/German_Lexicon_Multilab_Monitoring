@@ -29,8 +29,8 @@
 | Göttingen | 14 | 2026-03-17 |
 | IPN | 13 | 2026-04-16 |
 | Graz | 4 |  |
+| Bielefeld | 1 |  |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
-| Bielefeld | 0 |  |
 | Bochum | 0 |  |
 | Bochum Prolific | 0 |  |
 | Ipu Prolific | 0 |  |
