@@ -20,7 +20,7 @@
 | Potsdam Sona | 35 | 2026-04-15 |
 | Dresden | 34 | 2026-04-14 |
 | Münster | 32 | 2026-03-20 |
-| Trier | 29 | 2026-04-16 |
+| Trier | 30 | 2026-04-16 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Frankfurt Sona | 24 | 2026-04-06 |
 | Ipu Sona | 19 | 2026-04-13 |
