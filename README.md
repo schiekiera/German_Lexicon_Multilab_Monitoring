@@ -74,11 +74,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-15 | 2026-04-15 | 22.00 | Aachen | 6 | Erfurt | 3 | Trier | 3 | FU | 2 | IU | 2 | 6 |
-| Last 3 days | 2026-04-12 | 2026-04-14 | 68.33 | Frankfurt Prolific | 119 | Hildesheim | 15 | IU | 14 | FU | 12 | Aachen | 8 | 37 |
-| Last 7 days | 2026-04-08 | 2026-04-14 | 36.57 | Frankfurt Prolific | 119 | IU | 28 | Hildesheim | 25 | FU | 18 | ULM | 10 | 56 |
-| Last 14 days | 2026-04-01 | 2026-04-14 | 22.36 | Frankfurt Prolific | 119 | IU | 43 | FU | 25 | Hildesheim | 25 | ULM | 16 | 85 |
-| Last 30 days | 2026-03-16 | 2026-04-14 | 21.57 | Frankfurt Prolific | 209 | IU | 111 | Hagen | 67 | Hildesheim | 49 | Erfurt | 35 | 176 |
+| Since today 00:00 | 2026-04-16 | 2026-04-16 | 0.00 |  |  |  |  |  |  |  |  |  |  | 0 |
+| Last 3 days | 2026-04-13 | 2026-04-15 | 70.33 | Frankfurt Prolific | 119 | Aachen | 14 | Hildesheim | 13 | IU | 13 | FU | 10 | 42 |
+| Last 7 days | 2026-04-09 | 2026-04-15 | 38.57 | Frankfurt Prolific | 119 | IU | 27 | Hildesheim | 26 | FU | 19 | Aachen | 14 | 65 |
+| Last 14 days | 2026-04-02 | 2026-04-15 | 23.14 | Frankfurt Prolific | 119 | IU | 43 | FU | 26 | Hildesheim | 26 | Erfurt | 16 | 94 |
+| Last 30 days | 2026-03-17 | 2026-04-15 | 21.40 | Frankfurt Prolific | 209 | IU | 100 | Hagen | 56 | Hildesheim | 50 | Erfurt | 38 | 189 |
 
 <!-- END_DEMO_TABLE -->
 
