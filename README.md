@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2166
+**Total data files saved across all labs:** 2167
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████░░░░] 2166 / 2453 (88.3%)
+[███████████████████████████░░░] 2167 / 2453 (88.3%)
 
 ### Table: Progress per lab
 
@@ -47,7 +47,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Bamberg | 17 | 2026-01-26 |
 | ULM | 17 | 2026-04-15 |
 | Göttingen | 14 | 2026-03-17 |
-| IPN | 9 | 2026-04-15 |
+| IPN | 10 | 2026-04-15 |
 | Graz | 4 |  |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
 | Bielefeld | 0 |  |
@@ -74,7 +74,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-16 | 2026-04-16 | 1.00 | IU | 1 |  |  |  |  |  |  |  |  | 0 |
+| Since today 00:00 | 2026-04-16 | 2026-04-16 | 2.00 | IPN | 1 | IU | 1 |  |  |  |  |  |  | 0 |
 | Last 3 days | 2026-04-13 | 2026-04-15 | 70.33 | Frankfurt Prolific | 119 | Aachen | 14 | Hildesheim | 13 | IU | 13 | FU | 10 | 42 |
 | Last 7 days | 2026-04-09 | 2026-04-15 | 38.57 | Frankfurt Prolific | 119 | IU | 27 | Hildesheim | 26 | FU | 19 | Aachen | 14 | 65 |
 | Last 14 days | 2026-04-02 | 2026-04-15 | 23.14 | Frankfurt Prolific | 119 | IU | 43 | FU | 26 | Hildesheim | 26 | Erfurt | 16 | 94 |
