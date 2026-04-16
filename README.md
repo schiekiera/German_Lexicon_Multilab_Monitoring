@@ -31,7 +31,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 76 | 2026-03-04 |
 | Erfurt | 69 | 2026-04-15 |
-| Wuppertal | 68 | 2026-04-14 |
+| Wuppertal | 68 | 2026-04-16 |
 | Aachen | 65 | 2026-04-15 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
