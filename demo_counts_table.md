@@ -6,7 +6,7 @@
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
 | FU | 108 | 2026-04-15 |
-| Mannheim Kognitive Psychologie | 82 | 2026-04-12 |
+| Mannheim Kognitive Psychologie | 82 | 2026-04-16 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 76 | 2026-03-04 |
@@ -15,12 +15,12 @@
 | Aachen | 65 | 2026-04-15 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
-| Hildesheim | 52 | 2026-04-15 |
+| Hildesheim | 52 | 2026-04-16 |
 | Twente | 43 | 2026-04-14 |
 | Potsdam Sona | 35 | 2026-04-15 |
 | Dresden | 34 | 2026-04-14 |
 | Münster | 32 | 2026-03-20 |
-| Trier | 29 | 2026-04-15 |
+| Trier | 29 | 2026-04-16 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Frankfurt Sona | 24 | 2026-04-06 |
 | Ipu Sona | 19 | 2026-04-13 |
