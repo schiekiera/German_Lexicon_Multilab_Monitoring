@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2176
+**Total data files saved across all labs:** 2177
 
 **Overall progress (Target: 2453 participants):**
 
-[███████████████████████████░░░] 2176 / 2453 (88.7%)
+[███████████████████████████░░░] 2177 / 2453 (88.7%)
 
 ### Table: Progress per lab
 
@@ -31,7 +31,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 76 | 2026-03-04 |
 | Erfurt | 69 | 2026-04-15 |
-| Wuppertal | 67 | 2026-04-14 |
+| Wuppertal | 68 | 2026-04-14 |
 | Aachen | 65 | 2026-04-15 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
@@ -74,7 +74,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-16 | 2026-04-16 | 11.00 | IPN | 4 | Trier | 3 | Bielefeld | 1 | Hildesheim | 1 | IU | 1 | 1 |
+| Since today 00:00 | 2026-04-16 | 2026-04-16 | 12.00 | IPN | 4 | Trier | 3 | Bielefeld | 1 | Hildesheim | 1 | IU | 1 | 2 |
 | Last 3 days | 2026-04-13 | 2026-04-15 | 70.33 | Frankfurt Prolific | 119 | Aachen | 14 | Hildesheim | 13 | IU | 13 | FU | 10 | 42 |
 | Last 7 days | 2026-04-09 | 2026-04-15 | 38.57 | Frankfurt Prolific | 119 | IU | 27 | Hildesheim | 26 | FU | 19 | Aachen | 14 | 65 |
 | Last 14 days | 2026-04-02 | 2026-04-15 | 23.14 | Frankfurt Prolific | 119 | IU | 43 | FU | 26 | Hildesheim | 26 | Erfurt | 16 | 94 |
