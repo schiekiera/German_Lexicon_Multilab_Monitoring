@@ -23,11 +23,11 @@
 | Trier | 30 | 2026-04-16 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Frankfurt Sona | 24 | 2026-04-06 |
-| Ipu Sona | 20 | 2026-04-13 |
+| Ipu Sona | 20 | 2026-04-17 |
+| ULM | 18 | 2026-04-15 |
 | Bamberg | 17 | 2026-01-26 |
-| ULM | 17 | 2026-04-15 |
+| IPN | 15 | 2026-04-16 |
 | Göttingen | 14 | 2026-03-17 |
-| IPN | 14 | 2026-04-16 |
 | Graz | 4 |  |
 | Bielefeld | 1 | 2026-04-16 |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
