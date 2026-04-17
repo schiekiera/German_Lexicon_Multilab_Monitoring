@@ -15,15 +15,15 @@
 | Aachen | 66 | 2026-04-16 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
-| Hildesheim | 53 | 2026-04-16 |
+| Hildesheim | 53 | 2026-04-17 |
 | Twente | 43 | 2026-04-14 |
 | Potsdam Sona | 35 | 2026-04-15 |
 | Dresden | 34 | 2026-04-14 |
 | Münster | 32 | 2026-03-20 |
-| Trier | 32 | 2026-04-16 |
+| Trier | 32 | 2026-04-17 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Frankfurt Sona | 24 | 2026-04-06 |
-| Ipu Sona | 20 | 2026-04-17 |
+| Ipu Sona | 21 | 2026-04-17 |
 | ULM | 18 | 2026-04-17 |
 | Bamberg | 17 | 2026-01-26 |
 | IPN | 15 | 2026-04-17 |
