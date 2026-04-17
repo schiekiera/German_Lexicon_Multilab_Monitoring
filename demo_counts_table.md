@@ -2,10 +2,10 @@
 |-----|----------------------|-------------------|
 | IU | 480 | 2026-04-16 |
 | Frankfurt Prolific | 209 | 2026-04-14 |
-| HU | 135 | 2026-04-17 |
+| HU | 136 | 2026-04-17 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
-| FU | 108 | 2026-04-15 |
+| FU | 109 | 2026-04-15 |
 | Mannheim Kognitive Psychologie | 82 | 2026-04-16 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
@@ -34,6 +34,8 @@
 | Bochum | 0 |  |
 | Bochum Prolific | 0 |  |
 | Ipu Prolific | 0 |  |
+| LMU | 0 |  |
 | Lüneburg | 0 |  |
+| Passau | 0 |  |
 | Potsdam | 0 |  |
 | Zurich | 0 |  |
