@@ -23,7 +23,7 @@
 | Trier | 30 | 2026-04-16 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Frankfurt Sona | 24 | 2026-04-06 |
-| Ipu Sona | 19 | 2026-04-13 |
+| Ipu Sona | 20 | 2026-04-13 |
 | Bamberg | 17 | 2026-01-26 |
 | ULM | 17 | 2026-04-15 |
 | Göttingen | 14 | 2026-03-17 |
