@@ -25,12 +25,12 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | HU | 137 | 2026-04-17 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
-| FU | 110 | 2026-04-17 |
+| FU | 110 | 2026-04-18 |
 | Mannheim Kognitive Psychologie | 82 | 2026-04-16 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 76 | 2026-03-04 |
-| Wuppertal | 70 | 2026-04-17 |
+| Wuppertal | 70 | 2026-04-18 |
 | Erfurt | 69 | 2026-04-15 |
 | Aachen | 68 | 2026-04-17 |
 | Darmstadt | 65 | 2026-02-06 |
@@ -45,7 +45,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Frankfurt Sona | 24 | 2026-04-06 |
 | Ipu Sona | 21 | 2026-04-17 |
 | IPN | 19 | 2026-04-18 |
-| ULM | 19 | 2026-04-17 |
+| ULM | 19 | 2026-04-18 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 14 | 2026-03-17 |
 | Graz | 4 |  |
