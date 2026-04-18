@@ -20,7 +20,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
-| IU | 481 | 2026-04-16 |
+| IU | 481 | 2026-04-18 |
 | Frankfurt Prolific | 209 | 2026-04-14 |
 | HU | 137 | 2026-04-17 |
 | Hagen | 119 | 2026-04-13 |
