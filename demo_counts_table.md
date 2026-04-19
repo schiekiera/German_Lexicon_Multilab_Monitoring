@@ -15,7 +15,7 @@
 | Aachen | 68 | 2026-04-17 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
-| Hildesheim | 53 | 2026-04-17 |
+| Hildesheim | 54 | 2026-04-17 |
 | Twente | 43 | 2026-04-14 |
 | Potsdam Sona | 35 | 2026-04-15 |
 | Dresden | 34 | 2026-04-14 |
