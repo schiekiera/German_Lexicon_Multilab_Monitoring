@@ -6,7 +6,7 @@
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
 | FU | 110 | 2026-04-18 |
-| Mannheim Kognitive Psychologie | 82 | 2026-04-16 |
+| Mannheim Kognitive Psychologie | 83 | 2026-04-16 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 76 | 2026-03-04 |
@@ -30,11 +30,11 @@
 | Göttingen | 14 | 2026-03-17 |
 | Graz | 4 |  |
 | Bielefeld | 1 | 2026-04-16 |
+| LMU | 1 |  |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
 | Bochum | 0 |  |
 | Bochum Prolific | 0 |  |
 | Ipu Prolific | 0 |  |
-| LMU | 0 |  |
 | Lüneburg | 0 |  |
 | Passau | 0 |  |
 | Potsdam | 0 |  |
