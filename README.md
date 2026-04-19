@@ -26,7 +26,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
 | FU | 110 | 2026-04-18 |
-| Mannheim Kognitive Psychologie | 83 | 2026-04-16 |
+| Mannheim Kognitive Psychologie | 83 | 2026-04-19 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 76 | 2026-03-04 |
@@ -50,7 +50,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Göttingen | 14 | 2026-03-17 |
 | Graz | 4 |  |
 | Bielefeld | 1 | 2026-04-16 |
-| LMU | 1 |  |
+| LMU | 1 | 2026-04-19 |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
 | Bochum | 0 |  |
 | Bochum Prolific | 0 |  |
