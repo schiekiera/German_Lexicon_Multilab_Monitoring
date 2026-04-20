@@ -15,7 +15,7 @@
 | Erfurt | 69 | 2026-04-15 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
-| Hildesheim | 56 | 2026-04-19 |
+| Hildesheim | 56 | 2026-04-20 |
 | Twente | 43 | 2026-04-14 |
 | Potsdam Sona | 36 | 2026-04-19 |
 | Münster | 35 | 2026-04-20 |
