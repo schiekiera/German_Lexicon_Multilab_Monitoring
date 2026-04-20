@@ -4,7 +4,7 @@
 | Frankfurt Prolific | 209 | 2026-04-14 |
 | HU | 138 | 2026-04-19 |
 | Hagen | 119 | 2026-04-13 |
-| FU | 116 | 2026-04-20 |
+| FU | 117 | 2026-04-20 |
 | Köln | 112 | 2026-03-15 |
 | Mannheim Kognitive Psychologie | 84 | 2026-04-19 |
 | Pavia | 81 | 2026-02-20 |
@@ -28,7 +28,7 @@
 | ULM | 21 | 2026-04-20 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 14 | 2026-03-17 |
-| Graz | 4 |  |
+| Graz | 5 |  |
 | LMU | 3 | 2026-04-19 |
 | Bielefeld | 1 | 2026-04-16 |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
