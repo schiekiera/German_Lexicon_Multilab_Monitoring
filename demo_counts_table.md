@@ -19,7 +19,7 @@
 | Twente | 43 | 2026-04-14 |
 | Potsdam Sona | 36 | 2026-04-19 |
 | Dresden | 34 | 2026-04-14 |
-| Münster | 33 | 2026-03-20 |
+| Münster | 34 | 2026-04-20 |
 | Trier | 33 | 2026-04-17 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Frankfurt Sona | 24 | 2026-04-06 |
