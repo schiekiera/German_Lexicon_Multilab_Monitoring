@@ -23,14 +23,14 @@
 | Trier | 34 | 2026-04-20 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Frankfurt Sona | 24 | 2026-04-06 |
+| ULM | 22 | 2026-04-20 |
 | IPN | 21 | 2026-04-20 |
 | Ipu Sona | 21 | 2026-04-17 |
-| ULM | 21 | 2026-04-20 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 14 | 2026-03-17 |
-| Graz | 5 |  |
-| LMU | 3 | 2026-04-19 |
-| Bielefeld | 1 | 2026-04-16 |
+| Graz | 5 | 2026-04-20 |
+| LMU | 4 | 2026-04-19 |
+| Bielefeld | 2 | 2026-04-16 |
 | Potsdam Sona Cogscience | 1 | 2026-03-28 |
 | Bochum | 0 |  |
 | Bochum Prolific | 0 |  |
