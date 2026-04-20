@@ -40,12 +40,12 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Potsdam Sona | 36 | 2026-04-19 |
 | Dresden | 34 | 2026-04-14 |
 | Münster | 34 | 2026-04-20 |
-| Trier | 34 | 2026-04-17 |
+| Trier | 34 | 2026-04-20 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Frankfurt Sona | 24 | 2026-04-06 |
 | IPN | 21 | 2026-04-20 |
 | Ipu Sona | 21 | 2026-04-17 |
-| ULM | 21 | 2026-04-18 |
+| ULM | 21 | 2026-04-20 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 14 | 2026-03-17 |
 | Graz | 4 |  |
