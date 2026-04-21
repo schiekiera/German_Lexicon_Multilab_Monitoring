@@ -3,10 +3,10 @@
 | IU | 488 | 2026-04-21 |
 | Frankfurt Prolific | 209 | 2026-04-14 |
 | HU | 140 | 2026-04-21 |
-| FU | 120 | 2026-04-21 |
+| FU | 121 | 2026-04-21 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
-| Mannheim Kognitive Psychologie | 84 | 2026-04-19 |
+| Mannheim Kognitive Psychologie | 85 | 2026-04-19 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 76 | 2026-03-04 |
@@ -17,7 +17,7 @@
 | Marburg | 65 | 2026-01-18 |
 | Hildesheim | 59 | 2026-04-21 |
 | Twente | 43 | 2026-04-14 |
-| Münster | 38 | 2026-04-21 |
+| Münster | 39 | 2026-04-21 |
 | Potsdam Sona | 38 | 2026-04-21 |
 | Trier | 37 | 2026-04-21 |
 | Dresden | 34 | 2026-04-14 |
