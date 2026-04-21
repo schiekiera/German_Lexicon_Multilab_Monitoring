@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2267
+**Total data files saved across all labs:** 2269
 
 **Overall progress (Target: 2453 participants):**
 
-[████████████████████████████░░] 2267 / 2453 (92.4%)
+[████████████████████████████░░] 2269 / 2453 (92.5%)
 
 ### Table: Progress per lab
 
@@ -22,7 +22,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 |-----|----------------------|-------------------|
 | IU | 487 | 2026-04-21 |
 | Frankfurt Prolific | 209 | 2026-04-14 |
-| HU | 139 | 2026-04-20 |
+| HU | 140 | 2026-04-20 |
 | FU | 120 | 2026-04-21 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
@@ -32,20 +32,20 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Leipzig | 76 | 2026-03-04 |
 | Wuppertal | 72 | 2026-04-20 |
 | Aachen | 71 | 2026-04-19 |
-| Erfurt | 70 | 2026-04-15 |
+| Erfurt | 70 | 2026-04-21 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Hildesheim | 59 | 2026-04-21 |
 | Twente | 43 | 2026-04-14 |
 | Münster | 38 | 2026-04-21 |
 | Potsdam Sona | 37 | 2026-04-21 |
-| Trier | 36 | 2026-04-21 |
+| Trier | 37 | 2026-04-21 |
 | Dresden | 34 | 2026-04-14 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | ULM | 26 | 2026-04-21 |
 | Frankfurt Sona | 24 | 2026-04-06 |
-| IPN | 22 | 2026-04-20 |
-| Ipu Sona | 22 | 2026-04-17 |
+| IPN | 22 | 2026-04-21 |
+| Ipu Sona | 22 | 2026-04-21 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 14 | 2026-03-17 |
 | Graz | 5 | 2026-04-20 |
@@ -76,7 +76,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-21 | 2026-04-21 | 22.00 | Hildesheim | 3 | ULM | 3 | FU | 2 | IU | 2 | Münster | 2 | 10 |
+| Since today 00:00 | 2026-04-21 | 2026-04-21 | 24.00 | Hildesheim | 3 | Trier | 3 | ULM | 3 | FU | 2 | IU | 2 | 11 |
 | Last 3 days | 2026-04-18 | 2026-04-20 | 16.00 | FU | 9 | IU | 5 | ULM | 5 | IPN | 4 | LMU | 4 | 21 |
 | Last 7 days | 2026-04-14 | 2026-04-20 | 37.57 | Frankfurt Prolific | 119 | IPN | 21 | Aachen | 17 | FU | 17 | IU | 15 | 74 |
 | Last 14 days | 2026-04-07 | 2026-04-20 | 26.14 | Frankfurt Prolific | 119 | IU | 37 | FU | 31 | Hildesheim | 31 | IPN | 21 | 127 |
