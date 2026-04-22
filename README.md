@@ -76,11 +76,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-21 | 2026-04-21 | 38.00 | IU | 6 | ULM | 5 | FU | 3 | Hildesheim | 3 | Münster | 3 | 18 |
-| Last 3 days | 2026-04-18 | 2026-04-20 | 16.00 | FU | 9 | IU | 5 | ULM | 5 | IPN | 4 | LMU | 4 | 21 |
-| Last 7 days | 2026-04-14 | 2026-04-20 | 37.57 | Frankfurt Prolific | 119 | IPN | 21 | Aachen | 17 | FU | 17 | IU | 15 | 74 |
-| Last 14 days | 2026-04-07 | 2026-04-20 | 26.14 | Frankfurt Prolific | 119 | IU | 37 | FU | 31 | Hildesheim | 31 | IPN | 21 | 127 |
-| Last 30 days | 2026-03-22 | 2026-04-20 | 22.10 | Frankfurt Prolific | 209 | IU | 83 | FU | 46 | Hagen | 46 | Hildesheim | 41 | 238 |
+| Since today 00:00 | 2026-04-22 | 2026-04-22 | 0.00 |  |  |  |  |  |  |  |  |  |  | 0 |
+| Last 3 days | 2026-04-19 | 2026-04-21 | 26.00 | FU | 11 | IU | 9 | ULM | 8 | Münster | 7 | Hildesheim | 6 | 37 |
+| Last 7 days | 2026-04-15 | 2026-04-21 | 20.00 | FU | 15 | IPN | 14 | IU | 14 | Trier | 13 | Aachen | 12 | 72 |
+| Last 14 days | 2026-04-08 | 2026-04-21 | 28.29 | Frankfurt Prolific | 119 | IU | 42 | Hildesheim | 34 | FU | 33 | IPN | 22 | 146 |
+| Last 30 days | 2026-03-23 | 2026-04-21 | 23.00 | Frankfurt Prolific | 209 | IU | 88 | FU | 49 | Hildesheim | 42 | Hagen | 40 | 262 |
 
 <!-- END_DEMO_TABLE -->
 
