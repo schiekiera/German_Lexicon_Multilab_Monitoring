@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2288
+**Total data files saved across all labs:** 2294
 
 **Overall progress (Target: 2453 participants):**
 
-[████████████████████████████░░] 2288 / 2453 (93.3%)
+[████████████████████████████░░] 2294 / 2453 (93.5%)
 
 ### Table: Progress per lab
 
@@ -22,7 +22,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 |-----|----------------------|-------------------|
 | IU | 491 | 2026-04-21 |
 | Frankfurt Prolific | 209 | 2026-04-14 |
-| HU | 140 | 2026-04-21 |
+| HU | 141 | 2026-04-21 |
 | FU | 122 | 2026-04-22 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
@@ -50,6 +50,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Göttingen | 14 | 2026-03-17 |
 | Graz | 5 | 2026-04-20 |
 | LMU | 5 | 2026-04-21 |
+| Potsdam | 5 |  |
 | Bielefeld | 3 | 2026-04-21 |
 | Potsdam Sona Cogscience | 3 | 2026-04-21 |
 | Bochum | 0 |  |
@@ -57,7 +58,6 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Ipu Prolific | 0 |  |
 | Lüneburg | 0 |  |
 | Passau | 0 |  |
-| Potsdam | 0 |  |
 | Zurich | 0 |  |
 
 ### Plot: Progress per lab over time
@@ -76,7 +76,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-22 | 2026-04-22 | 5.00 | Trier | 4 | FU | 1 |  |  |  |  |  |  | 0 |
+| Since today 00:00 | 2026-04-22 | 2026-04-22 | 11.00 | Potsdam | 5 | Trier | 4 | FU | 1 | HU | 1 |  |  | 0 |
 | Last 3 days | 2026-04-19 | 2026-04-21 | 26.00 | FU | 11 | IU | 9 | ULM | 8 | Münster | 7 | Hildesheim | 6 | 37 |
 | Last 7 days | 2026-04-15 | 2026-04-21 | 20.00 | FU | 15 | IPN | 14 | IU | 14 | Trier | 13 | Aachen | 12 | 72 |
 | Last 14 days | 2026-04-08 | 2026-04-21 | 28.29 | Frankfurt Prolific | 119 | IU | 42 | Hildesheim | 34 | FU | 33 | IPN | 22 | 146 |
