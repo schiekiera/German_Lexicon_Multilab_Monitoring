@@ -17,8 +17,8 @@
 | Marburg | 65 | 2026-01-18 |
 | Hildesheim | 59 | 2026-04-21 |
 | Twente | 43 | 2026-04-14 |
+| Trier | 41 | 2026-04-22 |
 | Münster | 39 | 2026-04-21 |
-| Trier | 39 | 2026-04-22 |
 | Potsdam Sona | 38 | 2026-04-21 |
 | Dresden | 34 | 2026-04-14 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
