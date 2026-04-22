@@ -23,7 +23,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | IU | 491 | 2026-04-21 |
 | Frankfurt Prolific | 209 | 2026-04-14 |
 | HU | 140 | 2026-04-21 |
-| FU | 122 | 2026-04-21 |
+| FU | 122 | 2026-04-22 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
 | Mannheim Kognitive Psychologie | 85 | 2026-04-21 |
@@ -38,7 +38,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Hildesheim | 59 | 2026-04-21 |
 | Twente | 43 | 2026-04-14 |
 | Münster | 39 | 2026-04-21 |
-| Trier | 39 | 2026-04-21 |
+| Trier | 39 | 2026-04-22 |
 | Potsdam Sona | 38 | 2026-04-21 |
 | Dresden | 34 | 2026-04-14 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
