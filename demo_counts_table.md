@@ -22,14 +22,14 @@
 | Münster | 39 | 2026-04-21 |
 | Dresden | 34 | 2026-04-14 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
-| ULM | 29 | 2026-04-21 |
+| ULM | 29 | 2026-04-22 |
 | Frankfurt Sona | 25 | 2026-04-21 |
 | Ipu Sona | 23 | 2026-04-21 |
 | IPN | 22 | 2026-04-21 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 14 | 2026-03-17 |
 | Potsdam | 10 | 2026-04-22 |
-| LMU | 8 | 2026-04-22 |
+| LMU | 9 | 2026-04-22 |
 | Graz | 5 | 2026-04-20 |
 | Bielefeld | 3 | 2026-04-21 |
 | Potsdam Sona Cogscience | 3 | 2026-04-21 |
