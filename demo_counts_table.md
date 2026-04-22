@@ -29,7 +29,7 @@
 | Potsdam | 20 | 2026-04-22 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 14 | 2026-03-17 |
-| LMU | 10 | 2026-04-22 |
+| LMU | 11 | 2026-04-22 |
 | Graz | 5 | 2026-04-20 |
 | Bielefeld | 3 | 2026-04-21 |
 | Potsdam Sona Cogscience | 3 | 2026-04-21 |
