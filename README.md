@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2332
+**Total data files saved across all labs:** 2333
 
 **Overall progress (Target: 2453 participants):**
 
-[█████████████████████████████░] 2332 / 2453 (95.1%)
+[█████████████████████████████░] 2333 / 2453 (95.1%)
 
 ### Table: Progress per lab
 
@@ -41,8 +41,8 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Münster | 40 | 2026-04-22 |
 | Potsdam Sona | 40 | 2026-04-22 |
 | Dresden | 34 | 2026-04-14 |
+| ULM | 30 | 2026-04-22 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
-| ULM | 29 | 2026-04-22 |
 | Frankfurt Sona | 25 | 2026-04-21 |
 | Ipu Sona | 23 | 2026-04-21 |
 | IPN | 22 | 2026-04-21 |
@@ -76,7 +76,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-23 | 2026-04-23 | 7.00 | Trier | 3 | IU | 2 | LMU | 2 |  |  |  |  | 0 |
+| Since today 00:00 | 2026-04-23 | 2026-04-23 | 8.00 | Trier | 3 | IU | 2 | LMU | 2 | ULM | 1 |  |  | 0 |
 | Last 3 days | 2026-04-20 | 2026-04-22 | 33.33 | Potsdam | 20 | FU | 10 | Trier | 10 | LMU | 9 | ULM | 9 | 42 |
 | Last 7 days | 2026-04-16 | 2026-04-22 | 22.86 | Potsdam | 20 | Trier | 16 | FU | 15 | IU | 14 | IPN | 13 | 82 |
 | Last 14 days | 2026-04-09 | 2026-04-22 | 30.71 | Frankfurt Prolific | 119 | IU | 41 | FU | 34 | Hildesheim | 34 | Trier | 23 | 179 |
