@@ -15,13 +15,13 @@
 | Erfurt | 71 | 2026-04-21 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
-| Hildesheim | 60 | 2026-04-21 |
+| Hildesheim | 60 | 2026-04-23 |
 | Trier | 46 | 2026-04-23 |
 | Twente | 43 | 2026-04-14 |
+| Potsdam Sona | 41 | 2026-04-22 |
 | Münster | 40 | 2026-04-22 |
-| Potsdam Sona | 40 | 2026-04-22 |
 | Dresden | 34 | 2026-04-14 |
-| ULM | 30 | 2026-04-23 |
+| ULM | 31 | 2026-04-23 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Frankfurt Sona | 25 | 2026-04-21 |
 | Ipu Sona | 23 | 2026-04-21 |
