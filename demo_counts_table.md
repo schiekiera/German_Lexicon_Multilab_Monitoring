@@ -6,7 +6,7 @@
 | FU | 124 | 2026-04-23 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
-| Mannheim Kognitive Psychologie | 85 | 2026-04-21 |
+| Mannheim Kognitive Psychologie | 86 | 2026-04-21 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 76 | 2026-03-04 |
