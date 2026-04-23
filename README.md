@@ -76,11 +76,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-22 | 2026-04-22 | 42.00 | Potsdam | 20 | LMU | 7 | Trier | 6 | FU | 2 | IU | 2 | 5 |
-| Last 3 days | 2026-04-19 | 2026-04-21 | 26.00 | FU | 11 | IU | 9 | ULM | 8 | Münster | 7 | Hildesheim | 6 | 37 |
-| Last 7 days | 2026-04-15 | 2026-04-21 | 20.00 | FU | 15 | IPN | 14 | IU | 14 | Trier | 13 | Aachen | 12 | 72 |
-| Last 14 days | 2026-04-08 | 2026-04-21 | 28.29 | Frankfurt Prolific | 119 | IU | 42 | Hildesheim | 34 | FU | 33 | IPN | 22 | 146 |
-| Last 30 days | 2026-03-23 | 2026-04-21 | 23.00 | Frankfurt Prolific | 209 | IU | 88 | FU | 49 | Hildesheim | 42 | Hagen | 40 | 262 |
+| Since today 00:00 | 2026-04-23 | 2026-04-23 | 0.00 |  |  |  |  |  |  |  |  |  |  | 0 |
+| Last 3 days | 2026-04-20 | 2026-04-22 | 33.33 | Potsdam | 20 | FU | 10 | Trier | 10 | LMU | 9 | ULM | 9 | 42 |
+| Last 7 days | 2026-04-16 | 2026-04-22 | 22.86 | Potsdam | 20 | Trier | 16 | FU | 15 | IU | 14 | IPN | 13 | 82 |
+| Last 14 days | 2026-04-09 | 2026-04-22 | 30.71 | Frankfurt Prolific | 119 | IU | 41 | FU | 34 | Hildesheim | 34 | Trier | 23 | 179 |
+| Last 30 days | 2026-03-24 | 2026-04-22 | 23.63 | Frankfurt Prolific | 209 | IU | 87 | FU | 51 | Hildesheim | 41 | Erfurt | 38 | 283 |
 
 <!-- END_DEMO_TABLE -->
 
