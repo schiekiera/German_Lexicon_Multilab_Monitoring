@@ -44,7 +44,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | ULM | 33 | 2026-04-24 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Frankfurt Sona | 25 | 2026-04-21 |
-| IPN | 23 | 2026-04-21 |
+| IPN | 23 | 2026-04-24 |
 | Ipu Sona | 23 | 2026-04-21 |
 | Potsdam | 20 | 2026-04-22 |
 | Bamberg | 17 | 2026-01-26 |
