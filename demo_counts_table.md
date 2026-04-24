@@ -9,19 +9,19 @@
 | Mannheim Kognitive Psychologie | 86 | 2026-04-23 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
-| Leipzig | 77 | 2026-03-04 |
+| Leipzig | 77 | 2026-04-24 |
 | Wuppertal | 73 | 2026-04-21 |
 | Aachen | 71 | 2026-04-19 |
 | Erfurt | 71 | 2026-04-21 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Hildesheim | 60 | 2026-04-23 |
-| Trier | 48 | 2026-04-23 |
+| Trier | 48 | 2026-04-24 |
 | Twente | 43 | 2026-04-14 |
 | Münster | 41 | 2026-04-23 |
 | Potsdam Sona | 41 | 2026-04-23 |
 | Dresden | 34 | 2026-04-14 |
-| ULM | 31 | 2026-04-23 |
+| ULM | 32 | 2026-04-23 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Frankfurt Sona | 25 | 2026-04-21 |
 | Ipu Sona | 23 | 2026-04-21 |
