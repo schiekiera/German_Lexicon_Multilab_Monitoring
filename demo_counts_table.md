@@ -1,6 +1,6 @@
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
-| IU | 500 | 2026-04-25 |
+| IU | 500 | 2026-04-26 |
 | Frankfurt Prolific | 209 | 2026-04-14 |
 | HU | 143 | 2026-04-25 |
 | FU | 124 | 2026-04-23 |
@@ -31,7 +31,7 @@
 | LMU | 15 | 2026-04-23 |
 | Göttingen | 14 | 2026-03-17 |
 | Graz | 5 | 2026-04-20 |
-| Bielefeld | 3 | 2026-04-21 |
+| Bielefeld | 4 | 2026-04-21 |
 | Potsdam Sona Cogscience | 3 | 2026-04-21 |
 | Bochum | 0 |  |
 | Bochum Prolific | 0 |  |
