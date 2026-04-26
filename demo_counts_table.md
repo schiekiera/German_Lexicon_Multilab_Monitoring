@@ -20,7 +20,7 @@
 | Twente | 43 | 2026-04-14 |
 | Münster | 41 | 2026-04-23 |
 | Potsdam Sona | 41 | 2026-04-23 |
-| ULM | 37 | 2026-04-26 |
+| ULM | 38 | 2026-04-26 |
 | Dresden | 34 | 2026-04-14 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Frankfurt Sona | 25 | 2026-04-21 |
@@ -32,7 +32,7 @@
 | Göttingen | 14 | 2026-03-17 |
 | Graz | 5 | 2026-04-20 |
 | Bielefeld | 4 | 2026-04-26 |
-| Potsdam Sona Cogscience | 4 | 2026-04-21 |
+| Potsdam Sona Cogscience | 4 | 2026-04-26 |
 | Bochum | 0 |  |
 | Bochum Prolific | 0 |  |
 | Ipu Prolific | 0 |  |
