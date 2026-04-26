@@ -51,7 +51,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | LMU | 15 | 2026-04-23 |
 | Göttingen | 14 | 2026-03-17 |
 | Graz | 5 | 2026-04-20 |
-| Bielefeld | 4 | 2026-04-21 |
+| Bielefeld | 4 | 2026-04-26 |
 | Potsdam Sona Cogscience | 3 | 2026-04-21 |
 | Bochum | 0 |  |
 | Bochum Prolific | 0 |  |
