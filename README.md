@@ -76,11 +76,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-26 | 2026-04-26 | 14.00 | ULM | 5 | Potsdam Sona Cogscience | 4 | IU | 2 | Bielefeld | 1 | HU | 1 | 1 |
-| Last 3 days | 2026-04-23 | 2026-04-25 | 11.67 | Trier | 8 | IU | 6 | ULM | 5 | LMU | 3 | HU | 2 | 11 |
-| Last 7 days | 2026-04-19 | 2026-04-25 | 22.14 | Potsdam | 20 | Trier | 18 | IU | 17 | LMU | 15 | FU | 14 | 71 |
-| Last 14 days | 2026-04-12 | 2026-04-25 | 30.14 | Frankfurt Prolific | 119 | IU | 36 | FU | 30 | Trier | 28 | Hildesheim | 25 | 184 |
-| Last 30 days | 2026-03-27 | 2026-04-25 | 23.03 | Frankfurt Prolific | 209 | IU | 83 | FU | 50 | Trier | 44 | Hildesheim | 37 | 268 |
+| Since today 00:00 | 2026-04-27 | 2026-04-27 | 0.00 |  |  |  |  |  |  |  |  |  |  | 0 |
+| Last 3 days | 2026-04-24 | 2026-04-26 | 10.67 | ULM | 8 | IU | 5 | Trier | 5 | Potsdam Sona Cogscience | 4 | HU | 2 | 8 |
+| Last 7 days | 2026-04-20 | 2026-04-26 | 21.29 | Potsdam | 20 | ULM | 19 | Trier | 18 | IU | 16 | LMU | 12 | 64 |
+| Last 14 days | 2026-04-13 | 2026-04-26 | 30.00 | Frankfurt Prolific | 119 | IU | 35 | Trier | 28 | FU | 26 | ULM | 26 | 186 |
+| Last 30 days | 2026-03-28 | 2026-04-26 | 23.03 | Frankfurt Prolific | 209 | IU | 82 | FU | 48 | Trier | 44 | ULM | 39 | 269 |
 
 <!-- END_DEMO_TABLE -->
 
