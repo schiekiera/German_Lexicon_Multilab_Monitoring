@@ -16,7 +16,7 @@
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Hildesheim | 60 | 2026-04-23 |
-| Trier | 52 | 2026-04-24 |
+| Trier | 52 | 2026-04-27 |
 | Münster | 43 | 2026-04-27 |
 | Twente | 43 | 2026-04-14 |
 | Potsdam Sona | 41 | 2026-04-23 |
@@ -28,9 +28,9 @@
 | Ipu Sona | 23 | 2026-04-21 |
 | Potsdam | 20 | 2026-04-22 |
 | Bamberg | 17 | 2026-01-26 |
-| LMU | 15 | 2026-04-23 |
+| LMU | 16 | 2026-04-23 |
 | Göttingen | 14 | 2026-03-17 |
-| Potsdam Sona Cogscience | 7 | 2026-04-26 |
+| Potsdam Sona Cogscience | 9 | 2026-04-26 |
 | Bielefeld | 6 | 2026-04-27 |
 | Graz | 5 | 2026-04-20 |
 | Bochum | 0 |  |
