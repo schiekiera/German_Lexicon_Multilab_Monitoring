@@ -31,7 +31,7 @@
 | LMU | 15 | 2026-04-23 |
 | Göttingen | 14 | 2026-03-17 |
 | Potsdam Sona Cogscience | 7 | 2026-04-26 |
-| Bielefeld | 5 | 2026-04-26 |
+| Bielefeld | 5 | 2026-04-27 |
 | Graz | 5 | 2026-04-20 |
 | Bochum | 0 |  |
 | Bochum Prolific | 0 |  |
