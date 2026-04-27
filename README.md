@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2378
+**Total data files saved across all labs:** 2380
 
 **Overall progress (Target: 2453 participants):**
 
-[█████████████████████████████░] 2378 / 2453 (96.9%)
+[█████████████████████████████░] 2380 / 2453 (97.0%)
 
 ### Table: Progress per lab
 
@@ -23,7 +23,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | IU | 504 | 2026-04-27 |
 | Frankfurt Prolific | 209 | 2026-04-14 |
 | HU | 144 | 2026-04-26 |
-| FU | 125 | 2026-04-27 |
+| FU | 126 | 2026-04-27 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
 | Mannheim Kognitive Psychologie | 87 | 2026-04-24 |
@@ -51,8 +51,8 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | LMU | 15 | 2026-04-23 |
 | Göttingen | 14 | 2026-03-17 |
 | Potsdam Sona Cogscience | 7 | 2026-04-26 |
+| Bielefeld | 5 | 2026-04-26 |
 | Graz | 5 | 2026-04-20 |
-| Bielefeld | 4 | 2026-04-26 |
 | Bochum | 0 |  |
 | Bochum Prolific | 0 |  |
 | Ipu Prolific | 0 |  |
@@ -76,7 +76,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-27 | 2026-04-27 | 4.00 | IU | 3 | FU | 1 |  |  |  |  |  |  | 0 |
+| Since today 00:00 | 2026-04-27 | 2026-04-27 | 6.00 | IU | 3 | FU | 2 | Bielefeld | 1 |  |  |  |  | 0 |
 | Last 3 days | 2026-04-24 | 2026-04-26 | 10.67 | ULM | 8 | IU | 5 | Trier | 5 | Potsdam Sona Cogscience | 4 | HU | 2 | 8 |
 | Last 7 days | 2026-04-20 | 2026-04-26 | 21.29 | Potsdam | 20 | ULM | 19 | Trier | 18 | IU | 16 | LMU | 12 | 64 |
 | Last 14 days | 2026-04-13 | 2026-04-26 | 30.00 | Frankfurt Prolific | 119 | IU | 35 | Trier | 28 | FU | 26 | ULM | 26 | 186 |
