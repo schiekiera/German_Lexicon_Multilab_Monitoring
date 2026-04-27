@@ -10,17 +10,17 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2385
+**Total data files saved across all labs:** 2387
 
 **Overall progress (Target: 2453 participants):**
 
-[█████████████████████████████░] 2385 / 2453 (97.2%)
+[█████████████████████████████░] 2387 / 2453 (97.3%)
 
 ### Table: Progress per lab
 
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
-| IU | 505 | 2026-04-27 |
+| IU | 506 | 2026-04-27 |
 | Frankfurt Prolific | 209 | 2026-04-14 |
 | HU | 144 | 2026-04-26 |
 | FU | 128 | 2026-04-27 |
@@ -36,8 +36,8 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Hildesheim | 60 | 2026-04-23 |
-| Trier | 51 | 2026-04-24 |
-| Münster | 43 | 2026-04-26 |
+| Trier | 52 | 2026-04-24 |
+| Münster | 43 | 2026-04-27 |
 | Twente | 43 | 2026-04-14 |
 | Potsdam Sona | 41 | 2026-04-23 |
 | ULM | 39 | 2026-04-26 |
@@ -76,7 +76,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-27 | 2026-04-27 | 11.00 | FU | 4 | IU | 4 | Bielefeld | 2 | Münster | 1 |  |  | 0 |
+| Since today 00:00 | 2026-04-27 | 2026-04-27 | 13.00 | IU | 5 | FU | 4 | Bielefeld | 2 | Münster | 1 | Trier | 1 | 0 |
 | Last 3 days | 2026-04-24 | 2026-04-26 | 10.67 | ULM | 8 | IU | 5 | Trier | 5 | Potsdam Sona Cogscience | 4 | HU | 2 | 8 |
 | Last 7 days | 2026-04-20 | 2026-04-26 | 21.29 | Potsdam | 20 | ULM | 19 | Trier | 18 | IU | 16 | LMU | 12 | 64 |
 | Last 14 days | 2026-04-13 | 2026-04-26 | 30.00 | Frankfurt Prolific | 119 | IU | 35 | Trier | 28 | FU | 26 | ULM | 26 | 186 |
