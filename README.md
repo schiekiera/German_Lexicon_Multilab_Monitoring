@@ -10,17 +10,17 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2376
+**Total data files saved across all labs:** 2378
 
 **Overall progress (Target: 2453 participants):**
 
-[█████████████████████████████░] 2376 / 2453 (96.9%)
+[█████████████████████████████░] 2378 / 2453 (96.9%)
 
 ### Table: Progress per lab
 
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
-| IU | 502 | 2026-04-27 |
+| IU | 504 | 2026-04-27 |
 | Frankfurt Prolific | 209 | 2026-04-14 |
 | HU | 144 | 2026-04-26 |
 | FU | 125 | 2026-04-27 |
@@ -76,7 +76,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-27 | 2026-04-27 | 2.00 | FU | 1 | IU | 1 |  |  |  |  |  |  | 0 |
+| Since today 00:00 | 2026-04-27 | 2026-04-27 | 4.00 | IU | 3 | FU | 1 |  |  |  |  |  |  | 0 |
 | Last 3 days | 2026-04-24 | 2026-04-26 | 10.67 | ULM | 8 | IU | 5 | Trier | 5 | Potsdam Sona Cogscience | 4 | HU | 2 | 8 |
 | Last 7 days | 2026-04-20 | 2026-04-26 | 21.29 | Potsdam | 20 | ULM | 19 | Trier | 18 | IU | 16 | LMU | 12 | 64 |
 | Last 14 days | 2026-04-13 | 2026-04-26 | 30.00 | Frankfurt Prolific | 119 | IU | 35 | Trier | 28 | FU | 26 | ULM | 26 | 186 |
