@@ -24,13 +24,13 @@
 | Dresden | 34 | 2026-04-14 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Frankfurt Sona | 25 | 2026-04-21 |
-| IPN | 25 | 2026-04-24 |
+| IPN | 25 | 2026-04-27 |
 | Ipu Sona | 23 | 2026-04-21 |
 | Potsdam | 20 | 2026-04-22 |
 | Bamberg | 17 | 2026-01-26 |
 | LMU | 16 | 2026-04-27 |
 | Göttingen | 15 | 2026-04-27 |
-| Potsdam Sona Cogscience | 9 | 2026-04-27 |
+| Potsdam Sona Cogscience | 10 | 2026-04-27 |
 | Bielefeld | 6 | 2026-04-27 |
 | Graz | 5 | 2026-04-20 |
 | Bochum | 0 |  |
