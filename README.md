@@ -26,7 +26,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | FU | 129 | 2026-04-28 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
-| Mannheim Kognitive Psychologie | 88 | 2026-04-24 |
+| Mannheim Kognitive Psychologie | 88 | 2026-04-28 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 77 | 2026-04-24 |
