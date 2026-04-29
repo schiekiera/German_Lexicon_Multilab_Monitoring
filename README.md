@@ -40,7 +40,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Twente | 44 | 2026-04-29 |
 | Münster | 43 | 2026-04-27 |
 | Potsdam Sona | 42 | 2026-04-29 |
-| ULM | 40 | 2026-04-26 |
+| ULM | 40 | 2026-04-29 |
 | Dresden | 34 | 2026-04-14 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | IPN | 27 | 2026-04-28 |
