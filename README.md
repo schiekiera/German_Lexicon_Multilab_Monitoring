@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2410
+**Total data files saved across all labs:** 2413
 
 **Overall progress (Target: 2453 participants):**
 
-[█████████████████████████████░] 2410 / 2453 (98.2%)
+[██████████████████████████████] 2413 / 2453 (98.4%)
 
 ### Table: Progress per lab
 
@@ -50,9 +50,9 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Bamberg | 17 | 2026-01-26 |
 | LMU | 16 | 2026-04-27 |
 | Göttingen | 15 | 2026-04-27 |
-| Potsdam Sona Cogscience | 12 | 2026-04-28 |
+| Potsdam Sona Cogscience | 13 | 2026-04-28 |
+| Graz | 7 | 2026-04-20 |
 | Bielefeld | 6 | 2026-04-27 |
-| Graz | 5 | 2026-04-20 |
 | Bochum | 0 |  |
 | Bochum Prolific | 0 |  |
 | Ipu Prolific | 0 |  |
@@ -76,7 +76,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-29 | 2026-04-29 | 1.00 | IU | 1 |  |  |  |  |  |  |  |  | 0 |
+| Since today 00:00 | 2026-04-29 | 2026-04-29 | 4.00 | Graz | 2 | IU | 1 | Potsdam Sona Cogscience | 1 |  |  |  |  | 0 |
 | Last 3 days | 2026-04-26 | 2026-04-28 | 16.33 | IU | 10 | Potsdam Sona Cogscience | 9 | FU | 6 | ULM | 5 | Bielefeld | 3 | 16 |
 | Last 7 days | 2026-04-22 | 2026-04-28 | 18.00 | Potsdam | 20 | IU | 18 | Trier | 15 | LMU | 11 | ULM | 11 | 51 |
 | Last 14 days | 2026-04-15 | 2026-04-28 | 19.00 | IU | 32 | Trier | 28 | FU | 24 | ULM | 23 | Potsdam | 20 | 139 |

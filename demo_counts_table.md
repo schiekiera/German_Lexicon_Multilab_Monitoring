@@ -30,9 +30,9 @@
 | Bamberg | 17 | 2026-01-26 |
 | LMU | 16 | 2026-04-27 |
 | Göttingen | 15 | 2026-04-27 |
-| Potsdam Sona Cogscience | 12 | 2026-04-28 |
+| Potsdam Sona Cogscience | 13 | 2026-04-28 |
+| Graz | 7 | 2026-04-20 |
 | Bielefeld | 6 | 2026-04-27 |
-| Graz | 5 | 2026-04-20 |
 | Bochum | 0 |  |
 | Bochum Prolific | 0 |  |
 | Ipu Prolific | 0 |  |
