@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2419
+**Total data files saved across all labs:** 2420
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2419 / 2453 (98.6%)
+[██████████████████████████████] 2420 / 2453 (98.7%)
 
 ### Table: Progress per lab
 
@@ -23,7 +23,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | IU | 512 | 2026-04-29 |
 | Frankfurt Prolific | 209 | 2026-04-14 |
 | HU | 144 | 2026-04-26 |
-| FU | 131 | 2026-04-28 |
+| FU | 131 | 2026-04-29 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
 | Mannheim Kognitive Psychologie | 88 | 2026-04-28 |
@@ -37,10 +37,10 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Marburg | 65 | 2026-01-18 |
 | Hildesheim | 60 | 2026-04-23 |
 | Trier | 52 | 2026-04-27 |
-| Twente | 44 | 2026-04-14 |
+| Twente | 44 | 2026-04-29 |
 | Münster | 43 | 2026-04-27 |
 | Potsdam Sona | 42 | 2026-04-29 |
-| ULM | 39 | 2026-04-26 |
+| ULM | 40 | 2026-04-26 |
 | Dresden | 34 | 2026-04-14 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | IPN | 27 | 2026-04-28 |
@@ -76,7 +76,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-29 | 2026-04-29 | 10.00 | IU | 3 | Graz | 2 | Potsdam Sona Cogscience | 2 | FU | 1 | Potsdam Sona | 1 | 1 |
+| Since today 00:00 | 2026-04-29 | 2026-04-29 | 11.00 | IU | 3 | Graz | 2 | Potsdam Sona Cogscience | 2 | FU | 1 | Potsdam Sona | 1 | 2 |
 | Last 3 days | 2026-04-26 | 2026-04-28 | 16.33 | IU | 10 | Potsdam Sona Cogscience | 9 | FU | 6 | ULM | 5 | Bielefeld | 3 | 16 |
 | Last 7 days | 2026-04-22 | 2026-04-28 | 18.00 | Potsdam | 20 | IU | 18 | Trier | 15 | LMU | 11 | ULM | 11 | 51 |
 | Last 14 days | 2026-04-15 | 2026-04-28 | 19.00 | IU | 32 | Trier | 28 | FU | 24 | ULM | 23 | Potsdam | 20 | 139 |
