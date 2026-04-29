@@ -10,17 +10,17 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2413
+**Total data files saved across all labs:** 2416
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2413 / 2453 (98.4%)
+[██████████████████████████████] 2416 / 2453 (98.5%)
 
 ### Table: Progress per lab
 
 | Lab | *n* (Participants) | Last update (day) |
 |-----|----------------------|-------------------|
-| IU | 510 | 2026-04-29 |
+| IU | 511 | 2026-04-29 |
 | Frankfurt Prolific | 209 | 2026-04-14 |
 | HU | 144 | 2026-04-26 |
 | FU | 130 | 2026-04-28 |
@@ -39,7 +39,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Trier | 52 | 2026-04-27 |
 | Münster | 43 | 2026-04-27 |
 | Twente | 43 | 2026-04-14 |
-| Potsdam Sona | 41 | 2026-04-23 |
+| Potsdam Sona | 42 | 2026-04-23 |
 | ULM | 39 | 2026-04-26 |
 | Dresden | 34 | 2026-04-14 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
@@ -50,8 +50,8 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Bamberg | 17 | 2026-01-26 |
 | LMU | 16 | 2026-04-27 |
 | Göttingen | 15 | 2026-04-27 |
-| Potsdam Sona Cogscience | 13 | 2026-04-28 |
-| Graz | 7 | 2026-04-20 |
+| Potsdam Sona Cogscience | 14 | 2026-04-29 |
+| Graz | 7 | 2026-04-29 |
 | Bielefeld | 6 | 2026-04-27 |
 | Bochum | 0 |  |
 | Bochum Prolific | 0 |  |
@@ -76,7 +76,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-29 | 2026-04-29 | 4.00 | Graz | 2 | IU | 1 | Potsdam Sona Cogscience | 1 |  |  |  |  | 0 |
+| Since today 00:00 | 2026-04-29 | 2026-04-29 | 7.00 | Graz | 2 | IU | 2 | Potsdam Sona Cogscience | 2 | Potsdam Sona | 1 |  |  | 0 |
 | Last 3 days | 2026-04-26 | 2026-04-28 | 16.33 | IU | 10 | Potsdam Sona Cogscience | 9 | FU | 6 | ULM | 5 | Bielefeld | 3 | 16 |
 | Last 7 days | 2026-04-22 | 2026-04-28 | 18.00 | Potsdam | 20 | IU | 18 | Trier | 15 | LMU | 11 | ULM | 11 | 51 |
 | Last 14 days | 2026-04-15 | 2026-04-28 | 19.00 | IU | 32 | Trier | 28 | FU | 24 | ULM | 23 | Potsdam | 20 | 139 |
