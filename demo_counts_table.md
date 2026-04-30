@@ -9,7 +9,7 @@
 | Mannheim Kognitive Psychologie | 89 | 2026-04-29 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
-| Leipzig | 78 | 2026-04-24 |
+| Leipzig | 78 | 2026-04-30 |
 | Wuppertal | 77 | 2026-04-28 |
 | Erfurt | 74 | 2026-04-28 |
 | Aachen | 71 | 2026-04-19 |
@@ -30,7 +30,7 @@
 | Bamberg | 17 | 2026-01-26 |
 | LMU | 16 | 2026-04-27 |
 | Göttingen | 15 | 2026-04-27 |
-| Potsdam Sona Cogscience | 14 | 2026-04-29 |
+| Potsdam Sona Cogscience | 15 | 2026-04-29 |
 | Graz | 9 | 2026-04-30 |
 | Bielefeld | 6 | 2026-04-27 |
 | Bochum | 0 |  |

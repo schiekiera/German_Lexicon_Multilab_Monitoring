@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2432
+**Total data files saved across all labs:** 2433
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2432 / 2453 (99.1%)
+[██████████████████████████████] 2433 / 2453 (99.2%)
 
 ### Table: Progress per lab
 
@@ -29,7 +29,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Mannheim Kognitive Psychologie | 89 | 2026-04-29 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
-| Leipzig | 78 | 2026-04-24 |
+| Leipzig | 78 | 2026-04-30 |
 | Wuppertal | 77 | 2026-04-28 |
 | Erfurt | 74 | 2026-04-28 |
 | Aachen | 71 | 2026-04-19 |
@@ -50,7 +50,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Bamberg | 17 | 2026-01-26 |
 | LMU | 16 | 2026-04-27 |
 | Göttingen | 15 | 2026-04-27 |
-| Potsdam Sona Cogscience | 14 | 2026-04-29 |
+| Potsdam Sona Cogscience | 15 | 2026-04-29 |
 | Graz | 9 | 2026-04-30 |
 | Bielefeld | 6 | 2026-04-27 |
 | Bochum | 0 |  |
@@ -76,7 +76,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-30 | 2026-04-30 | 3.00 | Graz | 2 | Leipzig | 1 |  |  |  |  |  |  | 0 |
+| Since today 00:00 | 2026-04-30 | 2026-04-30 | 4.00 | Graz | 2 | Leipzig | 1 | Potsdam Sona Cogscience | 1 |  |  |  |  | 0 |
 | Last 3 days | 2026-04-27 | 2026-04-29 | 18.33 | IU | 15 | FU | 8 | Potsdam Sona Cogscience | 7 | IPN | 3 | ULM | 3 | 19 |
 | Last 7 days | 2026-04-23 | 2026-04-29 | 14.86 | IU | 23 | ULM | 13 | Potsdam Sona Cogscience | 11 | FU | 9 | Trier | 9 | 39 |
 | Last 14 days | 2026-04-16 | 2026-04-29 | 18.86 | IU | 37 | Trier | 25 | ULM | 25 | FU | 24 | Potsdam | 20 | 133 |
