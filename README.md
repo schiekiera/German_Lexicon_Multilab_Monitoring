@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2445
+**Total data files saved across all labs:** 2446
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2445 / 2453 (99.7%)
+[██████████████████████████████] 2446 / 2453 (99.7%)
 
 ### Table: Progress per lab
 
@@ -44,7 +44,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Dresden | 34 | 2026-04-14 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | IPN | 27 | 2026-04-28 |
-| LMU | 26 | 2026-04-30 |
+| LMU | 27 | 2026-04-30 |
 | Frankfurt Sona | 25 | 2026-04-21 |
 | Ipu Sona | 24 | 2026-04-28 |
 | Potsdam | 20 | 2026-04-22 |
@@ -76,7 +76,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-04-30 | 2026-04-30 | 16.00 | LMU | 10 | Graz | 2 | Erfurt | 1 | Leipzig | 1 | Mannheim Kognitive Psychologie | 1 | 1 |
+| Since today 00:00 | 2026-04-30 | 2026-04-30 | 17.00 | LMU | 11 | Graz | 2 | Erfurt | 1 | Leipzig | 1 | Mannheim Kognitive Psychologie | 1 | 1 |
 | Last 3 days | 2026-04-27 | 2026-04-29 | 18.33 | IU | 15 | FU | 8 | Potsdam Sona Cogscience | 7 | IPN | 3 | ULM | 3 | 19 |
 | Last 7 days | 2026-04-23 | 2026-04-29 | 14.86 | IU | 23 | ULM | 13 | Potsdam Sona Cogscience | 11 | FU | 9 | Trier | 9 | 39 |
 | Last 14 days | 2026-04-16 | 2026-04-29 | 18.86 | IU | 37 | Trier | 25 | ULM | 25 | FU | 24 | Potsdam | 20 | 133 |
