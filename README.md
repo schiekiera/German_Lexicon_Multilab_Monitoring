@@ -42,7 +42,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Potsdam Sona | 42 | 2026-04-29 |
 | ULM | 42 | 2026-04-29 |
 | Dresden | 34 | 2026-04-14 |
-| LMU | 29 | 2026-04-30 |
+| LMU | 29 | 2026-05-01 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | IPN | 27 | 2026-04-28 |
 | Frankfurt Sona | 25 | 2026-04-21 |
