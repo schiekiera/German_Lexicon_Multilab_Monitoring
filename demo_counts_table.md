@@ -31,7 +31,7 @@
 | Bamberg | 17 | 2026-01-26 |
 | Potsdam Sona Cogscience | 16 | 2026-04-30 |
 | Göttingen | 15 | 2026-04-27 |
-| Graz | 11 | 2026-04-30 |
+| Graz | 11 | 2026-05-01 |
 | Bielefeld | 6 | 2026-04-27 |
 | Bochum | 0 |  |
 | Bochum Prolific | 0 |  |
