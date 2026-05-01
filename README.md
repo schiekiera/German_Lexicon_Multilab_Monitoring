@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2450
+**Total data files saved across all labs:** 2451
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2450 / 2453 (99.9%)
+[██████████████████████████████] 2451 / 2453 (99.9%)
 
 ### Table: Progress per lab
 
@@ -42,8 +42,8 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Potsdam Sona | 42 | 2026-04-29 |
 | ULM | 42 | 2026-04-29 |
 | Dresden | 34 | 2026-04-14 |
+| LMU | 29 | 2026-04-30 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
-| LMU | 28 | 2026-04-30 |
 | IPN | 27 | 2026-04-28 |
 | Frankfurt Sona | 25 | 2026-04-21 |
 | Ipu Sona | 24 | 2026-04-28 |
@@ -76,7 +76,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-01 | 2026-05-01 | 2.00 | Graz | 2 |  |  |  |  |  |  |  |  | 0 |
+| Since today 00:00 | 2026-05-01 | 2026-05-01 | 3.00 | Graz | 2 | LMU | 1 |  |  |  |  |  |  | 0 |
 | Last 3 days | 2026-04-28 | 2026-04-30 | 17.67 | LMU | 12 | IU | 10 | Potsdam Sona Cogscience | 5 | FU | 4 | Graz | 4 | 18 |
 | Last 7 days | 2026-04-24 | 2026-04-30 | 15.14 | IU | 20 | LMU | 13 | Potsdam Sona Cogscience | 13 | ULM | 11 | FU | 8 | 41 |
 | Last 14 days | 2026-04-17 | 2026-04-30 | 19.21 | IU | 36 | LMU | 28 | ULM | 25 | FU | 24 | Trier | 22 | 134 |
