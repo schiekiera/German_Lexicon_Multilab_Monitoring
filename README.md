@@ -38,7 +38,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Hildesheim | 60 | 2026-04-23 |
 | Trier | 52 | 2026-04-27 |
 | Twente | 45 | 2026-04-29 |
-| Münster | 44 | 2026-04-27 |
+| Münster | 44 | 2026-05-03 |
 | Potsdam Sona | 42 | 2026-04-29 |
 | ULM | 42 | 2026-04-29 |
 | Dresden | 34 | 2026-04-14 |
