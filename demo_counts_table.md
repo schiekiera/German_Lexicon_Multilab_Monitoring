@@ -29,7 +29,7 @@
 | Ipu Sona | 25 | 2026-05-04 |
 | Potsdam | 20 | 2026-04-22 |
 | Bamberg | 17 | 2026-01-26 |
-| Göttingen | 16 | 2026-04-27 |
+| Göttingen | 16 | 2026-05-04 |
 | Potsdam Sona Cogscience | 16 | 2026-04-30 |
 | Graz | 12 | 2026-05-04 |
 | Bielefeld | 6 | 2026-04-27 |
