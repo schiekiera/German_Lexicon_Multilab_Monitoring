@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2458
+**Total data files saved across all labs:** 2459
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2458 / 2453 (100.0%)
+[██████████████████████████████] 2459 / 2453 (100.0%)
 
 ### Table: Progress per lab
 
@@ -26,7 +26,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | FU | 132 | 2026-04-29 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
-| Mannheim Kognitive Psychologie | 91 | 2026-04-30 |
+| Mannheim Kognitive Psychologie | 91 | 2026-05-04 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 78 | 2026-04-30 |
@@ -46,7 +46,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | LMU | 29 | 2026-05-01 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Frankfurt Sona | 25 | 2026-04-21 |
-| Ipu Sona | 24 | 2026-04-28 |
+| Ipu Sona | 25 | 2026-04-28 |
 | Potsdam | 20 | 2026-04-22 |
 | Bamberg | 17 | 2026-01-26 |
 | Potsdam Sona Cogscience | 16 | 2026-04-30 |
@@ -76,7 +76,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-04 | 2026-05-04 | 2.00 | Graz | 1 | Mannheim Kognitive Psychologie | 1 |  |  |  |  |  |  | 0 |
+| Since today 00:00 | 2026-05-04 | 2026-05-04 | 3.00 | Graz | 1 | Ipu Sona | 1 | Mannheim Kognitive Psychologie | 1 |  |  |  |  | 0 |
 | Last 3 days | 2026-05-01 | 2026-05-03 | 2.67 | Graz | 2 | IPN | 2 | HU | 1 | Hildesheim | 1 | LMU | 1 | 1 |
 | Last 7 days | 2026-04-27 | 2026-05-03 | 11.71 | IU | 15 | LMU | 14 | Potsdam Sona Cogscience | 9 | FU | 8 | Graz | 6 | 30 |
 | Last 14 days | 2026-04-20 | 2026-05-03 | 16.50 | IU | 31 | LMU | 26 | ULM | 22 | Potsdam | 20 | FU | 19 | 113 |
