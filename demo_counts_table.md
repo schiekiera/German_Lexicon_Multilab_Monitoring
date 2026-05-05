@@ -11,7 +11,7 @@
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 78 | 2026-04-30 |
 | Wuppertal | 77 | 2026-04-28 |
-| Erfurt | 75 | 2026-04-30 |
+| Erfurt | 76 | 2026-04-30 |
 | Aachen | 71 | 2026-04-19 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
@@ -19,7 +19,7 @@
 | Trier | 52 | 2026-04-27 |
 | Twente | 45 | 2026-04-29 |
 | Münster | 44 | 2026-05-03 |
-| ULM | 43 | 2026-04-29 |
+| ULM | 43 | 2026-05-05 |
 | Potsdam Sona | 42 | 2026-04-29 |
 | Dresden | 34 | 2026-04-14 |
 | IPN | 29 | 2026-05-03 |
@@ -27,10 +27,10 @@
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Frankfurt Sona | 26 | 2026-05-04 |
 | Ipu Sona | 25 | 2026-05-04 |
+| Bochum Prolific | 20 | 2026-05-05 |
 | Potsdam | 20 | 2026-04-22 |
 | Bamberg | 17 | 2026-01-26 |
-| Potsdam Sona Cogscience | 17 | 2026-04-30 |
-| Bochum Prolific | 16 | 2026-05-05 |
+| Potsdam Sona Cogscience | 17 | 2026-05-05 |
 | Göttingen | 16 | 2026-05-04 |
 | Graz | 12 | 2026-05-04 |
 | Bielefeld | 6 | 2026-04-27 |
