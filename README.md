@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2464
+**Total data files saved across all labs:** 2474
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2464 / 2453 (100.0%)
+[██████████████████████████████] 2474 / 2453 (100.0%)
 
 ### Table: Progress per lab
 
@@ -23,7 +23,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | IU | 516 | 2026-04-29 |
 | Frankfurt Prolific | 209 | 2026-04-14 |
 | HU | 145 | 2026-05-02 |
-| FU | 134 | 2026-05-05 |
+| FU | 135 | 2026-05-05 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
 | Mannheim Kognitive Psychologie | 91 | 2026-05-04 |
@@ -35,7 +35,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Aachen | 71 | 2026-04-19 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
-| Hildesheim | 61 | 2026-05-03 |
+| Hildesheim | 62 | 2026-05-03 |
 | Trier | 52 | 2026-04-27 |
 | Twente | 45 | 2026-04-29 |
 | Münster | 44 | 2026-05-03 |
@@ -52,10 +52,10 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Göttingen | 16 | 2026-05-04 |
 | Potsdam Sona Cogscience | 16 | 2026-04-30 |
 | Graz | 12 | 2026-05-04 |
+| Bochum Prolific | 8 |  |
 | Bielefeld | 6 | 2026-04-27 |
 | Zurich | 1 | 2026-05-05 |
 | Bochum | 0 |  |
-| Bochum Prolific | 0 |  |
 | Ipu Prolific | 0 |  |
 | Lüneburg | 0 |  |
 | Passau | 0 |  |
@@ -76,7 +76,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-05 | 2026-05-05 | 3.00 | FU | 2 | Zurich | 1 |  |  |  |  |  |  | 0 |
+| Since today 00:00 | 2026-05-05 | 2026-05-05 | 13.00 | Bochum Prolific | 8 | FU | 3 | Hildesheim | 1 | Zurich | 1 |  |  | 0 |
 | Last 3 days | 2026-05-02 | 2026-05-04 | 3.33 | IPN | 2 | Frankfurt Sona | 1 | Graz | 1 | Göttingen | 1 | HU | 1 | 4 |
 | Last 7 days | 2026-04-28 | 2026-05-04 | 9.43 | LMU | 13 | IU | 10 | Graz | 7 | Potsdam Sona Cogscience | 5 | FU | 4 | 27 |
 | Last 14 days | 2026-04-21 | 2026-05-04 | 15.43 | IU | 31 | LMU | 25 | Potsdam | 20 | ULM | 19 | Trier | 18 | 103 |
