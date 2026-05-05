@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2493
+**Total data files saved across all labs:** 2498
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2493 / 2453 (100.0%)
+[██████████████████████████████] 2498 / 2453 (100.0%)
 
 ### Table: Progress per lab
 
@@ -23,7 +23,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | IU | 516 | 2026-04-29 |
 | Frankfurt Prolific | 209 | 2026-04-14 |
 | HU | 145 | 2026-05-02 |
-| FU | 137 | 2026-05-05 |
+| FU | 138 | 2026-05-05 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
 | Mannheim Kognitive Psychologie | 91 | 2026-05-04 |
@@ -37,7 +37,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Marburg | 65 | 2026-01-18 |
 | Hildesheim | 62 | 2026-05-05 |
 | Trier | 52 | 2026-04-27 |
-| Münster | 45 | 2026-05-05 |
+| Münster | 46 | 2026-05-05 |
 | Twente | 45 | 2026-04-29 |
 | ULM | 43 | 2026-05-05 |
 | Potsdam Sona | 42 | 2026-04-29 |
@@ -47,7 +47,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Frankfurt Sona | 26 | 2026-05-04 |
 | Ipu Sona | 25 | 2026-05-04 |
-| Bochum Prolific | 20 | 2026-05-05 |
+| Bochum Prolific | 23 | 2026-05-05 |
 | Potsdam | 20 | 2026-04-22 |
 | Potsdam Sona Cogscience | 18 | 2026-05-05 |
 | Bamberg | 17 | 2026-01-26 |
@@ -76,7 +76,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-05 | 2026-05-05 | 32.00 | Bochum Prolific | 20 | FU | 5 | Potsdam Sona Cogscience | 2 | Erfurt | 1 | Hildesheim | 1 | 3 |
+| Since today 00:00 | 2026-05-05 | 2026-05-05 | 37.00 | Bochum Prolific | 23 | FU | 6 | Münster | 2 | Potsdam Sona Cogscience | 2 | Erfurt | 1 | 3 |
 | Last 3 days | 2026-05-02 | 2026-05-04 | 3.33 | IPN | 2 | Frankfurt Sona | 1 | Graz | 1 | Göttingen | 1 | HU | 1 | 4 |
 | Last 7 days | 2026-04-28 | 2026-05-04 | 9.43 | LMU | 13 | IU | 10 | Graz | 7 | Potsdam Sona Cogscience | 5 | FU | 4 | 27 |
 | Last 14 days | 2026-04-21 | 2026-05-04 | 15.43 | IU | 31 | LMU | 25 | Potsdam | 20 | ULM | 19 | Trier | 18 | 103 |
