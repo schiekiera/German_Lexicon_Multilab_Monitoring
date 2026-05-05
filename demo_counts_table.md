@@ -3,7 +3,7 @@
 | IU | 516 | 2026-04-29 |
 | Frankfurt Prolific | 209 | 2026-04-14 |
 | HU | 145 | 2026-05-02 |
-| FU | 132 | 2026-04-29 |
+| FU | 134 | 2026-04-29 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
 | Mannheim Kognitive Psychologie | 91 | 2026-05-04 |
@@ -33,7 +33,7 @@
 | Potsdam Sona Cogscience | 16 | 2026-04-30 |
 | Graz | 12 | 2026-05-04 |
 | Bielefeld | 6 | 2026-04-27 |
-| Zurich | 1 |  |
+| Zurich | 1 | 2026-05-05 |
 | Bochum | 0 |  |
 | Bochum Prolific | 0 |  |
 | Ipu Prolific | 0 |  |
