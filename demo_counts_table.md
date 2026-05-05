@@ -33,9 +33,9 @@
 | Potsdam Sona Cogscience | 16 | 2026-04-30 |
 | Graz | 12 | 2026-05-04 |
 | Bielefeld | 6 | 2026-04-27 |
+| Zurich | 1 |  |
 | Bochum | 0 |  |
 | Bochum Prolific | 0 |  |
 | Ipu Prolific | 0 |  |
 | Lüneburg | 0 |  |
 | Passau | 0 |  |
-| Zurich | 0 |  |
