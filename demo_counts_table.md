@@ -9,7 +9,7 @@
 | Mannheim Kognitive Psychologie | 91 | 2026-05-04 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
-| Leipzig | 79 | 2026-04-30 |
+| Leipzig | 79 | 2026-05-05 |
 | Erfurt | 77 | 2026-05-05 |
 | Wuppertal | 77 | 2026-04-28 |
 | Aachen | 71 | 2026-04-19 |
