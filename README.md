@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2522
+**Total data files saved across all labs:** 2523
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2522 / 2453 (100.0%)
+[██████████████████████████████] 2523 / 2453 (100.0%)
 
 ### Table: Progress per lab
 
@@ -39,7 +39,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Trier | 52 | 2026-04-27 |
 | Twente | 47 | 2026-05-07 |
 | Münster | 46 | 2026-05-05 |
-| ULM | 46 | 2026-05-06 |
+| ULM | 46 | 2026-05-07 |
 | Potsdam Sona | 42 | 2026-04-29 |
 | Dresden | 34 | 2026-04-14 |
 | IPN | 29 | 2026-05-03 |
@@ -53,7 +53,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 16 | 2026-05-04 |
 | Graz | 13 | 2026-05-05 |
-| Zurich | 7 | 2026-05-07 |
+| Zurich | 8 | 2026-05-07 |
 | Bielefeld | 6 | 2026-04-27 |
 | Bochum | 1 | 2026-05-06 |
 | Ipu Prolific | 0 |  |
@@ -76,7 +76,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-07 | 2026-05-07 | 10.00 | Zurich | 6 | Frankfurt Sona | 1 | HU | 1 | Twente | 1 | ULM | 1 | 0 |
+| Since today 00:00 | 2026-05-07 | 2026-05-07 | 11.00 | Zurich | 7 | Frankfurt Sona | 1 | HU | 1 | Twente | 1 | ULM | 1 | 0 |
 | Last 3 days | 2026-05-04 | 2026-05-06 | 18.67 | Bochum Prolific | 23 | FU | 11 | ULM | 3 | Erfurt | 2 | Graz | 2 | 15 |
 | Last 7 days | 2026-04-30 | 2026-05-06 | 11.86 | Bochum Prolific | 23 | LMU | 13 | FU | 11 | Graz | 6 | Potsdam Sona Cogscience | 4 | 26 |
 | Last 14 days | 2026-04-23 | 2026-05-06 | 13.36 | Bochum Prolific | 23 | IU | 23 | FU | 20 | LMU | 17 | ULM | 16 | 88 |
