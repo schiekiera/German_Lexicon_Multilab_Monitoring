@@ -76,11 +76,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-06 | 2026-05-06 | 11.00 | FU | 5 | ULM | 2 | Bochum | 1 | Hildesheim | 1 | Mannheim Kognitive Psychologie | 1 | 1 |
-| Last 3 days | 2026-05-03 | 2026-05-05 | 16.33 | Bochum Prolific | 23 | FU | 6 | Münster | 3 | Erfurt | 2 | Graz | 2 | 13 |
-| Last 7 days | 2026-04-29 | 2026-05-05 | 13.14 | Bochum Prolific | 23 | LMU | 13 | FU | 8 | Graz | 8 | IU | 7 | 33 |
-| Last 14 days | 2026-04-22 | 2026-05-05 | 15.57 | IU | 25 | LMU | 24 | Bochum Prolific | 23 | Potsdam | 20 | FU | 17 | 109 |
-| Last 30 days | 2026-04-06 | 2026-05-05 | 20.93 | Frankfurt Prolific | 119 | IU | 70 | FU | 51 | ULM | 38 | Hildesheim | 37 | 313 |
+| Since today 00:00 | 2026-05-07 | 2026-05-07 | 0.00 |  |  |  |  |  |  |  |  |  |  | 0 |
+| Last 3 days | 2026-05-04 | 2026-05-06 | 18.67 | Bochum Prolific | 23 | FU | 11 | ULM | 3 | Erfurt | 2 | Graz | 2 | 15 |
+| Last 7 days | 2026-04-30 | 2026-05-06 | 11.86 | Bochum Prolific | 23 | LMU | 13 | FU | 11 | Graz | 6 | Potsdam Sona Cogscience | 4 | 26 |
+| Last 14 days | 2026-04-23 | 2026-05-06 | 13.36 | Bochum Prolific | 23 | IU | 23 | FU | 20 | LMU | 17 | ULM | 16 | 88 |
+| Last 30 days | 2026-04-07 | 2026-05-06 | 21.10 | Frankfurt Prolific | 119 | IU | 68 | FU | 56 | ULM | 40 | Hildesheim | 38 | 312 |
 
 <!-- END_DEMO_TABLE -->
 
