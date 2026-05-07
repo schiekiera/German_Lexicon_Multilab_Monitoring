@@ -33,8 +33,8 @@
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 16 | 2026-05-04 |
 | Graz | 13 | 2026-05-05 |
+| Zurich | 7 | 2026-05-07 |
 | Bielefeld | 6 | 2026-04-27 |
-| Zurich | 6 | 2026-05-07 |
 | Bochum | 1 | 2026-05-06 |
 | Ipu Prolific | 0 |  |
 | Lüneburg | 0 |  |
