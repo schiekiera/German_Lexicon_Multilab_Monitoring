@@ -55,7 +55,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Graz | 13 | 2026-05-05 |
 | Zurich | 8 | 2026-05-07 |
 | Bielefeld | 6 | 2026-04-27 |
-| Bochum | 2 | 2026-05-06 |
+| Bochum | 2 | 2026-05-08 |
 | Ipu Prolific | 0 |  |
 | Lüneburg | 0 |  |
 | Passau | 0 |  |
