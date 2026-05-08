@@ -53,7 +53,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 17 | 2026-05-08 |
 | Graz | 15 | 2026-05-08 |
-| Zurich | 9 | 2026-05-07 |
+| Zurich | 9 | 2026-05-08 |
 | Bielefeld | 6 | 2026-04-27 |
 | Bochum | 2 | 2026-05-08 |
 | Ipu Prolific | 0 |  |
