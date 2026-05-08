@@ -10,7 +10,7 @@
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
 | Leipzig | 79 | 2026-05-05 |
-| Erfurt | 78 | 2026-05-05 |
+| Erfurt | 78 | 2026-05-08 |
 | Wuppertal | 77 | 2026-04-28 |
 | Aachen | 71 | 2026-04-19 |
 | Darmstadt | 65 | 2026-02-06 |
@@ -31,7 +31,7 @@
 | Potsdam | 20 | 2026-04-22 |
 | Potsdam Sona Cogscience | 18 | 2026-05-05 |
 | Bamberg | 17 | 2026-01-26 |
-| Göttingen | 16 | 2026-05-04 |
+| Göttingen | 17 | 2026-05-04 |
 | Graz | 15 | 2026-05-08 |
 | Zurich | 8 | 2026-05-07 |
 | Bielefeld | 6 | 2026-04-27 |
