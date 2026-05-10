@@ -35,7 +35,7 @@
 | Göttingen | 17 | 2026-05-08 |
 | Zurich | 12 | 2026-05-10 |
 | Bielefeld | 6 | 2026-04-27 |
-| Bochum | 2 | 2026-05-08 |
+| Bochum | 3 | 2026-05-08 |
 | Ipu Prolific | 0 |  |
 | Lüneburg | 0 |  |
 | Passau | 0 |  |
