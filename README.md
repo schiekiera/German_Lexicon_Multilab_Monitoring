@@ -42,7 +42,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Twente | 47 | 2026-05-07 |
 | Potsdam Sona | 42 | 2026-04-29 |
 | Dresden | 34 | 2026-04-14 |
-| IPN | 30 | 2026-05-03 |
+| IPN | 30 | 2026-05-11 |
 | LMU | 29 | 2026-05-01 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Frankfurt Sona | 28 | 2026-05-10 |
