@@ -53,7 +53,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Potsdam Sona Cogscience | 18 | 2026-05-05 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 17 | 2026-05-08 |
-| Zurich | 14 | 2026-05-10 |
+| Zurich | 14 | 2026-05-11 |
 | Bielefeld | 6 | 2026-04-27 |
 | Bochum | 3 | 2026-05-10 |
 | Ipu Prolific | 0 |  |
