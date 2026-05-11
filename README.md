@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2545
+**Total data files saved across all labs:** 2546
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2545 / 2453 (100.0%)
+[██████████████████████████████] 2546 / 2453 (100.0%)
 
 ### Table: Progress per lab
 
@@ -53,7 +53,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Potsdam Sona Cogscience | 18 | 2026-05-05 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 17 | 2026-05-08 |
-| Zurich | 13 | 2026-05-10 |
+| Zurich | 14 | 2026-05-10 |
 | Bielefeld | 6 | 2026-04-27 |
 | Bochum | 3 | 2026-05-10 |
 | Ipu Prolific | 0 |  |
@@ -76,11 +76,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-10 | 2026-05-10 | 8.00 | Graz | 3 | Zurich | 2 | Bochum | 1 | Frankfurt Sona | 1 | Münster | 1 | 0 |
-| Last 3 days | 2026-05-07 | 2026-05-09 | 8.33 | Zurich | 10 | FU | 3 | Graz | 2 | Münster | 2 | ULM | 2 | 6 |
-| Last 7 days | 2026-05-03 | 2026-05-09 | 12.14 | Bochum Prolific | 23 | FU | 14 | Zurich | 11 | Münster | 5 | ULM | 5 | 27 |
-| Last 14 days | 2026-04-26 | 2026-05-09 | 12.64 | Bochum Prolific | 23 | FU | 22 | IU | 17 | Potsdam Sona Cogscience | 15 | LMU | 14 | 86 |
-| Last 30 days | 2026-04-10 | 2026-05-09 | 20.93 | Frankfurt Prolific | 119 | IU | 58 | FU | 56 | ULM | 39 | Hildesheim | 38 | 318 |
+| Since today 00:00 | 2026-05-11 | 2026-05-11 | 1.00 | Zurich | 1 |  |  |  |  |  |  |  |  | 0 |
+| Last 3 days | 2026-05-08 | 2026-05-10 | 7.33 | Graz | 5 | Zurich | 5 | FU | 3 | Münster | 3 | Bochum | 2 | 4 |
+| Last 7 days | 2026-05-04 | 2026-05-10 | 12.71 | Bochum Prolific | 23 | FU | 14 | Zurich | 13 | Graz | 7 | Münster | 5 | 27 |
+| Last 14 days | 2026-04-27 | 2026-05-10 | 12.21 | Bochum Prolific | 23 | FU | 22 | IU | 15 | LMU | 14 | Graz | 13 | 84 |
+| Last 30 days | 2026-04-11 | 2026-05-10 | 20.57 | Frankfurt Prolific | 119 | IU | 55 | FU | 54 | ULM | 38 | Hildesheim | 31 | 320 |
 
 <!-- END_DEMO_TABLE -->
 
