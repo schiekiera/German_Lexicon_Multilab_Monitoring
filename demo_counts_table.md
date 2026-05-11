@@ -29,8 +29,8 @@
 | Ipu Sona | 25 | 2026-05-04 |
 | Bochum Prolific | 23 | 2026-05-05 |
 | Potsdam | 20 | 2026-04-22 |
+| Potsdam Sona Cogscience | 19 | 2026-05-05 |
 | Graz | 18 | 2026-05-10 |
-| Potsdam Sona Cogscience | 18 | 2026-05-05 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 17 | 2026-05-08 |
 | Zurich | 14 | 2026-05-11 |
