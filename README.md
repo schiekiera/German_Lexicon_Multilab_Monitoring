@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2558
+**Total data files saved across all labs:** 2560
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2558 / 2453 (100.0%)
+[██████████████████████████████] 2560 / 2453 (100.0%)
 
 ### Table: Progress per lab
 
@@ -29,8 +29,8 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Mannheim Kognitive Psychologie | 92 | 2026-05-06 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
+| Erfurt | 79 | 2026-05-08 |
 | Leipzig | 79 | 2026-05-05 |
-| Erfurt | 78 | 2026-05-08 |
 | Wuppertal | 77 | 2026-04-28 |
 | Aachen | 71 | 2026-04-19 |
 | Darmstadt | 65 | 2026-02-06 |
@@ -48,7 +48,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Frankfurt Sona | 28 | 2026-05-10 |
 | Ipu Sona | 25 | 2026-05-04 |
 | Bochum Prolific | 23 | 2026-05-05 |
-| Graz | 21 | 2026-05-11 |
+| Graz | 22 | 2026-05-11 |
 | Potsdam | 20 | 2026-04-22 |
 | Potsdam Sona Cogscience | 19 | 2026-05-11 |
 | Bamberg | 17 | 2026-01-26 |
@@ -77,7 +77,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-11 | 2026-05-11 | 13.00 | Zurich | 4 | Graz | 3 | FU | 2 | ULM | 2 | IPN | 1 | 1 |
+| Since today 00:00 | 2026-05-11 | 2026-05-11 | 15.00 | Graz | 4 | Zurich | 4 | FU | 2 | ULM | 2 | Erfurt | 1 | 2 |
 | Last 3 days | 2026-05-08 | 2026-05-10 | 7.33 | Graz | 5 | Zurich | 5 | FU | 3 | Münster | 3 | Bochum | 2 | 4 |
 | Last 7 days | 2026-05-04 | 2026-05-10 | 12.71 | Bochum Prolific | 23 | FU | 14 | Zurich | 13 | Graz | 7 | Münster | 5 | 27 |
 | Last 14 days | 2026-04-27 | 2026-05-10 | 12.21 | Bochum Prolific | 23 | FU | 22 | IU | 15 | LMU | 14 | Graz | 13 | 84 |

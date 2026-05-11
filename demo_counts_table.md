@@ -9,8 +9,8 @@
 | Mannheim Kognitive Psychologie | 92 | 2026-05-06 |
 | Pavia | 81 | 2026-02-20 |
 | Tübingen | 80 | 2026-03-04 |
+| Erfurt | 79 | 2026-05-08 |
 | Leipzig | 79 | 2026-05-05 |
-| Erfurt | 78 | 2026-05-08 |
 | Wuppertal | 77 | 2026-04-28 |
 | Aachen | 71 | 2026-04-19 |
 | Darmstadt | 65 | 2026-02-06 |
@@ -28,7 +28,7 @@
 | Frankfurt Sona | 28 | 2026-05-10 |
 | Ipu Sona | 25 | 2026-05-04 |
 | Bochum Prolific | 23 | 2026-05-05 |
-| Graz | 21 | 2026-05-11 |
+| Graz | 22 | 2026-05-11 |
 | Potsdam | 20 | 2026-04-22 |
 | Potsdam Sona Cogscience | 19 | 2026-05-11 |
 | Bamberg | 17 | 2026-01-26 |
