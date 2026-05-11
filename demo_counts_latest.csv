@@ -15,7 +15,6 @@ HU,146,2026-05-07
 Tübingen,80,2026-03-04
 Tübingen Not Sona,29,2026-02-21
 Aachen,71,2026-04-19
-Lüneburg,0,
 Marburg,65,2026-01-18
 Ipu Sona,25,2026-05-04
 Ipu Prolific,0,
@@ -29,7 +28,7 @@ Frankfurt Prolific,209,2026-04-14
 Köln,112,2026-03-15
 Hagen,119,2026-04-13
 Trier,52,2026-04-27
-Potsdam Sona Cogscience,19,2026-05-05
+Potsdam Sona Cogscience,19,2026-05-11
 ULM,47,2026-05-08
 Zurich,14,2026-05-11
 Bielefeld,6,2026-04-27
@@ -38,3 +37,5 @@ Bochum,3,2026-05-10
 Bochum Prolific,23,2026-05-05
 LMU,29,2026-05-01
 Passau,0,
+Lüneburg Credit,0,
+Lüneburg Paid,0,
