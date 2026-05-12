@@ -8,9 +8,9 @@
 | Köln | 112 | 2026-03-15 |
 | Mannheim Kognitive Psychologie | 92 | 2026-05-06 |
 | Pavia | 81 | 2026-02-20 |
+| Leipzig | 80 | 2026-05-05 |
 | Tübingen | 80 | 2026-03-04 |
 | Erfurt | 79 | 2026-05-11 |
-| Leipzig | 79 | 2026-05-05 |
 | Wuppertal | 77 | 2026-04-28 |
 | Aachen | 71 | 2026-04-19 |
 | Darmstadt | 65 | 2026-02-06 |
