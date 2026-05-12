@@ -30,7 +30,7 @@
 | Bochum Prolific | 23 | 2026-05-05 |
 | Graz | 22 | 2026-05-11 |
 | Potsdam | 20 | 2026-04-22 |
-| Potsdam Sona Cogscience | 19 | 2026-05-11 |
+| Potsdam Sona Cogscience | 20 | 2026-05-11 |
 | Zurich | 19 | 2026-05-12 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 17 | 2026-05-08 |
