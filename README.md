@@ -77,11 +77,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-11 | 2026-05-11 | 16.00 | Zurich | 5 | Graz | 4 | FU | 2 | ULM | 2 | Erfurt | 1 | 2 |
-| Last 3 days | 2026-05-08 | 2026-05-10 | 7.33 | Graz | 5 | Zurich | 5 | FU | 3 | Münster | 3 | Bochum | 2 | 4 |
-| Last 7 days | 2026-05-04 | 2026-05-10 | 12.71 | Bochum Prolific | 23 | FU | 14 | Zurich | 13 | Graz | 7 | Münster | 5 | 27 |
-| Last 14 days | 2026-04-27 | 2026-05-10 | 12.21 | Bochum Prolific | 23 | FU | 22 | IU | 15 | LMU | 14 | Graz | 13 | 84 |
-| Last 30 days | 2026-04-11 | 2026-05-10 | 20.57 | Frankfurt Prolific | 119 | IU | 55 | FU | 54 | ULM | 38 | Hildesheim | 31 | 320 |
+| Since today 00:00 | 2026-05-12 | 2026-05-12 | 0.00 |  |  |  |  |  |  |  |  |  |  | 0 |
+| Last 3 days | 2026-05-09 | 2026-05-11 | 9.67 | Zurich | 9 | Graz | 7 | FU | 4 | Münster | 2 | ULM | 2 | 5 |
+| Last 7 days | 2026-05-05 | 2026-05-11 | 14.29 | Bochum Prolific | 23 | Zurich | 18 | FU | 16 | Graz | 10 | ULM | 7 | 26 |
+| Last 14 days | 2026-04-28 | 2026-05-11 | 11.86 | Bochum Prolific | 23 | FU | 20 | Zurich | 18 | Graz | 17 | LMU | 13 | 75 |
+| Last 30 days | 2026-04-12 | 2026-05-11 | 20.77 | Frankfurt Prolific | 119 | FU | 54 | IU | 53 | ULM | 39 | IPN | 30 | 328 |
 
 <!-- END_DEMO_TABLE -->
 
