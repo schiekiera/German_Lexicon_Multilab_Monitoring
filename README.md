@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2562
+**Total data files saved across all labs:** 2565
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2562 / 2453 (100.0%)
+[██████████████████████████████] 2565 / 2453 (100.0%)
 
 ### Table: Progress per lab
 
@@ -22,7 +22,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 |-----|----------------------|-------------------|
 | IU | 516 | 2026-04-29 |
 | Frankfurt Prolific | 209 | 2026-04-14 |
-| FU | 148 | 2026-05-11 |
+| FU | 149 | 2026-05-11 |
 | HU | 146 | 2026-05-07 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
@@ -37,8 +37,8 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Marburg | 65 | 2026-01-18 |
 | Hildesheim | 63 | 2026-05-06 |
 | Trier | 52 | 2026-04-27 |
+| ULM | 50 | 2026-05-11 |
 | Münster | 49 | 2026-05-10 |
-| ULM | 49 | 2026-05-11 |
 | Twente | 47 | 2026-05-07 |
 | Potsdam Sona | 42 | 2026-04-29 |
 | Dresden | 34 | 2026-04-14 |
@@ -56,9 +56,9 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Göttingen | 17 | 2026-05-08 |
 | Bielefeld | 6 | 2026-04-27 |
 | Bochum | 4 | 2026-05-12 |
+| Lüneburg Paid | 1 |  |
 | Ipu Prolific | 0 |  |
 | Lüneburg Credit | 0 |  |
-| Lüneburg Paid | 0 |  |
 | Passau | 0 |  |
 
 ### Plot: Progress per lab over time
@@ -77,7 +77,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-12 | 2026-05-12 | 1.00 | Bochum | 1 |  |  |  |  |  |  |  |  | 0 |
+| Since today 00:00 | 2026-05-12 | 2026-05-12 | 4.00 | Bochum | 1 | FU | 1 | Lüneburg Paid | 1 | ULM | 1 |  |  | 0 |
 | Last 3 days | 2026-05-09 | 2026-05-11 | 9.67 | Zurich | 9 | Graz | 7 | FU | 4 | Münster | 2 | ULM | 2 | 5 |
 | Last 7 days | 2026-05-05 | 2026-05-11 | 14.29 | Bochum Prolific | 23 | Zurich | 18 | FU | 16 | Graz | 10 | ULM | 7 | 26 |
 | Last 14 days | 2026-04-28 | 2026-05-11 | 11.86 | Bochum Prolific | 23 | FU | 20 | Zurich | 18 | Graz | 17 | LMU | 13 | 75 |
