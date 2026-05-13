@@ -28,7 +28,7 @@
 | Frankfurt Sona | 28 | 2026-05-10 |
 | Ipu Sona | 26 | 2026-05-12 |
 | Bochum Prolific | 23 | 2026-05-05 |
-| Graz | 22 | 2026-05-11 |
+| Graz | 23 | 2026-05-11 |
 | Potsdam | 20 | 2026-04-22 |
 | Potsdam Sona Cogscience | 20 | 2026-05-12 |
 | Zurich | 20 | 2026-05-12 |
