@@ -17,15 +17,15 @@
 | Marburg | 65 | 2026-01-18 |
 | Hildesheim | 63 | 2026-05-06 |
 | Trier | 52 | 2026-04-27 |
-| Münster | 50 | 2026-05-12 |
+| Münster | 51 | 2026-05-12 |
 | ULM | 50 | 2026-05-12 |
 | Twente | 47 | 2026-05-07 |
 | Potsdam Sona | 42 | 2026-04-29 |
 | Dresden | 34 | 2026-04-14 |
 | IPN | 30 | 2026-05-11 |
+| Frankfurt Sona | 29 | 2026-05-10 |
 | LMU | 29 | 2026-05-01 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
-| Frankfurt Sona | 28 | 2026-05-10 |
 | Ipu Sona | 26 | 2026-05-12 |
 | Bochum Prolific | 23 | 2026-05-05 |
 | Graz | 23 | 2026-05-13 |
