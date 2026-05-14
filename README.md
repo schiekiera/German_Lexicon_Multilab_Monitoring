@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2584
+**Total data files saved across all labs:** 2586
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2584 / 2453 (100.0%)
+[██████████████████████████████] 2586 / 2453 (100.0%)
 
 ### Table: Progress per lab
 
@@ -22,15 +22,15 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 |-----|----------------------|-------------------|
 | IU | 516 | 2026-04-29 |
 | Frankfurt Prolific | 209 | 2026-04-14 |
-| FU | 150 | 2026-05-12 |
+| FU | 151 | 2026-05-14 |
 | HU | 146 | 2026-05-07 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
-| Mannheim Kognitive Psychologie | 93 | 2026-05-06 |
+| Mannheim Kognitive Psychologie | 93 | 2026-05-14 |
 | Pavia | 81 | 2026-02-20 |
+| Erfurt | 80 | 2026-05-11 |
 | Leipzig | 80 | 2026-05-12 |
 | Tübingen | 80 | 2026-03-04 |
-| Erfurt | 79 | 2026-05-11 |
 | Wuppertal | 77 | 2026-04-28 |
 | Aachen | 71 | 2026-04-19 |
 | Darmstadt | 65 | 2026-02-06 |
@@ -77,7 +77,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-14 | 2026-05-14 | 5.00 | Potsdam Sona Cogscience | 2 | FU | 1 | Lüneburg Credit | 1 | Mannheim Kognitive Psychologie | 1 |  |  | 0 |
+| Since today 00:00 | 2026-05-14 | 2026-05-14 | 7.00 | FU | 2 | Potsdam Sona Cogscience | 2 | Erfurt | 1 | Lüneburg Credit | 1 | Mannheim Kognitive Psychologie | 1 | 0 |
 | Last 3 days | 2026-05-11 | 2026-05-13 | 11.33 | Zurich | 11 | Graz | 5 | FU | 3 | ULM | 3 | Bochum | 2 | 10 |
 | Last 7 days | 2026-05-07 | 2026-05-13 | 9.57 | Zurich | 23 | Graz | 10 | FU | 6 | Münster | 5 | ULM | 5 | 18 |
 | Last 14 days | 2026-04-30 | 2026-05-13 | 10.71 | Zurich | 24 | Bochum Prolific | 23 | FU | 17 | Graz | 16 | LMU | 13 | 57 |
