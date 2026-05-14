@@ -30,13 +30,13 @@
 | Zurich | 24 | 2026-05-13 |
 | Bochum Prolific | 23 | 2026-05-05 |
 | Graz | 23 | 2026-05-13 |
+| Potsdam Sona Cogscience | 22 | 2026-05-12 |
 | Potsdam | 20 | 2026-04-22 |
-| Potsdam Sona Cogscience | 20 | 2026-05-12 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 17 | 2026-05-08 |
 | Bielefeld | 6 | 2026-04-27 |
 | Bochum | 5 | 2026-05-13 |
-| Lüneburg Credit | 1 |  |
+| Lüneburg Credit | 1 | 2026-05-14 |
 | Lüneburg Paid | 1 | 2026-05-12 |
 | Ipu Prolific | 0 |  |
 | Passau | 0 |  |
