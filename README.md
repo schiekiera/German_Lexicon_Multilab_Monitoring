@@ -38,7 +38,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Hildesheim | 63 | 2026-05-06 |
 | Trier | 52 | 2026-04-27 |
 | Münster | 51 | 2026-05-13 |
-| ULM | 51 | 2026-05-12 |
+| ULM | 51 | 2026-05-14 |
 | Twente | 47 | 2026-05-07 |
 | Potsdam Sona | 42 | 2026-04-29 |
 | Dresden | 34 | 2026-04-14 |
@@ -46,7 +46,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Frankfurt Sona | 29 | 2026-05-13 |
 | LMU | 29 | 2026-05-01 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
-| Ipu Sona | 27 | 2026-05-12 |
+| Ipu Sona | 27 | 2026-05-14 |
 | Zurich | 25 | 2026-05-14 |
 | Bochum Prolific | 23 | 2026-05-05 |
 | Graz | 23 | 2026-05-13 |
