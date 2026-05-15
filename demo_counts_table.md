@@ -28,7 +28,7 @@
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Graz | 28 | 2026-05-15 |
 | Ipu Sona | 28 | 2026-05-15 |
-| Zurich | 26 | 2026-05-15 |
+| Zurich | 27 | 2026-05-15 |
 | Bochum Prolific | 23 | 2026-05-05 |
 | Potsdam Sona Cogscience | 22 | 2026-05-14 |
 | Potsdam | 20 | 2026-04-22 |
