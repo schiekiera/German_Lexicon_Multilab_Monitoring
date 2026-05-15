@@ -17,7 +17,7 @@
 | Marburg | 65 | 2026-01-18 |
 | Hildesheim | 63 | 2026-05-06 |
 | Trier | 52 | 2026-04-27 |
-| ULM | 52 | 2026-05-14 |
+| ULM | 52 | 2026-05-15 |
 | Münster | 51 | 2026-05-13 |
 | Twente | 47 | 2026-05-07 |
 | Potsdam Sona | 42 | 2026-04-29 |
@@ -27,7 +27,7 @@
 | LMU | 29 | 2026-05-01 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Ipu Sona | 28 | 2026-05-15 |
-| Zurich | 25 | 2026-05-14 |
+| Zurich | 26 | 2026-05-14 |
 | Graz | 24 | 2026-05-15 |
 | Bochum Prolific | 23 | 2026-05-05 |
 | Potsdam Sona Cogscience | 22 | 2026-05-14 |
@@ -35,7 +35,7 @@
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 17 | 2026-05-08 |
 | Bielefeld | 6 | 2026-04-27 |
-| Bochum | 6 | 2026-05-13 |
+| Bochum | 6 | 2026-05-15 |
 | Lüneburg Credit | 1 | 2026-05-14 |
 | Lüneburg Paid | 1 | 2026-05-12 |
 | Ipu Prolific | 0 |  |
