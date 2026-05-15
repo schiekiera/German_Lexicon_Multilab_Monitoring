@@ -22,7 +22,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 |-----|----------------------|-------------------|
 | IU | 516 | 2026-04-29 |
 | Frankfurt Prolific | 209 | 2026-04-14 |
-| FU | 154 | 2026-05-14 |
+| FU | 154 | 2026-05-15 |
 | HU | 146 | 2026-05-07 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
