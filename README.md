@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2591
+**Total data files saved across all labs:** 2593
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2591 / 2453 (100.0%)
+[██████████████████████████████] 2593 / 2453 (100.0%)
 
 ### Table: Progress per lab
 
@@ -26,7 +26,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | HU | 146 | 2026-05-07 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
-| Mannheim Kognitive Psychologie | 93 | 2026-05-14 |
+| Mannheim Kognitive Psychologie | 94 | 2026-05-14 |
 | Pavia | 81 | 2026-02-20 |
 | Erfurt | 80 | 2026-05-14 |
 | Leipzig | 80 | 2026-05-12 |
@@ -46,7 +46,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Frankfurt Sona | 29 | 2026-05-13 |
 | LMU | 29 | 2026-05-01 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
-| Ipu Sona | 27 | 2026-05-14 |
+| Ipu Sona | 28 | 2026-05-14 |
 | Zurich | 25 | 2026-05-14 |
 | Bochum Prolific | 23 | 2026-05-05 |
 | Graz | 23 | 2026-05-13 |
@@ -77,7 +77,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-15 | 2026-05-15 | 0.00 |  |  |  |  |  |  |  |  |  |  | 0 |
+| Since today 00:00 | 2026-05-15 | 2026-05-15 | 2.00 | Ipu Sona | 1 | Mannheim Kognitive Psychologie | 1 |  |  |  |  |  |  | 0 |
 | Last 3 days | 2026-05-12 | 2026-05-14 | 10.00 | Zurich | 7 | FU | 5 | Potsdam Sona Cogscience | 3 | Bochum | 2 | Ipu Sona | 2 | 11 |
 | Last 7 days | 2026-05-08 | 2026-05-14 | 9.71 | Zurich | 17 | FU | 10 | Graz | 10 | Münster | 5 | ULM | 5 | 21 |
 | Last 14 days | 2026-05-01 | 2026-05-14 | 10.21 | Zurich | 25 | Bochum Prolific | 23 | FU | 21 | Graz | 14 | ULM | 9 | 51 |
