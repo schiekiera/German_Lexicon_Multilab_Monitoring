@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2608
+**Total data files saved across all labs:** 2611
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2608 / 2453 (100.0%)
+[██████████████████████████████] 2611 / 2453 (100.0%)
 
 ### Table: Progress per lab
 
@@ -42,8 +42,8 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Twente | 47 | 2026-05-07 |
 | Potsdam Sona | 42 | 2026-04-29 |
 | Dresden | 34 | 2026-04-14 |
+| Graz | 33 | 2026-05-16 |
 | IPN | 31 | 2026-05-15 |
-| Graz | 30 | 2026-05-16 |
 | Frankfurt Sona | 29 | 2026-05-13 |
 | LMU | 29 | 2026-05-01 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
@@ -77,7 +77,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-16 | 2026-05-16 | 3.00 | Graz | 2 | Zurich | 1 |  |  |  |  |  |  | 0 |
+| Since today 00:00 | 2026-05-16 | 2026-05-16 | 6.00 | Graz | 5 | Zurich | 1 |  |  |  |  |  |  | 0 |
 | Last 3 days | 2026-05-13 | 2026-05-15 | 11.33 | Zurich | 7 | Graz | 6 | FU | 5 | Bochum | 2 | Erfurt | 2 | 12 |
 | Last 7 days | 2026-05-09 | 2026-05-15 | 10.43 | Zurich | 18 | Graz | 13 | FU | 10 | ULM | 5 | Bochum | 4 | 23 |
 | Last 14 days | 2026-05-02 | 2026-05-15 | 11.00 | Zurich | 27 | Bochum Prolific | 23 | FU | 22 | Graz | 17 | ULM | 10 | 55 |
