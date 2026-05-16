@@ -27,8 +27,8 @@
 | Frankfurt Sona | 29 | 2026-05-13 |
 | LMU | 29 | 2026-05-01 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
+| Zurich | 29 | 2026-05-16 |
 | Ipu Sona | 28 | 2026-05-15 |
-| Zurich | 28 | 2026-05-16 |
 | Bochum Prolific | 23 | 2026-05-05 |
 | Potsdam Sona Cogscience | 23 | 2026-05-16 |
 | Potsdam | 20 | 2026-04-22 |
