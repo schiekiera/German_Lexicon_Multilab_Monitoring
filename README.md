@@ -56,7 +56,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Göttingen | 17 | 2026-05-08 |
 | Bielefeld | 6 | 2026-04-27 |
 | Bochum | 6 | 2026-05-15 |
-| Lüneburg Paid | 3 | 2026-05-12 |
+| Lüneburg Paid | 3 | 2026-05-16 |
 | Lüneburg Credit | 1 | 2026-05-14 |
 | Ipu Prolific | 0 |  |
 | Passau | 0 |  |
