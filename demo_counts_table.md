@@ -24,10 +24,10 @@
 | Dresden | 34 | 2026-04-14 |
 | Graz | 34 | 2026-05-16 |
 | IPN | 31 | 2026-05-15 |
+| Zurich | 30 | 2026-05-16 |
 | Frankfurt Sona | 29 | 2026-05-13 |
 | LMU | 29 | 2026-05-01 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
-| Zurich | 29 | 2026-05-16 |
 | Ipu Sona | 28 | 2026-05-15 |
 | Bochum Prolific | 23 | 2026-05-05 |
 | Potsdam Sona Cogscience | 23 | 2026-05-16 |
