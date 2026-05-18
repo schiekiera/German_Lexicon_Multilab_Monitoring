@@ -16,7 +16,7 @@
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Hildesheim | 63 | 2026-05-06 |
-| ULM | 53 | 2026-05-15 |
+| ULM | 53 | 2026-05-18 |
 | Trier | 52 | 2026-04-27 |
 | Münster | 51 | 2026-05-13 |
 | Twente | 47 | 2026-05-07 |
@@ -37,6 +37,6 @@
 | Bochum | 8 | 2026-05-17 |
 | Bielefeld | 6 | 2026-04-27 |
 | Lüneburg Paid | 4 | 2026-05-18 |
-| Lüneburg Credit | 2 | 2026-05-14 |
+| Lüneburg Credit | 3 | 2026-05-18 |
 | Ipu Prolific | 0 |  |
 | Passau | 0 |  |
