@@ -36,7 +36,7 @@
 | Göttingen | 17 | 2026-05-08 |
 | Bochum | 8 | 2026-05-17 |
 | Bielefeld | 6 | 2026-04-27 |
+| Lüneburg Credit | 5 | 2026-05-18 |
 | Lüneburg Paid | 4 | 2026-05-18 |
-| Lüneburg Credit | 3 | 2026-05-18 |
 | Ipu Prolific | 0 |  |
 | Passau | 0 |  |
