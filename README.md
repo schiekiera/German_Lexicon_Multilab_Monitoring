@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2626
+**Total data files saved across all labs:** 2627
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2626 / 2453 (100.0%)
+[██████████████████████████████] 2627 / 2453 (100.0%)
 
 ### Table: Progress per lab
 
@@ -41,7 +41,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Münster | 51 | 2026-05-13 |
 | Twente | 47 | 2026-05-07 |
 | Potsdam Sona | 42 | 2026-04-29 |
-| Graz | 35 | 2026-05-18 |
+| Graz | 36 | 2026-05-18 |
 | Dresden | 34 | 2026-04-14 |
 | Zurich | 33 | 2026-05-18 |
 | IPN | 31 | 2026-05-15 |
@@ -56,7 +56,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Göttingen | 17 | 2026-05-08 |
 | Bochum | 8 | 2026-05-17 |
 | Bielefeld | 6 | 2026-04-27 |
-| Lüneburg Paid | 4 | 2026-05-16 |
+| Lüneburg Paid | 4 | 2026-05-18 |
 | Lüneburg Credit | 1 | 2026-05-14 |
 | Ipu Prolific | 0 |  |
 | Passau | 0 |  |
@@ -77,7 +77,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-18 | 2026-05-18 | 5.00 | Zurich | 2 | Graz | 1 | Ipu Sona | 1 | Lüneburg Paid | 1 |  |  | 0 |
+| Since today 00:00 | 2026-05-18 | 2026-05-18 | 6.00 | Graz | 2 | Zurich | 2 | Ipu Sona | 1 | Lüneburg Paid | 1 |  |  | 0 |
 | Last 3 days | 2026-05-15 | 2026-05-17 | 10.00 | Graz | 11 | Zurich | 6 | Bochum | 3 | Lüneburg Paid | 2 | Erfurt | 1 | 7 |
 | Last 7 days | 2026-05-11 | 2026-05-17 | 10.86 | Zurich | 18 | Graz | 16 | FU | 8 | Bochum | 5 | Potsdam Sona Cogscience | 5 | 24 |
 | Last 14 days | 2026-05-04 | 2026-05-17 | 11.79 | Zurich | 31 | Bochum Prolific | 23 | Graz | 23 | FU | 22 | ULM | 10 | 56 |
