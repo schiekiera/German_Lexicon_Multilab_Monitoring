@@ -7,7 +7,7 @@
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
 | Mannheim Kognitive Psychologie | 94 | 2026-05-15 |
-| Erfurt | 82 | 2026-05-19 |
+| Erfurt | 83 | 2026-05-19 |
 | Pavia | 81 | 2026-02-20 |
 | Leipzig | 80 | 2026-05-12 |
 | Tübingen | 80 | 2026-03-04 |
@@ -34,7 +34,7 @@
 | Potsdam | 20 | 2026-04-22 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 17 | 2026-05-08 |
-| Lüneburg Credit | 12 | 2026-05-19 |
+| Lüneburg Credit | 13 | 2026-05-19 |
 | Bochum | 8 | 2026-05-17 |
 | Lüneburg Paid | 7 | 2026-05-19 |
 | Bielefeld | 6 | 2026-04-27 |
