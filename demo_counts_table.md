@@ -34,9 +34,9 @@
 | Potsdam | 20 | 2026-04-22 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 17 | 2026-05-08 |
-| Lüneburg Credit | 10 | 2026-05-19 |
+| Lüneburg Credit | 11 | 2026-05-19 |
 | Bochum | 8 | 2026-05-17 |
+| Lüneburg Paid | 7 | 2026-05-19 |
 | Bielefeld | 6 | 2026-04-27 |
-| Lüneburg Paid | 6 | 2026-05-19 |
 | Ipu Prolific | 0 |  |
 | Passau | 0 |  |
