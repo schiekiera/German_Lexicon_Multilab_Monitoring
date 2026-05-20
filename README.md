@@ -77,11 +77,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-19 | 2026-05-19 | 15.00 | Lüneburg Credit | 7 | Zurich | 3 | Erfurt | 2 | Lüneburg Paid | 2 | Münster | 1 | 0 |
-| Last 3 days | 2026-05-16 | 2026-05-18 | 11.67 | Graz | 11 | Zurich | 8 | Lüneburg Credit | 5 | Lüneburg Paid | 4 | Bochum | 2 | 5 |
-| Last 7 days | 2026-05-12 | 2026-05-18 | 11.29 | Graz | 17 | Zurich | 17 | FU | 6 | Lüneburg Credit | 6 | Bochum | 5 | 28 |
-| Last 14 days | 2026-05-05 | 2026-05-18 | 12.79 | Zurich | 35 | Graz | 27 | Bochum Prolific | 23 | FU | 22 | ULM | 11 | 61 |
-| Last 30 days | 2026-04-19 | 2026-05-18 | 14.50 | FU | 44 | Graz | 35 | Zurich | 35 | IU | 34 | ULM | 33 | 254 |
+| Since today 00:00 | 2026-05-20 | 2026-05-20 | 0.00 |  |  |  |  |  |  |  |  |  |  | 0 |
+| Last 3 days | 2026-05-17 | 2026-05-19 | 12.67 | Lüneburg Credit | 12 | Zurich | 9 | Graz | 5 | Lüneburg Paid | 4 | Erfurt | 2 | 6 |
+| Last 7 days | 2026-05-13 | 2026-05-19 | 12.00 | Zurich | 18 | Graz | 17 | Lüneburg Credit | 13 | Lüneburg Paid | 6 | FU | 5 | 25 |
+| Last 14 days | 2026-05-06 | 2026-05-19 | 11.00 | Zurich | 37 | Graz | 26 | FU | 16 | Lüneburg Credit | 13 | ULM | 10 | 52 |
+| Last 30 days | 2026-04-20 | 2026-05-19 | 14.33 | FU | 41 | Zurich | 38 | Graz | 35 | ULM | 33 | IU | 31 | 252 |
 
 <!-- END_DEMO_TABLE -->
 
