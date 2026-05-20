@@ -22,7 +22,7 @@
 | Twente | 47 | 2026-05-07 |
 | Potsdam Sona | 42 | 2026-04-29 |
 | Graz | 39 | 2026-05-18 |
-| Zurich | 38 | 2026-05-19 |
+| Zurich | 39 | 2026-05-19 |
 | Dresden | 34 | 2026-04-14 |
 | IPN | 32 | 2026-05-18 |
 | Frankfurt Sona | 29 | 2026-05-13 |
@@ -36,7 +36,7 @@
 | Göttingen | 17 | 2026-05-08 |
 | Lüneburg Credit | 13 | 2026-05-19 |
 | Bochum | 8 | 2026-05-17 |
-| Lüneburg Paid | 8 | 2026-05-19 |
+| Lüneburg Paid | 8 | 2026-05-20 |
 | Bielefeld | 6 | 2026-04-27 |
 | Ipu Prolific | 0 |  |
 | Passau | 0 |  |
