@@ -16,27 +16,27 @@
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Hildesheim | 63 | 2026-05-06 |
-| ULM | 53 | 2026-05-18 |
+| ULM | 54 | 2026-05-18 |
 | Münster | 52 | 2026-05-19 |
 | Trier | 52 | 2026-04-27 |
 | Twente | 47 | 2026-05-07 |
 | Potsdam Sona | 42 | 2026-04-29 |
 | Graz | 39 | 2026-05-18 |
-| Zurich | 39 | 2026-05-19 |
+| Zurich | 39 | 2026-05-20 |
 | Dresden | 34 | 2026-04-14 |
 | IPN | 32 | 2026-05-18 |
 | Frankfurt Sona | 29 | 2026-05-13 |
 | Ipu Sona | 29 | 2026-05-18 |
 | LMU | 29 | 2026-05-01 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
+| Potsdam Sona Cogscience | 24 | 2026-05-16 |
 | Bochum Prolific | 23 | 2026-05-05 |
-| Potsdam Sona Cogscience | 23 | 2026-05-16 |
 | Potsdam | 20 | 2026-04-22 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 17 | 2026-05-08 |
 | Lüneburg Credit | 13 | 2026-05-19 |
+| Lüneburg Paid | 9 | 2026-05-20 |
 | Bochum | 8 | 2026-05-17 |
-| Lüneburg Paid | 8 | 2026-05-20 |
 | Bielefeld | 6 | 2026-04-27 |
 | Ipu Prolific | 0 |  |
 | Passau | 0 |  |
