@@ -22,14 +22,14 @@
 | Twente | 47 | 2026-05-07 |
 | Potsdam Sona | 42 | 2026-04-29 |
 | Zurich | 41 | 2026-05-20 |
-| Graz | 39 | 2026-05-18 |
-| Dresden | 35 | 2026-04-14 |
+| Graz | 40 | 2026-05-18 |
+| Dresden | 35 | 2026-05-20 |
 | IPN | 32 | 2026-05-18 |
 | Frankfurt Sona | 29 | 2026-05-13 |
 | Ipu Sona | 29 | 2026-05-18 |
 | LMU | 29 | 2026-05-01 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
-| Potsdam Sona Cogscience | 24 | 2026-05-20 |
+| Potsdam Sona Cogscience | 25 | 2026-05-20 |
 | Bochum Prolific | 23 | 2026-05-05 |
 | Potsdam | 20 | 2026-04-22 |
 | Bamberg | 17 | 2026-01-26 |
