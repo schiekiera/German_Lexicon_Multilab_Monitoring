@@ -29,7 +29,7 @@
 | Ipu Sona | 29 | 2026-05-18 |
 | LMU | 29 | 2026-05-01 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
-| Potsdam Sona Cogscience | 25 | 2026-05-20 |
+| Potsdam Sona Cogscience | 26 | 2026-05-20 |
 | Bochum Prolific | 23 | 2026-05-05 |
 | Potsdam | 20 | 2026-04-22 |
 | Bamberg | 17 | 2026-01-26 |
