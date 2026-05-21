@@ -40,10 +40,10 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Münster | 52 | 2026-05-19 |
 | Trier | 52 | 2026-04-27 |
 | Twente | 47 | 2026-05-07 |
-| Graz | 43 | 2026-05-20 |
+| Graz | 43 | 2026-05-21 |
 | Zurich | 43 | 2026-05-21 |
 | Potsdam Sona | 42 | 2026-04-29 |
-| Dresden | 36 | 2026-05-20 |
+| Dresden | 36 | 2026-05-21 |
 | IPN | 32 | 2026-05-18 |
 | Frankfurt Sona | 29 | 2026-05-13 |
 | Ipu Sona | 29 | 2026-05-18 |
