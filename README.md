@@ -1,6 +1,6 @@
 # German Lexicon Multilab Monitoring
 
-This repository monitors the number of datasets collected across all participating labs in the German Lexicon Project. Data are tracked by reading directory listings on the HU Berlin server. Data collection will take place until the May, 31st 2026. The codebase for the data collection can be found here: https://github.com/petrenca/German_Lexicon_Project. 
+This repository monitors data collection progress across all participating labs in the [German Lexicon Project](https://github.com/petrenca/German_Lexicon_Project). Dataset counts are derived from directory listings on the HU Berlin server, and data collection runs through **May 31, 2026**.
 
 ## Automated output
 
