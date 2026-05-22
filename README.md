@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2688
+**Total data files saved across all labs:** 2689
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2688 / 2453 (100.0%)
+[██████████████████████████████] 2689 / 2453 (100.0%)
 
 ### Table: Progress per lab
 
@@ -52,7 +52,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Potsdam Sona Cogscience | 26 | 2026-05-20 |
 | Bochum Prolific | 23 | 2026-05-05 |
 | Potsdam | 20 | 2026-04-22 |
-| Lüneburg Credit | 18 | 2026-05-21 |
+| Lüneburg Credit | 19 | 2026-05-21 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 17 | 2026-05-08 |
 | Lüneburg Paid | 14 | 2026-05-21 |
@@ -73,7 +73,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-22 | 2026-05-22 | 5.00 | Zurich | 3 | Erfurt | 1 | HU | 1 |  |  |  |  | 0 |
+| Since today 00:00 | 2026-05-22 | 2026-05-22 | 6.00 | Zurich | 3 | Erfurt | 1 | HU | 1 | Lüneburg Credit | 1 |  |  | 0 |
 | Last 3 days | 2026-05-19 | 2026-05-21 | 14.33 | Lüneburg Credit | 12 | Lüneburg Paid | 9 | Zurich | 8 | Graz | 4 | Potsdam Sona Cogscience | 3 | 7 |
 | Last 7 days | 2026-05-15 | 2026-05-21 | 13.14 | Graz | 20 | Zurich | 18 | Lüneburg Credit | 17 | Lüneburg Paid | 13 | Bochum | 4 | 20 |
 | Last 14 days | 2026-05-08 | 2026-05-21 | 11.43 | Zurich | 35 | Graz | 30 | Lüneburg Credit | 18 | Lüneburg Paid | 14 | FU | 11 | 52 |
