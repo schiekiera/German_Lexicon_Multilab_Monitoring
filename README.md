@@ -73,11 +73,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-21 | 2026-05-21 | 13.00 | Lüneburg Credit | 4 | Lüneburg Paid | 4 | Graz | 2 | Zurich | 2 | Dresden | 1 | 0 |
-| Last 3 days | 2026-05-18 | 2026-05-20 | 16.33 | Lüneburg Credit | 13 | Zurich | 10 | Graz | 7 | Lüneburg Paid | 7 | Potsdam Sona Cogscience | 3 | 9 |
-| Last 7 days | 2026-05-14 | 2026-05-20 | 13.00 | Graz | 18 | Zurich | 17 | Lüneburg Credit | 14 | Lüneburg Paid | 9 | Potsdam Sona Cogscience | 6 | 27 |
-| Last 14 days | 2026-05-07 | 2026-05-20 | 11.29 | Zurich | 40 | Graz | 28 | Lüneburg Credit | 14 | FU | 11 | Lüneburg Paid | 10 | 55 |
-| Last 30 days | 2026-04-21 | 2026-05-20 | 14.17 | Zurich | 41 | FU | 36 | Graz | 36 | IU | 31 | ULM | 31 | 250 |
+| Since today 00:00 | 2026-05-22 | 2026-05-22 | 0.00 |  |  |  |  |  |  |  |  |  |  | 0 |
+| Last 3 days | 2026-05-19 | 2026-05-21 | 14.33 | Lüneburg Credit | 12 | Lüneburg Paid | 9 | Zurich | 8 | Graz | 4 | Potsdam Sona Cogscience | 3 | 7 |
+| Last 7 days | 2026-05-15 | 2026-05-21 | 13.14 | Graz | 20 | Zurich | 18 | Lüneburg Credit | 17 | Lüneburg Paid | 13 | Bochum | 4 | 20 |
+| Last 14 days | 2026-05-08 | 2026-05-21 | 11.43 | Zurich | 35 | Graz | 30 | Lüneburg Credit | 18 | Lüneburg Paid | 14 | FU | 11 | 52 |
+| Last 30 days | 2026-04-22 | 2026-05-21 | 13.33 | Zurich | 43 | Graz | 38 | FU | 33 | ULM | 26 | IU | 25 | 235 |
 
 <!-- END_DEMO_TABLE -->
 
