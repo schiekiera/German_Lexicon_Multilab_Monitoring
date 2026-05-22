@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2686
+**Total data files saved across all labs:** 2688
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2686 / 2453 (100.0%)
+[██████████████████████████████] 2688 / 2453 (100.0%)
 
 ### Table: Progress per lab
 
@@ -27,7 +27,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
 | Mannheim Kognitive Psychologie | 94 | 2026-05-15 |
-| Erfurt | 84 | 2026-05-19 |
+| Erfurt | 84 | 2026-05-22 |
 | Pavia | 81 | 2026-02-20 |
 | Leipzig | 80 | 2026-05-12 |
 | Tübingen | 80 | 2026-03-04 |
@@ -40,7 +40,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Münster | 52 | 2026-05-19 |
 | Trier | 52 | 2026-04-27 |
 | Twente | 47 | 2026-05-07 |
-| Zurich | 44 | 2026-05-22 |
+| Zurich | 46 | 2026-05-22 |
 | Graz | 43 | 2026-05-21 |
 | Potsdam Sona | 42 | 2026-04-29 |
 | Dresden | 36 | 2026-05-21 |
@@ -73,7 +73,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-22 | 2026-05-22 | 3.00 | Erfurt | 1 | HU | 1 | Zurich | 1 |  |  |  |  | 0 |
+| Since today 00:00 | 2026-05-22 | 2026-05-22 | 5.00 | Zurich | 3 | Erfurt | 1 | HU | 1 |  |  |  |  | 0 |
 | Last 3 days | 2026-05-19 | 2026-05-21 | 14.33 | Lüneburg Credit | 12 | Lüneburg Paid | 9 | Zurich | 8 | Graz | 4 | Potsdam Sona Cogscience | 3 | 7 |
 | Last 7 days | 2026-05-15 | 2026-05-21 | 13.14 | Graz | 20 | Zurich | 18 | Lüneburg Credit | 17 | Lüneburg Paid | 13 | Bochum | 4 | 20 |
 | Last 14 days | 2026-05-08 | 2026-05-21 | 11.43 | Zurich | 35 | Graz | 30 | Lüneburg Credit | 18 | Lüneburg Paid | 14 | FU | 11 | 52 |
