@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2694
+**Total data files saved across all labs:** 2696
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2694 / 2453 (100.0%)
+[██████████████████████████████] 2696 / 2453 (100.0%)
 
 ### Table: Progress per lab
 
@@ -39,7 +39,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | ULM | 54 | 2026-05-20 |
 | Münster | 52 | 2026-05-19 |
 | Trier | 52 | 2026-04-27 |
-| Zurich | 48 | 2026-05-22 |
+| Zurich | 49 | 2026-05-22 |
 | Twente | 47 | 2026-05-07 |
 | Graz | 43 | 2026-05-21 |
 | Potsdam Sona | 42 | 2026-04-29 |
@@ -49,13 +49,13 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Ipu Sona | 29 | 2026-05-18 |
 | LMU | 29 | 2026-05-01 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
-| Potsdam Sona Cogscience | 27 | 2026-05-20 |
+| Potsdam Sona Cogscience | 27 | 2026-05-23 |
 | Bochum Prolific | 23 | 2026-05-05 |
 | Potsdam | 20 | 2026-04-22 |
 | Lüneburg Credit | 19 | 2026-05-22 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 17 | 2026-05-08 |
-| Lüneburg Paid | 14 | 2026-05-21 |
+| Lüneburg Paid | 15 | 2026-05-21 |
 | Bochum | 9 | 2026-05-20 |
 | Bielefeld | 6 | 2026-04-27 |
 | Ipu Prolific | 0 |  |
@@ -73,7 +73,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-23 | 2026-05-23 | 2.00 | Frankfurt Sona | 1 | Potsdam Sona Cogscience | 1 |  |  |  |  |  |  | 0 |
+| Since today 00:00 | 2026-05-23 | 2026-05-23 | 4.00 | Frankfurt Sona | 1 | Lüneburg Paid | 1 | Potsdam Sona Cogscience | 1 | Zurich | 1 |  |  | 0 |
 | Last 3 days | 2026-05-20 | 2026-05-22 | 12.33 | Zurich | 10 | Lüneburg Paid | 7 | Lüneburg Credit | 6 | Graz | 4 | Potsdam Sona Cogscience | 3 | 7 |
 | Last 7 days | 2026-05-16 | 2026-05-22 | 12.43 | Zurich | 21 | Lüneburg Credit | 18 | Graz | 15 | Lüneburg Paid | 13 | Erfurt | 4 | 16 |
 | Last 14 days | 2026-05-09 | 2026-05-22 | 11.43 | Zurich | 39 | Graz | 28 | Lüneburg Credit | 19 | Lüneburg Paid | 14 | FU | 10 | 50 |
