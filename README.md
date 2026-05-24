@@ -39,7 +39,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | ULM | 54 | 2026-05-20 |
 | Münster | 52 | 2026-05-19 |
 | Trier | 52 | 2026-04-27 |
-| Zurich | 50 | 2026-05-23 |
+| Zurich | 50 | 2026-05-24 |
 | Twente | 47 | 2026-05-07 |
 | Graz | 43 | 2026-05-21 |
 | Potsdam Sona | 42 | 2026-04-29 |
