@@ -26,7 +26,7 @@
 | Dresden | 36 | 2026-05-21 |
 | LMU | 34 | 2026-05-26 |
 | IPN | 32 | 2026-05-18 |
-| Ipu Sona | 31 | 2026-05-26 |
+| Ipu Sona | 32 | 2026-05-26 |
 | Frankfurt Sona | 30 | 2026-05-23 |
 | Potsdam Sona Cogscience | 30 | 2026-05-25 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
