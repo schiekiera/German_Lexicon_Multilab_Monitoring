@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2710
+**Total data files saved across all labs:** 2712
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2710 / 2453 (100.0%)
+[██████████████████████████████] 2712 / 2453 (100.0%)
 
 ### Table: Progress per lab
 
@@ -44,14 +44,14 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Graz | 43 | 2026-05-21 |
 | Potsdam Sona | 42 | 2026-04-29 |
 | Dresden | 36 | 2026-05-21 |
+| LMU | 33 | 2026-05-26 |
 | IPN | 32 | 2026-05-18 |
-| LMU | 32 | 2026-05-26 |
+| Ipu Sona | 31 | 2026-05-23 |
 | Frankfurt Sona | 30 | 2026-05-23 |
-| Ipu Sona | 30 | 2026-05-23 |
 | Potsdam Sona Cogscience | 30 | 2026-05-25 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Bochum Prolific | 23 | 2026-05-05 |
-| Lüneburg Credit | 22 | 2026-05-25 |
+| Lüneburg Credit | 22 | 2026-05-26 |
 | Potsdam | 20 | 2026-04-22 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 17 | 2026-05-08 |
@@ -73,7 +73,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-26 | 2026-05-26 | 2.00 | LMU | 1 | Lüneburg Credit | 1 |  |  |  |  |  |  | 0 |
+| Since today 00:00 | 2026-05-26 | 2026-05-26 | 4.00 | LMU | 2 | Ipu Sona | 1 | Lüneburg Credit | 1 |  |  |  |  | 0 |
 | Last 3 days | 2026-05-23 | 2026-05-25 | 5.33 | Potsdam Sona Cogscience | 4 | Bochum | 2 | LMU | 2 | Lüneburg Credit | 2 | Zurich | 2 | 4 |
 | Last 7 days | 2026-05-19 | 2026-05-25 | 9.71 | Lüneburg Credit | 15 | Zurich | 15 | Lüneburg Paid | 10 | Potsdam Sona Cogscience | 7 | Erfurt | 5 | 16 |
 | Last 14 days | 2026-05-12 | 2026-05-25 | 10.50 | Zurich | 32 | Graz | 21 | Lüneburg Credit | 21 | Lüneburg Paid | 15 | Potsdam Sona Cogscience | 11 | 47 |
