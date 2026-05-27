@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2727
+**Total data files saved across all labs:** 2730
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2727 / 2453 (100.0%)
+[██████████████████████████████] 2730 / 2453 (100.0%)
 
 ### Table: Progress per lab
 
@@ -23,11 +23,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | IU | 516 | 2026-04-29 |
 | Frankfurt Prolific | 209 | 2026-04-14 |
 | FU | 154 | 2026-05-15 |
-| HU | 148 | 2026-05-22 |
+| HU | 149 | 2026-05-22 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
 | Mannheim Kognitive Psychologie | 94 | 2026-05-15 |
-| Erfurt | 87 | 2026-05-25 |
+| Erfurt | 87 | 2026-05-27 |
 | Pavia | 81 | 2026-02-20 |
 | Leipzig | 80 | 2026-05-12 |
 | Tübingen | 80 | 2026-03-04 |
@@ -36,8 +36,8 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Hildesheim | 63 | 2026-05-06 |
+| Zurich | 57 | 2026-05-27 |
 | ULM | 55 | 2026-05-26 |
-| Zurich | 55 | 2026-05-27 |
 | Münster | 52 | 2026-05-19 |
 | Trier | 52 | 2026-04-27 |
 | Twente | 47 | 2026-05-07 |
@@ -53,7 +53,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Bochum Prolific | 23 | 2026-05-05 |
 | Lüneburg Credit | 23 | 2026-05-26 |
 | Potsdam | 20 | 2026-04-22 |
-| Lüneburg Paid | 19 | 2026-05-26 |
+| Lüneburg Paid | 19 | 2026-05-27 |
 | Bamberg | 17 | 2026-01-26 |
 | Göttingen | 17 | 2026-05-08 |
 | Bochum | 11 | 2026-05-25 |
@@ -73,7 +73,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-27 | 2026-05-27 | 6.00 | Lüneburg Paid | 3 | Zurich | 2 | Erfurt | 1 |  |  |  |  | 0 |
+| Since today 00:00 | 2026-05-27 | 2026-05-27 | 9.00 | Zurich | 4 | Lüneburg Paid | 3 | Erfurt | 1 | HU | 1 |  |  | 0 |
 | Last 3 days | 2026-05-24 | 2026-05-26 | 7.33 | LMU | 4 | Lüneburg Credit | 4 | Zurich | 4 | Potsdam Sona Cogscience | 3 | Bochum | 2 | 5 |
 | Last 7 days | 2026-05-20 | 2026-05-26 | 9.43 | Zurich | 15 | Lüneburg Credit | 10 | Lüneburg Paid | 9 | Potsdam Sona Cogscience | 7 | LMU | 6 | 19 |
 | Last 14 days | 2026-05-13 | 2026-05-26 | 10.71 | Zurich | 33 | Lüneburg Credit | 23 | Graz | 21 | Lüneburg Paid | 15 | Potsdam Sona Cogscience | 10 | 48 |
