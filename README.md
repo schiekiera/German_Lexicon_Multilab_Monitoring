@@ -47,7 +47,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | LMU | 35 | 2026-05-26 |
 | IPN | 32 | 2026-05-18 |
 | Ipu Sona | 32 | 2026-05-26 |
-| Frankfurt Sona | 31 | 2026-05-23 |
+| Frankfurt Sona | 31 | 2026-05-27 |
 | Potsdam Sona Cogscience | 30 | 2026-05-25 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Lüneburg Credit | 24 | 2026-05-27 |
