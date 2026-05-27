@@ -37,7 +37,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Marburg | 65 | 2026-01-18 |
 | Hildesheim | 63 | 2026-05-06 |
 | ULM | 55 | 2026-05-26 |
-| Zurich | 54 | 2026-05-26 |
+| Zurich | 54 | 2026-05-27 |
 | Münster | 52 | 2026-05-19 |
 | Trier | 52 | 2026-04-27 |
 | Twente | 47 | 2026-05-07 |
