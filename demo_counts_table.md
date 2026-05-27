@@ -3,7 +3,7 @@
 | IU | 516 | 2026-04-29 |
 | Frankfurt Prolific | 209 | 2026-04-14 |
 | FU | 154 | 2026-05-15 |
-| HU | 149 | 2026-05-22 |
+| HU | 149 | 2026-05-27 |
 | Hagen | 119 | 2026-04-13 |
 | Köln | 112 | 2026-03-15 |
 | Mannheim Kognitive Psychologie | 94 | 2026-05-15 |
@@ -30,8 +30,8 @@
 | Frankfurt Sona | 30 | 2026-05-23 |
 | Potsdam Sona Cogscience | 30 | 2026-05-25 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
+| Lüneburg Credit | 24 | 2026-05-26 |
 | Bochum Prolific | 23 | 2026-05-05 |
-| Lüneburg Credit | 23 | 2026-05-26 |
 | Potsdam | 20 | 2026-04-22 |
 | Lüneburg Paid | 19 | 2026-05-27 |
 | Bamberg | 17 | 2026-01-26 |
