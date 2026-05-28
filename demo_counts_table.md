@@ -27,8 +27,8 @@
 | LMU | 36 | 2026-05-28 |
 | IPN | 32 | 2026-05-18 |
 | Ipu Sona | 32 | 2026-05-26 |
+| Lüneburg Credit | 32 | 2026-05-28 |
 | Frankfurt Sona | 31 | 2026-05-27 |
-| Lüneburg Credit | 31 | 2026-05-28 |
 | Potsdam Sona Cogscience | 31 | 2026-05-28 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
 | Bochum Prolific | 23 | 2026-05-05 |
