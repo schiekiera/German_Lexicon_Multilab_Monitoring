@@ -11,8 +11,8 @@
 | Pavia | 81 | 2026-02-20 |
 | Leipzig | 80 | 2026-05-12 |
 | Tübingen | 80 | 2026-03-04 |
+| Zurich | 79 | 2026-05-29 |
 | Wuppertal | 77 | 2026-04-28 |
-| Zurich | 77 | 2026-05-29 |
 | Aachen | 71 | 2026-04-19 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
@@ -25,7 +25,7 @@
 | Graz | 45 | 2026-05-29 |
 | Potsdam Sona | 42 | 2026-04-29 |
 | Dresden | 36 | 2026-05-21 |
-| Lüneburg Credit | 33 | 2026-05-28 |
+| Lüneburg Credit | 33 | 2026-05-29 |
 | IPN | 32 | 2026-05-18 |
 | Ipu Sona | 32 | 2026-05-26 |
 | Frankfurt Sona | 31 | 2026-05-27 |
