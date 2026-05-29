@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2757
+**Total data files saved across all labs:** 2760
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2757 / 2453 (100.0%)
+[██████████████████████████████] 2760 / 2453 (100.0%)
 
 ### Table: Progress per lab
 
@@ -33,7 +33,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Tübingen | 80 | 2026-03-04 |
 | Wuppertal | 77 | 2026-04-28 |
 | Aachen | 71 | 2026-04-19 |
-| Zurich | 67 | 2026-05-28 |
+| Zurich | 68 | 2026-05-28 |
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Hildesheim | 63 | 2026-05-06 |
@@ -43,8 +43,8 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Twente | 47 | 2026-05-07 |
 | Graz | 43 | 2026-05-21 |
 | Potsdam Sona | 42 | 2026-04-29 |
+| LMU | 38 | 2026-05-28 |
 | Dresden | 36 | 2026-05-21 |
-| LMU | 36 | 2026-05-28 |
 | IPN | 32 | 2026-05-18 |
 | Ipu Sona | 32 | 2026-05-26 |
 | Lüneburg Credit | 32 | 2026-05-28 |
@@ -73,7 +73,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-29 | 2026-05-29 | 1.00 | Lüneburg Paid | 1 |  |  |  |  |  |  |  |  | 0 |
+| Since today 00:00 | 2026-05-29 | 2026-05-29 | 4.00 | LMU | 2 | Lüneburg Paid | 1 | Zurich | 1 |  |  |  |  | 0 |
 | Last 3 days | 2026-05-26 | 2026-05-28 | 16.00 | Zurich | 17 | Lüneburg Credit | 11 | Lüneburg Paid | 7 | LMU | 5 | HU | 2 | 6 |
 | Last 7 days | 2026-05-22 | 2026-05-28 | 10.43 | Zurich | 24 | Lüneburg Credit | 14 | Lüneburg Paid | 8 | LMU | 7 | Potsdam Sona Cogscience | 5 | 15 |
 | Last 14 days | 2026-05-15 | 2026-05-28 | 11.79 | Zurich | 42 | Lüneburg Credit | 31 | Lüneburg Paid | 21 | Graz | 20 | Potsdam Sona Cogscience | 9 | 42 |
