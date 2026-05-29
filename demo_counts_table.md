@@ -22,12 +22,12 @@
 | Trier | 52 | 2026-04-27 |
 | LMU | 51 | 2026-05-29 |
 | Twente | 47 | 2026-05-07 |
-| Graz | 44 | 2026-05-29 |
+| Graz | 45 | 2026-05-29 |
 | Potsdam Sona | 42 | 2026-04-29 |
 | Dresden | 36 | 2026-05-21 |
+| Lüneburg Credit | 33 | 2026-05-28 |
 | IPN | 32 | 2026-05-18 |
 | Ipu Sona | 32 | 2026-05-26 |
-| Lüneburg Credit | 32 | 2026-05-28 |
 | Frankfurt Sona | 31 | 2026-05-27 |
 | Potsdam Sona Cogscience | 31 | 2026-05-28 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
