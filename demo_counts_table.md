@@ -26,12 +26,12 @@
 | Potsdam Sona | 42 | 2026-04-29 |
 | Dresden | 36 | 2026-05-21 |
 | Lüneburg Credit | 34 | 2026-05-30 |
-| Ipu Sona | 33 | 2026-05-26 |
+| Ipu Sona | 33 | 2026-05-30 |
 | IPN | 32 | 2026-05-18 |
 | Frankfurt Sona | 31 | 2026-05-27 |
 | Potsdam Sona Cogscience | 31 | 2026-05-28 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
-| Lüneburg Paid | 26 | 2026-05-30 |
+| Lüneburg Paid | 27 | 2026-05-30 |
 | Bochum Prolific | 23 | 2026-05-05 |
 | Potsdam | 20 | 2026-04-22 |
 | Bamberg | 17 | 2026-01-26 |
