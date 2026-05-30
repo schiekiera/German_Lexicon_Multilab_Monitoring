@@ -26,8 +26,8 @@
 | Potsdam Sona | 42 | 2026-04-29 |
 | Dresden | 36 | 2026-05-21 |
 | Lüneburg Credit | 34 | 2026-05-30 |
+| Ipu Sona | 33 | 2026-05-26 |
 | IPN | 32 | 2026-05-18 |
-| Ipu Sona | 32 | 2026-05-26 |
 | Frankfurt Sona | 31 | 2026-05-27 |
 | Potsdam Sona Cogscience | 31 | 2026-05-28 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
