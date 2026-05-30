@@ -8,8 +8,8 @@
 | Köln | 112 | 2026-03-15 |
 | Mannheim Kognitive Psychologie | 94 | 2026-05-15 |
 | Erfurt | 88 | 2026-05-29 |
+| Zurich | 82 | 2026-05-30 |
 | Pavia | 81 | 2026-02-20 |
-| Zurich | 81 | 2026-05-29 |
 | Leipzig | 80 | 2026-05-12 |
 | Tübingen | 80 | 2026-03-04 |
 | Wuppertal | 77 | 2026-04-28 |
@@ -31,7 +31,7 @@
 | Frankfurt Sona | 31 | 2026-05-27 |
 | Potsdam Sona Cogscience | 31 | 2026-05-28 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
-| Lüneburg Paid | 25 | 2026-05-29 |
+| Lüneburg Paid | 25 | 2026-05-30 |
 | Bochum Prolific | 23 | 2026-05-05 |
 | Potsdam | 20 | 2026-04-22 |
 | Bamberg | 17 | 2026-01-26 |
