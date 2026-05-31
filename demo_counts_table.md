@@ -17,8 +17,8 @@
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Hildesheim | 63 | 2026-05-06 |
+| LMU | 56 | 2026-05-31 |
 | ULM | 56 | 2026-05-30 |
-| LMU | 55 | 2026-05-31 |
 | Münster | 52 | 2026-05-19 |
 | Trier | 52 | 2026-04-27 |
 | Twente | 47 | 2026-05-07 |
@@ -27,8 +27,8 @@
 | Dresden | 36 | 2026-05-21 |
 | Lüneburg Credit | 35 | 2026-05-30 |
 | Ipu Sona | 34 | 2026-05-30 |
+| Potsdam Sona Cogscience | 34 | 2026-05-31 |
 | IPN | 32 | 2026-05-18 |
-| Potsdam Sona Cogscience | 32 | 2026-05-31 |
 | Frankfurt Sona | 31 | 2026-05-27 |
 | Lüneburg Paid | 30 | 2026-05-31 |
 | Tübingen Not Sona | 29 | 2026-02-21 |

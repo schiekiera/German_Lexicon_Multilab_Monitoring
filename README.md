@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2817
+**Total data files saved across all labs:** 2820
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2817 / 2453 (100.0%)
+[██████████████████████████████] 2820 / 2453 (100.0%)
 
 ### Table: Progress per lab
 
@@ -37,8 +37,8 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Darmstadt | 65 | 2026-02-06 |
 | Marburg | 65 | 2026-01-18 |
 | Hildesheim | 63 | 2026-05-06 |
+| LMU | 56 | 2026-05-31 |
 | ULM | 56 | 2026-05-30 |
-| LMU | 55 | 2026-05-31 |
 | Münster | 52 | 2026-05-19 |
 | Trier | 52 | 2026-04-27 |
 | Twente | 47 | 2026-05-07 |
@@ -47,8 +47,8 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Dresden | 36 | 2026-05-21 |
 | Lüneburg Credit | 35 | 2026-05-30 |
 | Ipu Sona | 34 | 2026-05-30 |
+| Potsdam Sona Cogscience | 34 | 2026-05-31 |
 | IPN | 32 | 2026-05-18 |
-| Potsdam Sona Cogscience | 32 | 2026-05-31 |
 | Frankfurt Sona | 31 | 2026-05-27 |
 | Lüneburg Paid | 30 | 2026-05-31 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
@@ -73,7 +73,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-31 | 2026-05-31 | 10.00 | Zurich | 6 | Erfurt | 1 | LMU | 1 | Lüneburg Paid | 1 | Potsdam Sona Cogscience | 1 | 0 |
+| Since today 00:00 | 2026-05-31 | 2026-05-31 | 13.00 | Zurich | 6 | Potsdam Sona Cogscience | 3 | LMU | 2 | Erfurt | 1 | Lüneburg Paid | 1 | 0 |
 | Last 3 days | 2026-05-28 | 2026-05-30 | 24.00 | Zurich | 24 | LMU | 19 | Lüneburg Credit | 11 | Lüneburg Paid | 10 | Graz | 2 | 6 |
 | Last 7 days | 2026-05-24 | 2026-05-30 | 15.43 | Zurich | 34 | LMU | 23 | Lüneburg Credit | 16 | Lüneburg Paid | 14 | Ipu Sona | 4 | 17 |
 | Last 14 days | 2026-05-17 | 2026-05-30 | 13.57 | Zurich | 54 | Lüneburg Credit | 34 | Lüneburg Paid | 26 | LMU | 25 | Graz | 11 | 40 |
