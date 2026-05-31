@@ -45,7 +45,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Graz | 45 | 2026-05-29 |
 | Potsdam Sona | 42 | 2026-04-29 |
 | Dresden | 36 | 2026-05-21 |
-| Lüneburg Credit | 36 | 2026-05-30 |
+| Lüneburg Credit | 36 | 2026-05-31 |
 | Potsdam Sona Cogscience | 36 | 2026-05-31 |
 | Ipu Sona | 34 | 2026-05-30 |
 | IPN | 32 | 2026-05-18 |
