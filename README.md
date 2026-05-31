@@ -10,11 +10,11 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 ### Overall progress
 
-**Total data files saved across all labs:** 2809
+**Total data files saved across all labs:** 2810
 
 **Overall progress (Target: 2453 participants):**
 
-[██████████████████████████████] 2809 / 2453 (100.0%)
+[██████████████████████████████] 2810 / 2453 (100.0%)
 
 ### Table: Progress per lab
 
@@ -28,7 +28,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 | Köln | 112 | 2026-03-15 |
 | Mannheim Kognitive Psychologie | 94 | 2026-05-15 |
 | Erfurt | 88 | 2026-05-29 |
-| Zurich | 85 | 2026-05-31 |
+| Zurich | 86 | 2026-05-31 |
 | Pavia | 81 | 2026-02-20 |
 | Leipzig | 80 | 2026-05-12 |
 | Tübingen | 80 | 2026-03-04 |
@@ -73,7 +73,7 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 
 | Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
 |--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-05-31 | 2026-05-31 | 2.00 | Zurich | 2 |  |  |  |  |  |  |  |  | 0 |
+| Since today 00:00 | 2026-05-31 | 2026-05-31 | 3.00 | Zurich | 3 |  |  |  |  |  |  |  |  | 0 |
 | Last 3 days | 2026-05-28 | 2026-05-30 | 24.00 | Zurich | 24 | LMU | 19 | Lüneburg Credit | 11 | Lüneburg Paid | 10 | Graz | 2 | 6 |
 | Last 7 days | 2026-05-24 | 2026-05-30 | 15.43 | Zurich | 34 | LMU | 23 | Lüneburg Credit | 16 | Lüneburg Paid | 14 | Ipu Sona | 4 | 17 |
 | Last 14 days | 2026-05-17 | 2026-05-30 | 13.57 | Zurich | 54 | Lüneburg Credit | 34 | Lüneburg Paid | 26 | LMU | 25 | Graz | 11 | 40 |
