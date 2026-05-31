@@ -28,7 +28,7 @@
 | Lüneburg Credit | 36 | 2026-05-31 |
 | Potsdam Sona Cogscience | 36 | 2026-05-31 |
 | Ipu Sona | 34 | 2026-05-30 |
-| Frankfurt Sona | 32 | 2026-05-27 |
+| Frankfurt Sona | 32 | 2026-05-31 |
 | IPN | 32 | 2026-05-18 |
 | Lüneburg Paid | 32 | 2026-05-31 |
 | Tübingen Not Sona | 29 | 2026-02-21 |
