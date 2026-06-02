@@ -1,12 +1,6 @@
 # German Lexicon Multilab Monitoring
 
-This repository monitors data collection progress across all participating labs in the [German Lexicon Project](https://github.com/petrenca/German_Lexicon_Project). Dataset counts are derived from directory listings on the HU Berlin server, and data collection runs through **May 31, 2026**.
-
-## Automated output
-
-The following output is updated automatically every 10 minutes using GitHub Actions.
-
-<!-- START_DEMO_TABLE -->
+This repository monitored data collection progress across all participating labs in the [German Lexicon Project](https://github.com/petrenca/German_Lexicon_Project) from December 2025 to May 2026. Dataset counts are derived from directory listings on the HU Berlin server, and data collection ran through **May 31, 2026**.
 
 ### Overall progress
 
@@ -68,16 +62,3 @@ The following output is updated automatically every 10 minutes using GitHub Acti
 ### Plot: New datasets collected per day
 
 ![New datasets collected per day](plots/new_datasets_per_day.png)
-
-### Table: Average new datasets per day (rolling windows)
-
-| Window | Start | End |  M(data/day) | Rank_1 | n_1 | Rank_2 | n_2 | Rank_3 | n_3 | Rank_4 | n_4 | Rank_5 | n_5 | n_Rest |
-|--------|-------|-----|----------------------|---|----|---|----|---|----|---|----|---|----|--------|
-| Since today 00:00 | 2026-06-02 | 2026-06-02 | 0.00 |  |  |  |  |  |  |  |  |  |  | 0 |
-| Last 3 days | 2026-05-30 | 2026-06-01 | 12.67 | Zurich | 12 | Lüneburg Paid | 8 | Potsdam Sona Cogscience | 5 | LMU | 4 | Lüneburg Credit | 3 | 6 |
-| Last 7 days | 2026-05-26 | 2026-06-01 | 17.43 | Zurich | 42 | LMU | 25 | Lüneburg Paid | 17 | Lüneburg Credit | 15 | Potsdam Sona Cogscience | 6 | 17 |
-| Last 14 days | 2026-05-19 | 2026-06-01 | 13.57 | Zurich | 57 | Lüneburg Credit | 30 | LMU | 27 | Lüneburg Paid | 27 | Potsdam Sona Cogscience | 13 | 36 |
-| Last 30 days | 2026-05-03 | 2026-06-01 | 12.60 | Zurich | 92 | Lüneburg Credit | 36 | Graz | 34 | Lüneburg Paid | 32 | LMU | 27 | 157 |
-
-<!-- END_DEMO_TABLE -->
-
